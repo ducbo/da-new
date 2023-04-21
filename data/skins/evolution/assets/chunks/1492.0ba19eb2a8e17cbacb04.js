@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[1492],{"./js/pages/logout.vue":function(v,n,e){e.r(n),e.d(n,{default:function(){return d}});var o=e("./js/context/index.ts"),t={beforeRouteEnter(){o.T.session.logout()},render:()=>null},l=t,u=e("../node_modules/vue-loader/lib/runtime/componentNormalizer.js"),s,r,a=(0,u.Z)(l,s,r,!1,null,null,null),d=a.exports}}]);

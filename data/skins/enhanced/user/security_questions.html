@@ -1,0 +1,48 @@
+|?TREE=&raquo; <a class=tree href="/CMD_SECURITY_QUESTIONS">`LANG_SECURITY_QUESTIONS`</a>|
+|HTM_HEADER_FULL|
+
+<b>|LANG_SECURITY_QUESTIONS|</b><br>
+
+|*if SECURITY_QUESTIONS_CHECKED=""|
+<br><b>|LANG_FEATURE_OFF|</b><br>
+|*endif|
+
+<br>
+
+<b>
+  Security Questions are deprecated, use
+  <a href="CMD_TWOSTEP_AUTH" style="text-decoration: underline">
+    Two-Step Authentication
+  </a>
+  instead.
+</b>
+<br>
+
+|*if SECURITY_QUESTIONS_ON_API_CHECKED="checked"|
+|?SECURITY_QUESTIONS_ON_API_VALUE=yes|
+|*else|
+|?SECURITY_QUESTIONS_ON_API_VALUE=no|
+|*endif|
+
+|*if NOTIFY_ON_ALL_FAILURES_CHECKED="checked"|
+|?NOTIFY_ON_ALL_FAILURES_VALUE=yes|
+|*else|
+|?NOTIFY_ON_ALL_FAILURES_VALUE=no|
+|*endif|
+
+|*if SECURITY_QUESTIONS_CHECKED="checked"|
+<br>
+<form name="tableform3" action='CMD_SECURITY_QUESTIONS' method='POST'>
+  <input type="hidden" name="action" value="settings" />
+  <input type="hidden" name="version" value="1" />
+  <input type="hidden" name="security_questions" value="no">
+  <input type="hidden" name="api_with_password" value="|SECURITY_QUESTIONS_ON_API_VALUE|">
+  <input type="hidden" name="notify_on_all_question_failures" value="|NOTIFY_ON_ALL_FAILURES_VALUE|">
+  <button type="submit">Disable</button>
+</form>
+|*endif|
+
+|USER_QUESTIONS|
+
+<br><br>
+|HTM_FOOTER_FULL|

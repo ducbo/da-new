@@ -1,0 +1,67 @@
+#!/bin/bash
+
+# chkconfig: 2345 11 50
+# description: Load ip's into the network device
+
+### BEGIN INIT INFO
+# Provides:          startips
+# Required-Start:    $local_fs $network
+# Required-Stop:     $local_fs
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: startips
+# Description:       script to load in fresh IPs
+### END INIT INFO
+
+case "$1" in
+	stop)
+		exit 0
+		;;
+esac
+
+if command -v ip > /dev/null; then
+	if ! ip route show | grep -q "default"; then
+		echo "startips: default route not found - sleeping for 10s"
+		sleep 10
+		if ! ip route show | grep -q "default"; then
+			echo "startips: secondary attempt to find default route failed, no DirectAdmin additional IPs will be added"
+			exit 1
+		fi
+	fi
+fi
+
+DIRECTADMIN_HOME=/usr/local/directadmin
+DIRECTADMIN_BIN="${DIRECTADMIN_HOME}/directadmin"
+DIRECTADMIN_CONF="${DIRECTADMIN_HOME}/conf/directadmin.conf"
+
+IPDIR="${DIRECTADMIN_HOME}/data/admin/ips"
+IPLIST="${DIRECTADMIN_HOME}/data/admin/ip.list"
+
+ADDIP=$("${DIRECTADMIN_BIN}" config | grep -m1 "^addip=" | cut -d= -f2)
+if [ -z "${ADDIP}" ]; then
+	ADDIP="${DIRECTADMIN_HOME}/scripts/addip"
+fi
+
+if [ -s "${DIRECTADMIN_CONF}" ] && [ -x "${DIRECTADMIN_BIN}" ]; then
+	ETH_DEV=$(${DIRECTADMIN_BIN} config | grep "^ethernet_dev=" | cut -d= -f2)
+	if [ -z "${ETH_DEV}" ]; then
+		ETH_DEV=$(ip route show | awk '/^default/ && NR==1 {print $5}')
+	fi
+fi
+
+while read -r IP; do
+	NETMASK=$(grep -m1 "^netmask=" "${IPDIR}/${IP}" | cut -d= -f2);
+	if [ -z "${NETMASK}" ]; then
+		if echo "${IP}" | grep -q ':'; then
+			NETMASK=/64
+		else
+			NETMASK=255.255.255.0
+		fi
+	fi
+	"${ADDIP}" "${IP}" "${NETMASK}" "${ETH_DEV}" >/dev/null
+done < "${IPLIST}"
+
+echo "action=named&value=restart" >> "${DIRECTADMIN_HOME}/data/task.queue"
+
+exit 0
+

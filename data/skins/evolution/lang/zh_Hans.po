@@ -1,0 +1,10108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chinese (Simplified) (DirectAdmin)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-04 12:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <https://translate.directadmin.com/"
+"projects/directadmin/evolution-skin/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.2\n"
+
+msgid " "
+msgstr " "
+
+msgid " %s of the month"
+msgstr " 本月 %s 日"
+
+msgid " Select IP address used for restore."
+msgstr " 选择恢复备份所使用的IP地址。"
+
+msgid ", %s days before the last day of the month"
+msgstr ", 每月倒数第 %s 天"
+
+msgid ", %s through %s"
+msgstr ", %s 到 %s"
+
+msgid ", and on %s"
+msgstr "，并且在 %s"
+
+msgid ", between day %s and %s of the month"
+msgstr "，在该月的第 %s 天和第 %s 天之间"
+
+msgid ", every %s days"
+msgstr ", 每 %s 天"
+
+msgid ", every %s days of the week"
+msgstr ", 每周 %s 天"
+
+msgid ", every %s months"
+msgstr ", 每 %s 个月"
+
+msgid ", every %s years"
+msgstr "，每 %s 年"
+
+msgid ", every day"
+msgstr "，每天"
+
+msgid ", every hour"
+msgstr "，每隔一小时"
+
+msgid ", on day %s of the month"
+msgstr "，在该月的第 %s 天"
+
+msgid ", on the "
+msgstr "，在 "
+
+msgid ", on the %s of the month"
+msgstr "，在该月的 %s 日"
+
+msgid ", on the last %s of the month"
+msgstr ", 在本月的最后 %s 天"
+
+msgid ", on the last day of the month"
+msgstr "，在该月的最后一天"
+
+msgid ", on the last weekday of the month"
+msgstr ", 在该月的最后一个工作日"
+
+msgid ", only in %s"
+msgstr "，仅在 %s"
+
+msgid ", only on %s"
+msgstr "，仅在 %s"
+
+msgid ", starting %s"
+msgstr "，从 5 日开始"
+
+msgid ": original subject"
+msgstr "：初始主题"
+
+msgid "..."
+msgstr "..."
+
+msgid "./build rewrite_confs"
+msgstr "./build rewrite_confs"
+
+msgid "( Today: %{ sent } )"
+msgstr "( 今日: %{ sent } )"
+
+msgid "(%{databaseCount} / %{databaseLimit} databases used)"
+msgstr "(%{databaseCount} / %{databaseLimit} 已使用数据库)"
+
+msgid "(pointers)"
+msgstr "(域名指向)"
+
+msgid "(skip suspended)"
+msgstr "跳过暂停"
+
+msgid "(VPS Only)"
+msgstr "仅 VPS"
+
+#, fuzzy
+msgid "{ %s } second"
+msgid_plural "%{ s } seconds"
+msgstr[0] "%{n} 秒"
+
+msgid ""
+"* Note: Making modifications to the MX records can potentially disable all "
+"of your email accounts from receiving mail."
+msgstr "*注意：对 MX 记录进行修改可能会禁止您的所有电子邮件帐户接收邮件."
+
+msgid "/ Day"
+msgstr "/天"
+
+msgid "# of DBs"
+msgstr "数据库数量"
+
+msgid "# of domains"
+msgstr "域名数量"
+
+msgid "# of Domains"
+msgstr "域名数量"
+
+msgid "# of free IPs"
+msgstr "可用IP数量"
+
+msgid "# of IPs"
+msgstr "IP数量"
+
+msgid "# of MySQL DBs"
+msgstr "MySQL数据库数量"
+
+msgid "# of Resellers"
+msgstr "分销者数量"
+
+msgid "# of Subdomains"
+msgstr "子域名数量"
+
+msgid "# of Users"
+msgstr "用户数量"
+
+msgid "% Disk Usage to create Backups."
+msgstr "% 磁盘用来创建备份。"
+
+msgid "% of partition usage"
+msgstr "%分区使用"
+
+msgid "%{ count } day"
+msgid_plural "%{ count } days"
+msgstr[0] "%{ count } 天"
+
+msgid "%{ count } hour"
+msgid_plural "%{ count } hours"
+msgstr[0] "%{ count } 小时"
+
+msgid "%{ count } minute"
+msgid_plural "%{ count } minutes"
+msgstr[0] "%{ count } 分钟"
+
+msgid "%{ count } month"
+msgid_plural "%{ count } months"
+msgstr[0] "%{ count } 个月"
+
+msgid "%{ count } second"
+msgid_plural "%{ count } seconds"
+msgstr[0] "%{ count } 秒"
+
+msgid "%{ count } week"
+msgid_plural "%{ count } weeks"
+msgstr[0] "%{ count } 周"
+
+msgid "%{ count } year"
+msgid_plural "%{ count } years"
+msgstr[0] "%{ count } 年"
+
+msgid "%{ filename } customization for %{ domain }"
+msgstr "%{ filename } 定制 %{ domain }"
+
+msgid "%{ limit } / Day"
+msgstr "%{ limit } / 天"
+
+msgid "%{ log } is %{ size }"
+msgstr "%{ log } 为 %{ size }"
+
+#, fuzzy
+msgid "%{ n } issue"
+msgid_plural "%{ n } issues"
+msgstr[0] "%{ log } 为 %{ size }"
+
+msgid "%{ n } new ticket created"
+msgid_plural "%{ n } new tickets created"
+msgstr[0] "创建了 %{ n } 个新工单"
+
+msgid "%{ name } and %{nusers } user"
+msgid_plural "%{ name } and %{nusers } users"
+msgstr[0] "%{ name } 和 %{nusers } 用户"
+
+msgid "%{ selected }/%{ total } selected"
+msgstr "已选中 %{ selected }/%{ total }"
+
+msgid "%{ sent } (Today: %{ today } / %{ limit })"
+msgstr "%{ sent } (今天: %{ today } / %{ limit })"
+
+msgid "%{ version } (build %{ commit })"
+msgstr "%{ version } (build %{ commit })"
+
+#, fuzzy
+msgid "%{d} day"
+msgid_plural "%{d} days"
+msgstr[0] "%{n} 天"
+
+#, fuzzy
+msgid "%{days} day"
+msgid_plural "%{days} days"
+msgstr[0] "%{n} 天"
+
+msgid "%{domains} and %{n} more domain"
+msgid_plural "%{domains} and %{n} more domains"
+msgstr[0] "%{domains} 和另外 %{n} 个域名"
+
+msgid "%{freeIPs} Free IP"
+msgid_plural "%{freeIPs} Free IPs."
+msgstr[0] "%{freeIPs} 个空闲IP"
+
+#, fuzzy
+msgid "%{h} hour"
+msgid_plural "%{h} hours"
+msgstr[0] "%{n} 小时"
+
+#, fuzzy
+msgid "%{hours} hour"
+msgid_plural "%{hours} hours"
+msgstr[0] "%{n} 小时"
+
+#, fuzzy
+msgid "%{m} minute"
+msgid_plural "%{m} minutes"
+msgstr[0] "%{n} 分钟"
+
+#, fuzzy
+msgid "%{minutes} minute"
+msgid_plural "%{minutes} minutes"
+msgstr[0] "%{n} 分钟"
+
+msgid "%{n} addition and"
+msgid_plural "%{n} additions and"
+msgstr[0] "%{n} 附加及"
+
+msgid "%{n} changed file with"
+msgid_plural "%{n} changed files with"
+msgstr[0] "%{n} 更改的文件"
+
+msgid "%{n} day"
+msgid_plural "%{n} days"
+msgstr[0] "%{n} 天"
+
+msgid "%{n} deletion."
+msgid_plural "%{n} deletions."
+msgstr[0] "%{n} 个已删除。"
+
+msgid "%{n} file"
+msgid_plural "%{n} files"
+msgstr[0] "%{n} 个文件"
+
+msgid "%{n} files did not pass file size limit (%{ limit })"
+msgstr "%{n} 个文件未通过文件大小限制 (%{ limit })"
+
+msgid "%{n} folder"
+msgid_plural "%{n} folders"
+msgstr[0] "%{n} 个文件夹"
+
+msgid "%{n} hour"
+msgid_plural "%{n} hours"
+msgstr[0] "%{n} 小时"
+
+msgid "%{n} minute"
+msgid_plural "%{n} minutes"
+msgstr[0] "%{n} 分钟"
+
+msgid "%{n} month"
+msgid_plural "%{n} months"
+msgstr[0] "%{n} 个月"
+
+msgid "%{n} new message"
+msgid_plural "%{n} new messages"
+msgstr[0] "%{n} 条新消息"
+
+msgid "%{n} second"
+msgid_plural "%{n} seconds"
+msgstr[0] "%{n} 秒"
+
+msgid "%{n} year"
+msgid_plural "%{n} years"
+msgstr[0] "%{n} 年"
+
+msgid "%{name}-digest"
+msgstr "%{name}-摘要"
+
+msgid "%{root} + %{n} more target"
+msgid_plural "%{root} + %{n} more targets"
+msgstr[0] "%{root} + %{n} 更多目标"
+
+msgid "%{user } limit hits"
+msgstr "%{user } 限制数"
+
+msgid "© %{ year } JBMC Software"
+msgstr "© %{ year } JBMC Software"
+
+msgid "∞"
+msgstr "∞"
+
+msgid "0 = never"
+msgstr "0 = 从不"
+
+msgid "0 = off, 100 = always on"
+msgstr "0 = 关闭, 100 = 始终开启"
+
+msgid "0-23"
+msgstr "0-23"
+
+msgid "0-59"
+msgstr "0-59"
+
+#, fuzzy
+msgid "0-7; 0, 7 = Sunday"
+msgstr "0-7；0和7均可用作星期日"
+
+msgid "0-7. 0,7 - Sunday"
+msgstr "0-7；0和7均可用作星期日"
+
+msgid "0–7; 0, 7 = Sunday"
+msgstr "0-7；0和7均可用作星期日"
+
+msgid "0–7; 0,7 = Sunday"
+msgstr "0-7；0和7均可用作星期日"
+
+msgid "1 day"
+msgstr "1 天"
+
+msgid "1 Day"
+msgstr "1天"
+
+msgid "1 hour"
+msgstr "1 小时"
+
+#, fuzzy
+msgid "1 min.: %{ load_1 } | 5 min.: %{ load_5 } | 15 min.: %{ load_15 }"
+msgstr "1 分钟.: %{ load_1 } | 5 分钟.: %{ load_5 } | 15 分钟.: %{ load_15 }"
+
+msgid "1 minute"
+msgstr "1 分钟"
+
+msgid "1 Month"
+msgstr "1个月"
+
+msgid "1 Week"
+msgstr "1周"
+
+msgid "1-12"
+msgstr "1-12"
+
+msgid "1-31"
+msgstr "1-31"
+
+msgid "1-50, no decimals"
+msgstr "1-50, 无小数"
+
+msgid "10 minutes"
+msgstr "10 分钟"
+
+msgid "10 seconds"
+msgstr "10秒"
+
+msgid "10s"
+msgstr "10秒"
+
+msgid "111.111.111.111-114"
+msgstr ""
+
+msgid "12 Months"
+msgstr "12个月"
+
+msgid "1234 or 1234-1239"
+msgstr "1234 或 1234-1239"
+
+msgid "15 minutes"
+msgstr "15 分钟"
+
+#, fuzzy
+msgid "15 seconds"
+msgstr "10秒"
+
+msgid "1m"
+msgstr "1 分钟"
+
+msgid "2 Days"
+msgstr "2 天数"
+
+msgid "2 minutes"
+msgstr "2 分钟"
+
+#, fuzzy
+msgid "2 seconds"
+msgstr "秒"
+
+msgid "2 Weeks"
+msgstr "2周"
+
+msgid "24H"
+msgstr "24时制"
+
+msgid "3 days"
+msgstr "3 天数"
+
+#, fuzzy
+msgid "3 seconds"
+msgstr "30 秒"
+
+msgid "30 minutes"
+msgstr "30 分钟"
+
+msgid "30 seconds"
+msgstr "30 秒"
+
+msgid "301 — Permanent"
+msgstr "301 — 永久重定向"
+
+msgid "302 — Temporary"
+msgstr "302 — 暂时重定向"
+
+msgid "303 — Replaced"
+msgstr "303 — 已替换"
+
+msgid "4 hour"
+msgstr "4 小时"
+
+#, fuzzy
+msgid "4 seconds"
+msgstr "秒"
+
+msgid "401 Unauthorized"
+msgstr "401 未授权"
+
+msgid "403 Forbidden"
+msgstr "403 内容禁止"
+
+msgid "404 Error"
+msgstr "404 错误"
+
+msgid "404 Not Found"
+msgstr "404 未找到"
+
+msgid "5 minutes"
+msgstr "5 分钟"
+
+#, fuzzy
+msgid "5 seconds"
+msgstr "秒"
+
+msgid "500 Internal Server Error"
+msgstr "500 内部服务器错误"
+
+msgid "5m"
+msgstr "5 分钟"
+
+msgid "6 Months"
+msgstr "6个月"
+
+msgid "7 days"
+msgstr "7 天数"
+
+msgid "99+"
+msgstr ""
+
+msgid ""
+"A higher threshold will let more spam through, but is less likely to tag "
+"legitimate mail."
+msgstr "较高的阈值会让更多的垃圾邮件通过, 但能减少正常邮件被标记为垃圾邮件的机率。"
+
+msgid "A label to manage the keys. This is not the login username. (a-zA-Z0-9)"
+msgstr "用于管理密钥的标签。这不是登录用户名。 (a-zA-Z0-9)"
+
+msgid ""
+"A lower threshold will block more spam, but can potentially tag legitimate "
+"mail."
+msgstr "较低的阈值会拦截更多的垃圾邮件, 但会增加正常邮件被标记为垃圾邮件的机率。"
+
+msgid "Abort"
+msgstr "中止"
+
+msgid "Abort Upload"
+msgstr "中止上传"
+
+msgid "about %{ count } hour"
+msgid_plural "about %{ count } hours"
+msgstr[0] "大约 %{ count } 小时"
+
+msgid "about %{ count } month"
+msgid_plural "about %{ count } months"
+msgstr[0] "大约 %{ count } 个月"
+
+msgid "about %{ count } week"
+msgid_plural "about %{ count } weeks"
+msgstr[0] "大约 %{ count } 周"
+
+msgid "about %{ count } year"
+msgid_plural "about %{ count } years"
+msgstr[0] "大约 %{ count } 年"
+
+msgid "Abuse"
+msgstr "滥用"
+
+msgid "Accepted type:"
+msgid_plural "Accepted types:"
+msgstr[0] "接受类型："
+
+#, fuzzy
+msgid "Access"
+msgstr "已访问"
+
+msgid "Access Denied"
+msgstr "拒绝访问"
+
+msgid "Access host"
+msgid_plural "Access hosts"
+msgstr[0] "授权访问的主机"
+
+msgid "Access Host"
+msgstr "授权访问的主机"
+
+msgid "Access Hosts"
+msgstr "授权访问的主机"
+
+msgid "Access Level"
+msgstr "访问级别"
+
+msgid "Access Level:"
+msgstr "访问级别："
+
+msgid "Accessed"
+msgstr "已访问"
+
+msgid "Accessed:"
+msgstr "已访问:"
+
+msgid "account"
+msgid_plural "accounts"
+msgstr[0] "账号"
+
+msgid "Account"
+msgstr "账号"
+
+msgid "Account Configuration"
+msgstr "帐号设置"
+
+msgid "Account Info"
+msgstr "帐号信息"
+
+msgid "Account Manager"
+msgstr "账号管理"
+
+msgid "Account modified"
+msgstr "修改账号"
+
+#, fuzzy
+msgid "Account not found"
+msgstr "帐号信息"
+
+#, fuzzy
+msgid "Account role mismatch"
+msgstr "要导入的帐户"
+
+msgid "Account was successfully deleted"
+msgid_plural "Accounts was successfully deleted"
+msgstr[0] "账号已成功删除"
+
+msgid "Account was successfully suspended"
+msgid_plural "Accounts was successfully suspended"
+msgstr[0] "账号已成功暂停"
+
+msgid "Account was successfully unsuspended"
+msgid_plural "Accounts was successfully unsuspended"
+msgstr[0] "账号已成功取消暂停"
+
+msgid "Accounts"
+msgstr "账号"
+
+msgid "Accounts and usage information"
+msgstr "账户用量信息"
+
+msgid "Accounts to import"
+msgstr "要导入的帐户"
+
+msgid "ACME in use. Auto Renewal in %{n} Days."
+msgstr "ACME 正在使用中. %{n} 天后自动续订."
+
+msgid "ACME Provider"
+msgstr "ACME 提供商"
+
+msgid "Action for filter matches:"
+msgstr "筛选器匹配的操作："
+
+msgid "Actions"
+msgstr "操作"
+
+msgid "Activate"
+msgstr "启用"
+
+msgid "Activated"
+msgstr "已启用"
+
+msgid "Active"
+msgstr "启用"
+
+msgid "Active databases"
+msgstr "启用的数据库"
+
+msgid "Active Since"
+msgstr "账号创建于"
+
+msgid "Activity"
+msgstr "活动"
+
+msgid "Adapt the look of the skin to your own needs."
+msgstr "根据自己的需要调整皮肤的外观。"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add Additional IP"
+msgstr "添加附加IP"
+
+msgid "Add an E-mail Address to the list"
+msgstr "添加一个电子邮件地址到列表"
+
+msgid "Add Another IP"
+msgstr "添加另一个IP"
+
+msgid ""
+"Add any other server hostname that may deliver or relay mail for this domain"
+msgstr "添加可能为此域传递或中继邮件的任何其他服务器主机名"
+
+msgid "Add Codes"
+msgstr "添加代码"
+
+msgid "Add Destination"
+msgstr "添加目标"
+
+msgid "Add DNS records for this IP"
+msgstr "为此 IP 添加 DNS 记录"
+
+msgid "Add DNS Zone"
+msgstr "添加DNS Zone"
+
+msgid "Add domain"
+msgstr "添加域名"
+
+msgid "Add Existing User"
+msgstr "添加现有用户"
+
+msgid "Add file to queue"
+msgstr "添加文件到队列"
+
+msgid "Add IP"
+msgstr "添加IP"
+
+msgid "Add IP Address"
+msgstr "添加IP地址"
+
+msgid "Add Mime Type"
+msgstr "添加Mime类型"
+
+msgid "Add My Domains"
+msgstr "添加域名"
+
+msgid "Add New"
+msgstr "新增"
+
+msgid "Add New Apache Handler"
+msgstr "添加新的Apache处理器"
+
+msgid "Add New Domain Pointer"
+msgstr "添加新的域名指向"
+
+#, fuzzy
+msgid "Add new entry to this category"
+msgstr "添加新分类"
+
+msgid "Add New IP"
+msgstr "添加新的IP"
+
+msgid "Add New Mime Type"
+msgstr "添加新的Mime类型"
+
+msgid "Add New Override"
+msgstr "添加新覆盖"
+
+msgid "Add New Redirect"
+msgstr "添加新的域名重定向"
+
+msgid "Add New Server"
+msgstr "添加服务器"
+
+msgid "Add New Subdomain"
+msgstr "添加新的子域名"
+
+msgid "Add new User"
+msgstr "添加新用户"
+
+msgid "Add New User"
+msgstr "添加新用户"
+
+msgid "Add New Widget"
+msgstr "添加新的组件"
+
+msgid "Add Option"
+msgstr "添加选项"
+
+msgid "Add or remove widgets from dashboard for selected users"
+msgstr "为选定的用户添加或删除仪表板上的小部件"
+
+msgid "Add Package"
+msgstr "添加套餐"
+
+msgid "Add Plugin"
+msgstr "添加插件"
+
+msgid "Add Protected Directory"
+msgstr "添加受保护的目录"
+
+msgid "Add Record"
+msgstr "添加记录"
+
+msgid "Add Scratch Codes"
+msgstr "添加Scratch Code"
+
+msgid "Add Search Filter"
+msgstr "添加搜索筛选器"
+
+msgid "Add Subdomain"
+msgstr "添加子域名"
+
+msgid "Add Subscriber"
+msgstr "添加订阅者"
+
+msgid "Add Template"
+msgstr "添加模板"
+
+msgid "Add the code to be inserted into the CUSTOM tokens."
+msgstr "添加要插入CUSTOM标记的代码。"
+
+msgid "Add to"
+msgstr "添加到"
+
+msgid "Add to Apache"
+msgstr "添加到Apache"
+
+msgid "Add to archive"
+msgstr "添加到存档"
+
+msgid "Add to blacklist"
+msgstr "添加到黑名单"
+
+msgid "Add to Blacklist"
+msgstr "添加到黑名单"
+
+msgid "Add to device"
+msgstr "添加到设备"
+
+msgid "Add to DNS"
+msgstr "添加到DNS"
+
+msgid "Add to skip list"
+msgstr "添加到跳过列表"
+
+msgid "Add to Skip List"
+msgstr "添加到跳过列表"
+
+msgid "Add to:"
+msgstr "添加到:"
+
+msgid "Add User"
+msgstr "添加用户"
+
+msgid "Add user home directories to directory list"
+msgstr "将用户主目录添加到目录列表"
+
+msgid "Add Widget"
+msgstr "添加组件"
+
+msgid "Added to Apache"
+msgstr "已添加到Apache"
+
+msgid "Added to DNS"
+msgstr "已添加到DNS"
+
+msgid "Additional Bandwidth"
+msgstr "额外流量"
+
+msgid "Additional Bandwidth: %{ amount }"
+msgstr "额外流量：％{amount}"
+
+msgid "Additional CUSTOM tokens"
+msgstr "其他自定义令牌"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Address:"
+msgstr "地址："
+
+msgid "Admin"
+msgstr "管理员"
+
+msgid "Admin Account Name"
+msgstr "管理员帐户名"
+
+msgid "Admin Backup/Transfer"
+msgstr "管理员备份/传输"
+
+msgid "Admin Backups"
+msgstr "管理备份"
+
+msgid "Admin Email"
+msgstr "管理员电子邮件"
+
+msgid "Admin History"
+msgstr "管理员历史"
+
+msgid "Admin Password"
+msgstr "管理员密码"
+
+msgid "Admin Plugins"
+msgstr "管理员插件"
+
+msgid "Admin Settings"
+msgstr "管理员设置"
+
+msgid "Admin SSL"
+msgstr "管理员 SSL"
+
+msgid "Admin Stats"
+msgstr "管理员统计"
+
+msgid "Admin Tools"
+msgstr "管理员工具"
+
+msgid "Admin: %{ username }"
+msgstr "管理员：%{ username }"
+
+msgid "Admin: %{ username } and %{ nusers } user"
+msgid_plural "Admin: %{ username } and %{ nusers } users"
+msgstr[0] "管理员: %{ username } 和 %{ nusers } 用户"
+
+#, fuzzy
+msgid "Administrate & automate SSL certificates (Pro Pack)"
+msgstr "自动 SSL 证书信息"
+
+msgid "Administrator Settings"
+msgstr "管理员设置"
+
+msgid "Administrivia"
+msgstr "行政区"
+
+msgid "Admins"
+msgstr "管理员"
+
+msgid "Admins Count"
+msgstr "管理员数量"
+
+msgid "Adult Filter:"
+msgstr "过滤成人内容："
+
+msgid "Advanced"
+msgstr "高级设置"
+
+msgid "Advanced Features"
+msgstr "高级功能"
+
+msgid "Advanced Options"
+msgstr "高级设置"
+
+msgid "Affect Pointers"
+msgstr "影响指向"
+
+msgid "after"
+msgstr "后"
+
+msgid "Aggregate Email (RUA)"
+msgstr "聚合电子邮件（RUA）"
+
+msgid "Alias"
+msgstr "别名"
+
+msgid "Alignment mode for DKIM"
+msgstr "DKIM Alignment 模式"
+
+msgid "Alignment mode for SPF"
+msgstr "SPF Alignment 模式"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All Accounts on the Server"
+msgstr "服务器上的所有帐户"
+
+msgid "All Data"
+msgstr "所有数据"
+
+msgid "All Domains"
+msgstr "所有域名"
+
+msgid "All domains selected"
+msgstr "所有已选择域名"
+
+msgid "All Email Accounts"
+msgstr "所有邮件账号"
+
+msgid "All Logs"
+msgstr "所有日志"
+
+msgid "All Month(cgi)"
+msgstr "所有月份(cgi)"
+
+msgid "All of Your Users"
+msgstr "当前账号下的所有用户"
+
+msgid "All Resellers"
+msgstr "所有经销商"
+
+msgid "All User Cron Jobs"
+msgstr "所有用户Cron作业"
+
+msgid "all users"
+msgstr "所有用户"
+
+msgid "All Users"
+msgstr "所有用户"
+
+msgid "All users except selected"
+msgstr "除选中以外的所有用户"
+
+msgid "All Users Except Selected"
+msgstr "除选中以外的所有用户"
+
+msgid "All Users Except Selected Users"
+msgstr "除选中用户外的所有用户"
+
+msgid "All Users Except:"
+msgstr "所有除以下用户的用户："
+
+msgid "Allocated"
+msgstr "分配"
+
+msgid "Allow"
+msgstr "允许"
+
+msgid ""
+"Allow a Reseller to Backup/Restore their Users(Separate from User Backup/"
+"Restore)"
+msgstr "允许分销者备份及还原其用户数据（独立于用户备份/还原）"
+
+msgid "Allow All"
+msgstr "允许全部"
+
+msgid "Allow any hostname ending in %{ domain } to send email for this domain"
+msgstr "允许任何以 %{ domain } 结尾的域名来为这个域名发送邮件"
+
+msgid ""
+"Allow API logins with the current User/password. Login Keys and Session Keys "
+"are always allowed."
+msgstr "允许使用当前用户/密码登陆API。这个设置不会影响登陆Key和会话Key的登陆。"
+
+msgid "Allow Blank Referrer"
+msgstr "允许空白来源"
+
+msgid "Allow current IP address of the domain to send email for this domain"
+msgstr "允许域名当前IP地址为此域名发送电子邮件"
+
+msgid "Allow HTM:"
+msgstr "允许 HTM:"
+
+msgid "Allow Login:"
+msgstr "允许登录："
+
+msgid "Allow Overselling"
+msgstr "允许超售"
+
+msgid "Allow Reseller to create sites with server IP"
+msgstr "允许经销商使用服务器IP创建网站"
+
+msgid "Allow Selected"
+msgstr "允许选中项目"
+
+msgid "Allow servers listed as MX to send email for this domain"
+msgstr "允许列为MX的服务器为此域名发送电子邮件"
+
+msgid ""
+"Allow the latest version of DirectAdmin to be pushed to this server, as "
+"needed."
+msgstr "根据需要，允许将最新版本的 DirectAdmin 推送到该服务器。"
+
+msgid "Allow Users with less than"
+msgstr "允许用户有少于"
+
+msgid ""
+"Allow using key to log into DirectAdmin web interface, when not enabled "
+"login key can only be used for API access."
+msgstr ""
+
+msgid "Allow:"
+msgstr "允许："
+
+msgid "Allowed E-mail"
+msgstr "允许的电子邮件"
+
+msgid "Allowed IPs:"
+msgstr "允许的IP："
+
+#, fuzzy
+msgid "Allowed Networks"
+msgstr "允许的IP："
+
+msgid "almost %{ count } year"
+msgid_plural "almost %{ count } years"
+msgstr[0] "将近 %{ count } 年"
+
+msgid "Already allowed"
+msgstr "已被允许"
+
+msgid "Already blocked"
+msgstr "已被拦截"
+
+msgid "Already exists"
+msgstr "已存在"
+
+msgid "Already in the list"
+msgstr "已在列表中"
+
+msgid ""
+"Although an E-Mail could have unlimited sends, the send limit cannot exceed "
+"the DA User's limit."
+msgstr ""
+
+msgid "Amount"
+msgstr "数量"
+
+msgid "Amount / Size"
+msgstr "数量 / 大小"
+
+msgid ""
+"An error occured when generating the expression description.  Check the cron "
+"expression syntax."
+msgstr "生成表达式描述时出错，请检查 cron 表达式语法。"
+
+msgid "and"
+msgstr "和"
+
+msgid "and %{n} more..."
+msgstr ""
+
+msgid "Anonymous FTP"
+msgstr "匿名 FTP"
+
+msgid "Anonymous FTP Accounts"
+msgstr "匿名 FTP 账号"
+
+msgid "Anonymous FTP Settings"
+msgstr "匿名 FTP 设置"
+
+msgid "Any"
+msgstr "任意"
+
+msgid "Any domain that will be searched for a match"
+msgstr "将搜索匹配项的任何域名"
+
+msgid "Any e-mail from these addresses will automatically be tagged as spam."
+msgstr "来自这些地址的任何电子邮件都会自动标记为垃圾邮件。"
+
+msgid "Anything"
+msgstr "任何"
+
+msgid "Apache"
+msgstr "Apache"
+
+msgid "Apache Handlers"
+msgstr "Apache 处理程序"
+
+msgid "API Documentation"
+msgstr "API 文档"
+
+msgid "App"
+msgstr "APP"
+
+msgid "Apparent Usage:"
+msgstr "显性占用："
+
+msgid "Appears at the end of the virtualHost."
+msgstr "出现在虚拟主机末尾。"
+
+msgid "Appears at the very top of the template, before setting the variables."
+msgstr "添加在模板的最顶部，变量定义之前."
+
+msgid ""
+"Appears in ALL context{} sections, used for password protected directories."
+msgstr "放在所有context{} section里以用于密码保护目录."
+
+msgid "Appears in ALL location / sections. Use the LOCATION token."
+msgstr "出现在所有位置/部分中，使用位置令牌。"
+
+msgid "Appears in phpIniOverride{} section."
+msgstr "放在phpIniOverride{} section里."
+
+msgid "Appears in rewrite{} section."
+msgstr "在 rewrite{} 部分显示."
+
+msgid "Appears in scripthandler{} section."
+msgstr "放在scripthandler{} section里."
+
+msgid "Appears in vhssl{} section."
+msgstr "放在vhssl{} section里."
+
+msgid "Appears just before the <Directory> section."
+msgstr "在 <Directory> section 上方."
+
+msgid "Appears just before the webapps include."
+msgstr "显示在 webapps include 上方。"
+
+msgid "Append"
+msgstr "追加"
+
+msgid "Application"
+msgstr "应用"
+
+msgid "Application Options"
+msgstr "应用程序选项"
+
+msgid "Applications"
+msgstr "应用"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Apply Template"
+msgstr "应用模板"
+
+msgid "Apply To"
+msgstr "应用于"
+
+msgid "Apply to all users"
+msgstr "应用到所有用户上"
+
+msgid "Apply to All Users"
+msgstr "应用到所有用户"
+
+msgid "Apply to existing domains"
+msgstr "应用于现有的域名"
+
+msgid "Apply to me"
+msgstr "应用到当前账号"
+
+msgid "Apply to Me"
+msgstr "应用到当前账号"
+
+msgid "Approve Password"
+msgstr "批准密码"
+
+msgid "Apr"
+msgstr "四月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "Archive Size"
+msgstr "存档大小"
+
+msgid "Are you sure you want to activate \"%{ name }\" plugin?"
+msgstr "你确定要启用 \"%{ name }\" 插件吗？"
+
+msgid "Are you sure you want to add selected IP to skip list?"
+msgid_plural "Are you sure you want to add selected IPs to skip list?"
+msgstr[0] "确定要添加选定的IP到跳过列表吗？"
+
+msgid "Are you sure you want to add selected user to skip list?"
+msgid_plural "Are you sure you want to add selected users to skip list?"
+msgstr[0] "确定要添加选定的用户到跳过列表吗？"
+
+msgid "Are you sure you want to block selected %{ subject }?"
+msgstr "确定要屏蔽所选的%{ subject } 吗？"
+
+msgid "Are you sure you want to deactivate \"%{ name }\" plugin?"
+msgstr "确实要停用 \"%{ name }\" 插件吗？"
+
+msgid "Are you sure you want to delete \"%{ name }\" plugin?"
+msgstr "确定要删除 \"%{ name }\" 插件吗？"
+
+msgid "Are you sure you want to delete %{user} and their %{n} user?"
+msgid_plural "Are you sure you want to delete %{user} and their %{n} users?"
+msgstr[0] "确定要删除 %{user} 及其他 %{n} 个用户吗?"
+
+msgid "Are you sure you want to delete selected %{subject}"
+msgstr "确定要删除选中的 %{subject} 吗"
+
+msgid "Are you sure you want to delete selected user?"
+msgid_plural "Are you sure you want to delete selected users?"
+msgstr[0] "确定要删除选中的用户吗？"
+
+msgid "Are you sure you want to delete user %{user}?"
+msgstr "确定要删除用户%{user}吗?"
+
+msgid "Are you sure you want to disable protection for %{path}?"
+msgstr "确定要关闭%{path}的保护吗?"
+
+msgid "Are you sure you want to disable this feature?"
+msgstr "确实要停用此功能吗？"
+
+msgid "Are you sure you want to install \"%{ name }\" plugin?"
+msgstr "你确定要安装 \"%{ name }\" 插件吗？"
+
+msgid "Are you sure you want to permanently delete selected WordPress website?"
+msgstr "您确定要永久删除所选 WordPress 网站吗？"
+
+msgid "Are you sure you want to reboot server?"
+msgstr "确实要重新启动服务器吗？"
+
+#, fuzzy
+msgid "Are you sure you want to remove selected element from skip list?"
+msgid_plural "Are you sure you want to remove selected elements from skip list?"
+msgstr[0] "确实要从跳过列表中删除选定项目吗？"
+
+msgid "Are you sure you want to stop migration from %{ from } to %{ to }?"
+msgstr "确定要停止从 %{from} 到 %{to} 的迁移吗？"
+
+msgid "Are you sure you want to unblock selected IP?"
+msgid_plural "Are you sure you want to unblock selected IPs?"
+msgstr[0] "确实要取消拦截选中的IP吗？"
+
+msgid "Are you sure you want to uninstall \"%{ name }\" plugin?"
+msgstr "确定要卸载 \"%{name}\" 插件吗？"
+
+msgid "Are you sure you want to unlink selected IP?"
+msgid_plural "Are you sure you want to unlink selected IPs?"
+msgstr[0] "确实要 Unlink 选定 IP 的吗？"
+
+msgid "Are you sure you want to update \"%{ name }\" plugin?"
+msgstr "确定要更新 \"%{ name }\" 插件吗？"
+
+msgid "Arguments"
+msgstr "参数"
+
+msgid "Ascending"
+msgstr "升序"
+
+msgid "Assign"
+msgstr "分配"
+
+msgid "Assign Existing User to %{database}"
+msgstr "分配现有用户到 %{database}"
+
+msgid "Assign IP"
+msgid_plural "Assign IPs"
+msgstr[0] "分配IP"
+
+msgid "Assign IP to:"
+msgid_plural "Assign IPs to:"
+msgstr[0] "分配IP到:"
+
+msgid "Assign to Reseller"
+msgstr "分配给经销商"
+
+msgid "Assigned IP"
+msgid_plural "Assigned IPs"
+msgstr[0] "已分配的IP"
+
+msgid "Assigned IPs"
+msgstr "已分配的IP"
+
+msgid "Associated Directory"
+msgstr "关联目录"
+
+msgid "At"
+msgstr "在"
+
+msgid "at %s"
+msgstr "在 %s"
+
+msgid "at %s minutes past the hour"
+msgstr "整点 %s 分"
+
+msgid "at %s seconds past the minute"
+msgstr "在 %s 秒后"
+
+msgid "Attach"
+msgstr "附属"
+
+msgid ""
+"Attachments will separate the spam into its own message, preventing scripts "
+"from being run."
+msgstr "附件将从垃圾邮件分离到自己的邮件中, 从而阻止脚本的运行。"
+
+msgid "Attempts"
+msgstr "尝试次数"
+
+msgid "Aug"
+msgstr "八月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "Authenticate"
+msgstr "验证"
+
+msgid "Authenticate to send signals"
+msgstr "验证发送信号"
+
+msgid "Authentication"
+msgstr "验证"
+
+msgid "Authentication Failure Reporting Format"
+msgstr "验证失败报告格式"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Authorize"
+msgstr "授权"
+
+msgid "Authorized Keys"
+msgstr "授权密钥"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Auto + Confirm"
+msgstr "自动 + 确认"
+
+msgid "Auto SSL"
+msgstr "自动 SSL"
+
+msgid "Auto Update"
+msgstr "自动更新"
+
+msgid "Auto-responders"
+msgstr "自动回复"
+
+msgid "Auto-Responders"
+msgstr "自动回复"
+
+msgid "Automated SSL Certificates Information"
+msgstr "自动 SSL 证书信息"
+
+msgid "Automatically delete messages"
+msgstr "自动删除邮件"
+
+msgid "Automatically delete the key once the key expires"
+msgstr "密钥过期后自动删除密钥"
+
+msgid "Automatically delete the key once the key expires."
+msgstr "密钥过期后自动删除密钥。"
+
+msgid "Automatically delete tickets"
+msgstr "自动删除工单"
+
+msgid "autoresponder"
+msgid_plural "autoresponders"
+msgstr[0] "自动回复"
+
+msgid "Autoresponder"
+msgstr "自动回复"
+
+msgid "Autoresponders"
+msgstr "自动回复"
+
+msgid "Autoresponders: Includes all autoresponders and messages."
+msgstr "自动回复: 包括所有自动回复和消息。"
+
+msgid "Available"
+msgstr "可用"
+
+#, fuzzy
+msgid "available commands"
+msgstr "可用的Tokens"
+
+msgid "Available Tokens"
+msgstr "可用的Tokens"
+
+msgid "Available Update"
+msgstr "可用更新"
+
+msgid "Available Version"
+msgstr "可用版本"
+
+#, fuzzy
+msgid "Average Load"
+msgstr "强制加载"
+
+msgid ""
+"Avoid using the Ignore option unless you know what you are doing. Spammers "
+"will be sending you e-mails to random addresses, and this option will accept "
+"those e-mails. You will not know it because the accepted e-mails would be "
+"discarded. This greatly increases the server load unnecessarily. If you do "
+"not want the catch-all to be on, then use the Fail option instead."
+msgstr ""
+"除非您知道自己在做什么，否则避免使用忽略选项。 "
+"垃圾邮件将发送到随机地址，此选项将接受这些电子邮件。 "
+"你不会知道它，因为接受的电子邮件会被丢弃。这会不必要地增加服务器负荷。 "
+"如果你不想打开抓取器，则使用故障选项。"
+
+msgid "AWstats"
+msgstr "AWstats（日志分析统计）"
+
+msgid "AWStats"
+msgstr "AWstats（日志分析统计）"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Back to Homepage"
+msgstr "返回首页"
+
+msgid "Back to limit hits table..."
+msgstr "返回限制命中表..."
+
+msgid "Back to Repository"
+msgstr "返回存储库"
+
+msgid "Back to WordPress Manager"
+msgstr "返回 Wordpress 管理器"
+
+msgid "Backed up Web Logs"
+msgstr "已备份的Web 日志"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Backup"
+msgstr "备份"
+
+msgid "Backup Decryption"
+msgstr "备份解密"
+
+msgid "Backup Encryption"
+msgstr "备份加密"
+
+msgid "Backup ID"
+msgstr "备份ID"
+
+msgid "Backup Path"
+msgstr "备份路径"
+
+msgid "Backup/Restore Settings"
+msgstr "备份/恢复设置"
+
+#, fuzzy
+msgid "Bad Request"
+msgstr "请求"
+
+msgid "Bad Request: %{ message }"
+msgstr "错误请求：%{ message }"
+
+msgid "Bandwidth"
+msgstr "流量"
+
+msgid "Bandwidth (MB)"
+msgstr "流量 (MB)"
+
+msgid "Bandwidth / Disk Usage"
+msgstr "带宽/磁盘使用量"
+
+msgid "Bandwidth Breakdown"
+msgstr "流量细分"
+
+msgid "Bandwidth Breakdown for %{month} %{year}"
+msgstr "%{year} 年 %{month}% 月的流量细分"
+
+msgid "Bandwidth Breakdown for %{user}: %{year} %{month}"
+msgstr "%{user}的%{year} 年 %{month}% 月流量细分"
+
+msgid "Basic Configuration"
+msgstr "基本配置"
+
+msgid ""
+"Be sure to copy and backup the \"RSA PRIVATE KEY\" along with the request. "
+"You will need it when installing the certificate. Because you're an admin, "
+"you will be saving to the \"shared server certificate\" and the key is not "
+"saved anywhere until you paste it with the certificate."
+msgstr ""
+"请务必复制并备份\"RSA PRIVATE Key\"和请求"
+"。您在安装证书时将需要它。因为你是管理员， 您将保存到“共享服务器证书”并且密钥"
+"不会在任何地方保存，直到您将其粘贴到证书上。"
+
+msgid "Be sure to re-scan the QR code, as all old codes become invalid."
+msgstr "请务必重新扫描新的二维码，旧的二维码将全部失效。"
+
+msgid "between %s and %s"
+msgstr "在 %s 和 %s 之间"
+
+msgid "Billing Issue"
+msgstr "账单问题"
+
+msgid "bl_auth"
+msgstr "bl_auth"
+
+msgid "bl_script"
+msgstr "bl_script"
+
+msgid "bl_smtp"
+msgstr "bl_smtp"
+
+msgid "bl_usernames"
+msgstr "bl_usernames"
+
+msgid "Blackhole"
+msgstr "Blackhole"
+
+msgid "Blacklist IPs for excessive DA login attempts"
+msgstr "将DA登陆失败次数过多的IP地址拉入黑名单"
+
+msgid "Blacklist Usernames"
+msgstr "黑名单用户名"
+
+msgid "Blank will default to %{ limit }"
+msgstr "空白将默认为%{ limit }"
+
+msgid "Blank will default to unlimited"
+msgstr "空白将默认为无限制"
+
+msgid "Block"
+msgstr "拦截"
+
+msgid "Block %{ subject }"
+msgstr "拦截 %{ subject }"
+
+msgid "Block a specific E-mail address"
+msgstr "拦截一个特定的邮箱地址"
+
+msgid "Block all e-mails containing stop words"
+msgstr "拦截包含停止词的所有电子邮件"
+
+msgid "Block all e-mails larger than (KB)"
+msgstr "拦截所有大于此尺寸（KB）的电子邮件"
+
+msgid "Block By"
+msgstr "拦截条件"
+
+msgid "Block IP"
+msgstr "拦截IP"
+
+msgid "Block List"
+msgstr "拦截名单"
+
+msgid "Block mail from an entire domain"
+msgstr "屏蔽来自这一域名的所有邮件"
+
+msgid "BlockCracker Blocked Paths"
+msgstr "BlockCracker 拦截的路径"
+
+msgid "BlockCracking Blocked Paths"
+msgstr "BlockCracking 拦截的路径"
+
+msgid "BlockCracking Disabled"
+msgstr "BlockCracking 已停用"
+
+msgid "Blocked"
+msgstr "已拦截"
+
+msgid "Blocked E-mail"
+msgstr "拦截邮件"
+
+msgid "Blocked Permanently"
+msgstr "永久拦截"
+
+msgid "Blocks out common adult phrases, words, an addresses"
+msgstr "阻止常用的成人短语，单词，地址"
+
+msgid "BogoMIPS"
+msgstr ""
+
+msgid "Both"
+msgstr "不限"
+
+msgid "Bounce"
+msgstr "退信"
+
+msgid "Branch"
+msgstr "分支"
+
+msgid "Branches"
+msgstr "分支"
+
+#, fuzzy
+msgid "Brand"
+msgstr "品牌推广"
+
+msgid "Branding"
+msgstr "品牌推广"
+
+msgid "Brute Force Monitor"
+msgstr "暴力破解监控"
+
+msgid "Brute Force Monitor: Block List"
+msgstr "暴力破解检测器：拦截名单"
+
+msgid "Brute Force Monitor: IP List"
+msgstr "暴力破解检测器：IP列表"
+
+msgid "Brute Force Monitor: Skip List"
+msgstr "暴力破解检测器：跳过列表"
+
+msgid "Brute Force Monitor: User List"
+msgstr "暴力破解检测器：用户列表"
+
+msgid "Build"
+msgstr ""
+
+msgid "By"
+msgstr "由"
+
+msgid "CA Root Certificate"
+msgstr "CA Root证书"
+
+#, fuzzy
+msgid "Cached"
+msgstr "Apache"
+
+msgid "Callable"
+msgstr "可调用"
+
+msgid "Can Update"
+msgstr "可更新"
+
+msgid "Can use Server IP"
+msgstr "可以使用服务器IP"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel Process"
+msgstr "取消进程"
+
+msgid "Cannot execute your request"
+msgstr "无法执行请求"
+
+msgid "Cannot Execute Your Request"
+msgstr "无法执行请求"
+
+msgid "Catch-All E-mail"
+msgstr "捕获所有电子邮件"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Category Icons (used in standard layout)"
+msgstr "类别图标（用于标准布局）"
+
+msgid "CC Address"
+msgstr "CC地址"
+
+msgid "CC should not be equal to Autoresponder address"
+msgstr "CC 不应等于自动回复地址"
+
+msgid "Certificate"
+msgstr "证书"
+
+msgid "Certificate Authority SSL Certificate"
+msgstr "证书颁发机构SSL证书"
+
+msgid "Certificate Entries"
+msgstr "证书数目"
+
+msgid "Certificate Expiry"
+msgstr "证书到期日期"
+
+msgid "Certificate Hosts"
+msgstr "证书主机"
+
+msgid "Certificate Key"
+msgstr "证书Key"
+
+msgid "Certificate Request"
+msgstr "证书请求"
+
+msgid "Certificate Request copied to clipboard"
+msgstr "证书请求已复制到剪贴板"
+
+msgid "Certificate Type"
+msgstr "证书类型"
+
+msgid "Certificates"
+msgstr "证书"
+
+msgid "CGI"
+msgstr "CGI"
+
+msgid "CGI Access"
+msgstr "CGI 访问"
+
+msgid "CGI-Bin"
+msgstr "CGI-Bin"
+
+msgid "Change"
+msgstr "更改"
+
+msgid "Change %{ username }'s password"
+msgstr "修改%{ username }的密码"
+
+msgid "Change Daily Limit"
+msgstr "更改每日限制"
+
+#, fuzzy
+msgid "Change Document Root"
+msgstr "更改域名选项"
+
+msgid "Change domain options"
+msgstr "更改域名选项"
+
+msgid "Change filename / path"
+msgstr "更改文件名/路径"
+
+msgid "Change IP"
+msgstr "更改IP"
+
+msgid "Change Limit/Quota"
+msgstr "更改限制/Quota"
+
+msgid "Change Limits"
+msgstr "更改限制"
+
+msgid "Change Package"
+msgstr "更改套餐"
+
+msgid "Change Package for User %{user}"
+msgstr "更改用户%{user}的套餐"
+
+msgid "Change password"
+msgstr "更改密码"
+
+msgid "Change Password"
+msgstr "更改密码"
+
+msgid "Change Password/Username"
+msgstr "更改密码/用户名"
+
+msgid "Change Passwords"
+msgstr "更改密码"
+
+#, fuzzy
+msgid "Change PHP Version"
+msgstr "PHP版本"
+
+msgid "Change position"
+msgstr "修改位置"
+
+msgid "Change privileges"
+msgstr "修改权限"
+
+msgid "Change sent emails daily limit"
+msgstr "更改每日限制发送邮件数量"
+
+msgid "Change the look and branding of login page"
+msgstr "更改登录页面的外观和品牌"
+
+msgid "Change the User's IP"
+msgstr "修改用户的IP"
+
+msgid "Changelog"
+msgstr "变更日志"
+
+msgid "Channel update scheduled"
+msgstr "通道更新日程"
+
+msgid "Chart"
+msgstr "图表"
+
+msgid "Check"
+msgstr "检查"
+
+msgid "Check all"
+msgstr "选择所有"
+
+msgid "Check domain owner for Subdomain creation"
+msgstr "创建子域名时检查是否为域名所有者"
+
+#, fuzzy
+msgid "Check Report"
+msgstr "关闭报告"
+
+msgid "Check server for issues"
+msgstr ""
+
+msgid "Check url"
+msgstr "检查网址"
+
+msgid "Check usage every"
+msgstr "检查使用情况的周期"
+
+msgid "Checking files before upload..."
+msgstr "在上传前检查文件..."
+
+msgid "Children Count"
+msgstr "子计数"
+
+msgid "Chmod"
+msgstr "权限"
+
+msgid "Choose a new look"
+msgstr "选择一个新外观"
+
+msgid "Choose directories to backup"
+msgstr "选择要备份的目录"
+
+msgid "Choose files to backup"
+msgstr "选择要备份的文件"
+
+msgid "Choose one of possible container modes"
+msgstr "选择一种可能的容器模式"
+
+msgid "City"
+msgstr "城市"
+
+#, ignore-same
+msgid "ClamAV"
+msgstr "ClamAV"
+
+msgid "ClamAV path was not found"
+msgstr "找不到 ClamAV 路径"
+
+msgid "ClamAV process does not exist anymore"
+msgstr "ClamAV 进程不存在"
+
+msgid "Class Path"
+msgstr "类路径"
+
+#, fuzzy
+msgid "classic"
+msgstr "经典"
+
+msgid "Clean Forwarders"
+msgstr "清除转发器"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear All"
+msgstr "全部清除"
+
+#, fuzzy
+msgid "Clear defaults"
+msgstr "设为默认"
+
+msgid "Clear failed login attempts from log"
+msgstr "清除日志中的失败登录尝试"
+
+msgid "Clear Filter"
+msgstr "清除过滤器"
+
+msgid "Clear Key:"
+msgstr "清除密钥："
+
+msgid "Clear Message System"
+msgstr "清空消息系统"
+
+msgid "Clear NS"
+msgstr "清除NS"
+
+msgid "Clear Search"
+msgstr "清除搜索"
+
+msgid "Clear selection"
+msgstr "取消选定"
+
+msgid "Clear Selection"
+msgstr "取消选定"
+
+msgid "Clear Sorting"
+msgstr "清除排序"
+
+msgid "Clear Trash Bin"
+msgstr "清理回收站"
+
+msgid "Clear Zone"
+msgstr "清除区域"
+
+msgid "Click for details"
+msgstr "点击查看详情"
+
+msgid "Click for more info"
+msgstr "点击查看更多信息"
+
+msgid "Client IP"
+msgstr "客户端IP"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close dropdown"
+msgstr "关闭下拉菜单"
+
+msgid "Close Editor"
+msgstr "关闭编辑器"
+
+msgid "Closed"
+msgstr "已关闭"
+
+msgid "Closed + Confirm"
+msgstr "已关闭 + 确认"
+
+msgid "Codebase"
+msgstr "基准代码"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Colors"
+msgstr "配色"
+
+msgid "Column"
+msgstr "列"
+
+msgid "Column Size"
+msgstr "列表大小"
+
+msgid "Columns"
+msgstr "栏目"
+
+msgid "Command"
+msgstr "命令"
+
+msgid "Commands:"
+msgstr "命令："
+
+msgid "Comment"
+msgstr "注释"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Commit"
+msgstr "提交"
+
+msgid "Commit Differences"
+msgstr "提交差异"
+
+msgid "Commit: %{commit}..."
+msgstr "提交： %{commit}..."
+
+msgid "Common Name"
+msgstr "公用名(Common Name)"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Company Division"
+msgstr "公司部门"
+
+#, fuzzy
+msgid "Compilation"
+msgstr "编译于"
+
+msgid "Complete Usage Statistics"
+msgstr "完整的使用统计"
+
+msgid "Component Colors"
+msgstr "组件颜色"
+
+msgid "Compress"
+msgstr "压缩"
+
+msgid "Compress and download"
+msgstr "压缩并下载"
+
+msgid "Compress Files"
+msgstr "压缩文件"
+
+msgid "Compressing folder..."
+msgstr "压缩文件夹中..."
+
+msgid "Conf. Files"
+msgstr "配置文件"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Configuration Check"
+msgstr "配置检查"
+
+msgid "Configure archive file"
+msgstr "配置归档文件"
+
+msgid "Configure Auto Update"
+msgstr "配置自动更新"
+
+msgid "Configure date and time formats used by defaults"
+msgstr "配置默认使用的日期和时间格式"
+
+msgid "Configure full system Backup"
+msgstr "配置完整系统备份"
+
+#, fuzzy
+msgid "Configure help links for Evolution pages"
+msgstr "配置远程传输选项"
+
+msgid "Configure Remote Transfer option"
+msgstr "配置远程传输选项"
+
+msgid "Configure skin options, colors & branding"
+msgstr "配置模板选项、颜色和品牌"
+
+msgid "Configure your own color schema"
+msgstr "配置您自己的颜色模式"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Confirm closing"
+msgstr "确认关闭"
+
+msgid "Confirm edit"
+msgstr "确认编辑"
+
+msgid "Confirmation"
+msgstr "确认"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connecting..."
+msgstr "连接中……"
+
+msgid "Connection Error"
+msgstr "连接错误"
+
+msgid "Connection Method"
+msgstr "连接方法"
+
+msgid "Contains"
+msgstr "包含"
+
+msgid "Content-Type"
+msgstr "Content-Type"
+
+msgid "Contents of the %{ filename } file for %{ domain }"
+msgstr "%{ domain }的%{ filename }文件内容"
+
+msgid "Control Panel"
+msgstr "控制面板"
+
+msgid "Convert"
+msgstr "转换"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Copy Package"
+msgstr "复制包"
+
+msgid "Copy to %{directory}"
+msgstr "复制到 %{directory}"
+
+msgid "Copy to clipboard"
+msgstr "复制到剪贴板"
+
+msgid "Copy to Clipboard"
+msgstr "复制到剪贴板"
+
+msgid "Copy/Move"
+msgstr "复制/移动"
+
+msgid "Copy/Move to..."
+msgstr "复制/移动..."
+
+msgid "Copy/Move..."
+msgstr "复制/移动..."
+
+msgid "Core Functions"
+msgstr "核心功能"
+
+msgid ""
+"Core functions are needed for the skin to work. Disable it for API only."
+msgstr "皮肤需要核心功能才能工作。 仅针对 API 禁用它。"
+
+#, fuzzy
+msgid "Cores count"
+msgstr "CPU数量"
+
+msgid "Corrupted Plugin"
+msgstr "损坏的插件"
+
+msgid "Could not connect to remote host"
+msgstr "无法连接到远程主机"
+
+#, fuzzy
+msgid "Could not load login key history"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Could not load user options from backend"
+msgstr "不应包含空格"
+
+#, fuzzy
+msgid "Could not load user package"
+msgstr "不应包含空格"
+
+msgid "Count"
+msgstr "数量"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "cPanel Import"
+msgstr "cPanel 导入"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "CPU Pressure"
+msgstr "CPU负载"
+
+msgid "CPU(s):"
+msgstr "CPU数量:"
+
+msgid "CPUs count"
+msgstr "CPU数量"
+
+msgid "CPUs Information"
+msgstr "CPU信息"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Create A Certificate Request"
+msgstr "创建一个证书签名请求"
+
+msgid "Create a new Application"
+msgstr "创建一个新的应用程序"
+
+msgid "Create a new secret to begin."
+msgstr "创建一个新密钥以继续。"
+
+msgid "Create Account"
+msgstr "创建帐号"
+
+msgid "Create Admin"
+msgstr "创建管理员"
+
+msgid "Create Administrator"
+msgstr "创建管理员"
+
+msgid "Create Application"
+msgstr "创建应用程序"
+
+msgid "Create as an Alias"
+msgstr "创建为别名"
+
+msgid "Create Autoresponder"
+msgstr "创建自动回复"
+
+msgid "Create Backup"
+msgstr "创建备份"
+
+#, fuzzy
+msgid "Create category"
+msgstr "设置分类"
+
+msgid "Create Cron Job"
+msgstr "创建定时任务"
+
+msgid "Create Database"
+msgstr "创建数据库"
+
+msgid "Create Domain"
+msgstr "创建域名"
+
+msgid "Create Domain Pointer"
+msgstr "创建域名指向"
+
+msgid "Create E-mail Forwarder"
+msgstr "创建邮件转发器"
+
+#, fuzzy
+msgid "Create Entry"
+msgstr "创建Key"
+
+msgid "Create File"
+msgstr "创建文件"
+
+msgid "Create Folder"
+msgstr "创建文件夹"
+
+msgid "Create Forwarder"
+msgstr "创建转发器"
+
+msgid "Create Forwarders"
+msgstr "创建转发器"
+
+msgid "Create forwarders from raw data"
+msgstr "从原始数据创建转发器"
+
+msgid "Create FTP Account"
+msgstr "创建FTP账号"
+
+msgid "Create Handler"
+msgstr "新建Handler"
+
+msgid "Create Key"
+msgstr "创建Key"
+
+#, fuzzy
+msgid "Create Link"
+msgstr "创建管理员"
+
+msgid "Create Login Key"
+msgstr "创建登陆Key"
+
+#, fuzzy
+msgid "Create Login URL"
+msgstr "创建登陆Key"
+
+msgid "Create Mail Account"
+msgstr "创建Email账号"
+
+msgid "Create Mailing List"
+msgstr "新建邮件列表"
+
+msgid "Create Name Servers"
+msgstr "创建DNS服务器"
+
+msgid "Create new"
+msgstr "新建"
+
+#, fuzzy
+msgid "Create new category"
+msgstr "创建新数据库"
+
+msgid "Create new Database"
+msgstr "创建新数据库"
+
+msgid "Create New Database"
+msgstr "创建新数据库"
+
+msgid "Create new folder"
+msgstr "创建文件夹"
+
+msgid "Create New Package"
+msgstr "创建新套餐"
+
+msgid "Create New Redirect"
+msgstr "创建新的重定向"
+
+#, fuzzy
+msgid "Create new top-level link"
+msgstr "创建文件夹"
+
+msgid "Create New User"
+msgstr "创建新用户"
+
+msgid "Create New User for %{database}"
+msgstr "为数据库%{database}创建新用户"
+
+msgid "Create Package"
+msgstr "创建套餐"
+
+msgid "Create repository"
+msgstr "创建版本库"
+
+msgid "Create Repository"
+msgstr "创建版本库"
+
+msgid "Create Reseller"
+msgstr "添加分销者"
+
+msgid "Create Reseller Package"
+msgstr "添加分销者套餐"
+
+msgid "Create Reverse IP Lookup"
+msgstr "创建反向IP查询"
+
+msgid "Create Route"
+msgstr "创建 Route"
+
+msgid "Create SSH Key"
+msgstr "创建 SSH Key"
+
+msgid "Create text file"
+msgstr "创建文本文件"
+
+msgid "Create Ticket"
+msgstr "创建工单"
+
+#, fuzzy
+msgid "Create URL"
+msgstr "创建用户"
+
+msgid "Create User"
+msgstr "创建用户"
+
+msgid "Create User Package"
+msgstr "创建用户套餐"
+
+msgid "Create Vacation Message"
+msgstr "创建假期自动回复消息"
+
+msgid "Create Wordpress Installation"
+msgstr "创建 Wordpress 安装"
+
+msgid "Create your own self signed certificate"
+msgstr "创建自签证书"
+
+msgid "Create Zone"
+msgstr "创建Zone"
+
+msgid "Create/Restore Backups"
+msgstr "创建/还原备份"
+
+msgid "Created"
+msgstr "已创建"
+
+#, fuzzy
+msgid "Created By"
+msgstr "已创建"
+
+msgid "Created:"
+msgstr "已创建："
+
+msgid "Creation in Progress"
+msgstr "创建中"
+
+msgid "Creator"
+msgstr "创建人"
+
+msgid "Cron"
+msgstr "定时任务"
+
+msgid "Cron job"
+msgid_plural "Cron jobs"
+msgstr[0] "定时任务"
+
+msgid "Cron Jobs"
+msgstr "Cron任务"
+
+msgid "Cron Schedule"
+msgstr "定时任务计划"
+
+msgid "Cron Settings"
+msgstr "定时任务设置"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CSS Styles"
+msgstr "CSS 样式"
+
+msgid "Ctrl+Enter to post reply"
+msgstr "按Ctrl + Enter发布回复"
+
+msgid "Current"
+msgstr "当前"
+
+msgid "Current DirectAdmin Password:"
+msgstr "当前 DirectAdmin 密码:"
+
+msgid "Current IPs"
+msgstr "当前IP地址"
+
+msgid "Current Password:"
+msgstr "当前密码："
+
+msgid "Current Protected Directories"
+msgstr "当前受保护的目录"
+
+msgid "Current Time"
+msgstr "当前时间"
+
+msgid "Current Usage"
+msgstr "当前使用量"
+
+#, fuzzy
+msgid "Current Version"
+msgstr "当前服务器版本"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Custom - Scan the desired path."
+msgstr "自定义 - 扫描所需的路径。"
+
+msgid "Custom Directories & Files"
+msgstr "自定义目录和文件"
+
+msgid "Custom Error Pages"
+msgstr "自定义错误页面"
+
+msgid "Custom HTTPD Configurations"
+msgstr "自定义 HTTPD 配置"
+
+msgid "Custom Items"
+msgstr "自定义项目"
+
+msgid "Custom number of bytes from the end of the file"
+msgstr "自定义文件末尾的字节数"
+
+msgid "Custom Path"
+msgstr "自定义路径"
+
+msgid "Custom Threshold"
+msgstr "自定义阈值"
+
+msgid "Custom username & password"
+msgstr "自定义用户名和密码"
+
+#, fuzzy
+msgid "CustomBuild"
+msgstr "自定义"
+
+msgid "Customize"
+msgstr "定制"
+
+msgid "Customize application language"
+msgstr "自定义应用程序语言"
+
+msgid "Customize configuration"
+msgstr "自定义配置"
+
+msgid "Customize Evolution Skin"
+msgstr "自定义Evolution 皮肤"
+
+msgid "Customize Skin"
+msgstr "自定义皮肤"
+
+msgid "Customize your menu"
+msgstr "自定义菜单"
+
+msgid "DA build for OS"
+msgstr "DA build for OS"
+
+msgid "Daily E-mail limit per DirectAdmin User"
+msgstr "每个 DirectAdmin 用户的每日电子邮件限制"
+
+msgid "Daily limit per E-mail Account"
+msgstr "每个电子邮件帐户的每日限制"
+
+#, fuzzy
+msgid "Daily Send Limit"
+msgstr "发送限制"
+
+msgid "Danger"
+msgstr "危险"
+
+msgid "Dark Mode"
+msgstr "黑暗模式"
+
+msgid "Dashboard"
+msgstr "控制面板"
+
+#, fuzzy
+msgid "Dashboard Mode"
+msgstr "控制面板"
+
+msgid "database"
+msgid_plural "databases"
+msgstr[0] "数据库"
+
+msgid "Database"
+msgstr "数据库"
+
+msgid "Database Configuration"
+msgstr "数据库配置"
+
+msgid "Database Count"
+msgstr "数据库数量"
+
+msgid "Database Data"
+msgstr "数据库数据"
+
+msgid "Database Disk Usage"
+msgstr "数据库磁盘使用情况"
+
+msgid "Database Name"
+msgstr "数据库名称"
+
+msgid "Database Name:"
+msgstr "数据库名称："
+
+msgid "Database Password:"
+msgstr "数据库密码:"
+
+#, fuzzy
+msgid "database processes"
+msgstr "数据库用户："
+
+msgid "Database Settings"
+msgstr "数据库设置"
+
+msgid "Database Settings: Backs up all DB Users and DB Settings"
+msgstr "数据库设置：备份所有数据库用户和数据库设置"
+
+msgid "Database User Name"
+msgstr "数据库用户名"
+
+msgid "Database User Password"
+msgstr "数据库密码"
+
+msgid "Database User:"
+msgstr "数据库用户："
+
+msgid "Databases"
+msgstr "数据库"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date & Time Format"
+msgstr "日期＆时间格式"
+
+msgid "Date Added"
+msgstr "已添加日期"
+
+msgid "Date Blocked"
+msgstr "已屏蔽日期"
+
+msgid "Date Created"
+msgstr "日期已创建"
+
+msgid "Date Format"
+msgstr "日期格式"
+
+msgid "Date Formats"
+msgstr "日期格式"
+
+msgid "Date Range"
+msgstr "日期范围"
+
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] "天数"
+
+msgid "Day of Month"
+msgstr "月份的天"
+
+msgid "Day of Month: %{dayofmonth}"
+msgstr "日：%{dayofmonth}"
+
+msgid "Day of Week"
+msgstr "一周的天"
+
+msgid "Day of Week: %{dayofweek}"
+msgstr "星期几：%{dayofweek}"
+
+msgid "days"
+msgstr "天数"
+
+msgid "Days"
+msgstr "天数"
+
+msgid "Days after entry was made."
+msgstr "条目创建后天数。"
+
+msgid "Days."
+msgstr "天。"
+
+msgid "DB Entries"
+msgstr "数据库条目"
+
+#, fuzzy
+msgid "DB Monitor"
+msgstr "进程监视器"
+
+msgid "DB Name is too long"
+msgstr "数据库名过长"
+
+msgid "Deactivate"
+msgstr "停用"
+
+msgid "Dec"
+msgstr "十二月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default (Off)"
+msgstr "默认（关闭）"
+
+msgid "Default (On)"
+msgstr "默认（开启）"
+
+msgid "Default Domain"
+msgstr "默认域名"
+
+msgid "Default Layout"
+msgstr "默认布局"
+
+msgid "Defaults for new domains"
+msgstr "新域名默认"
+
+msgid "Deferred"
+msgstr "延期"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete %{subject}"
+msgstr "删除 %{subject}"
+
+msgid "Delete Admin"
+msgid_plural "Delete Admins"
+msgstr[0] "删除管理员"
+
+msgid "Delete Bayes Data"
+msgstr "删除Bayes数据"
+
+msgid "Delete Extension"
+msgstr "删除扩展"
+
+msgid "Delete Handler"
+msgstr "删除处理程序"
+
+msgid "Delete IP from Reseller"
+msgstr "从经销商中删除IP"
+
+msgid "Delete Mime Type"
+msgstr "删除MIME类型"
+
+msgid "Delete Reseller"
+msgid_plural "Delete Resellers"
+msgstr[0] "删除经销商"
+
+msgid "Delete Selected"
+msgstr "删除选中项目"
+
+msgid "Delete the local backup after remote transfer"
+msgstr "远程传输后删除本地备份"
+
+msgid "Delete the spam"
+msgstr "删除垃圾邮件"
+
+msgid "Delete user"
+msgid_plural "Delete users"
+msgstr[0] "删除用户"
+
+msgid "Delete web data"
+msgstr "删除 web 数据"
+
+msgid "Delete WordPress"
+msgstr "删除 WordPress"
+
+msgid "Deleted"
+msgstr "已删除"
+
+msgid "Deleted Trash Data"
+msgstr "删除垃圾数据"
+
+msgid "Deleted User Bandwidth"
+msgstr "已删除用户带宽"
+
+msgid "Deletes local file before creating the next one"
+msgstr "在创建下一个之前先删除本地的文件"
+
+msgid ""
+"Deleting WordPress will remove all files and database tables used by this "
+"installation."
+msgstr "删除 WordPress 将删除此安装使用的所有文件和数据库表。"
+
+msgid "Delivered"
+msgstr "交付"
+
+msgid "Deny"
+msgstr "拒绝"
+
+msgid "Deny Selected"
+msgstr "拒绝选择"
+
+msgid "Deploy"
+msgstr "部署"
+
+msgid "Deploy Branch"
+msgstr "部署分支"
+
+msgid "Deploy Directory"
+msgstr "部署目录"
+
+msgid "Deployment completed"
+msgstr "部署已完成"
+
+msgid "Descending"
+msgstr "降序"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Descriptor for the Key"
+msgstr "Key描述"
+
+msgid "Deselect all rows"
+msgstr "取消选择所有行"
+
+msgid "Deselect row"
+msgstr "取消选中行"
+
+msgid "Destination"
+msgstr "目标"
+
+msgid "Destination already in list"
+msgstr "目标已在列表中"
+
+msgid "Destination Email"
+msgstr "目标电子邮件"
+
+msgid ""
+"Destination email is currently being used for migration by another process"
+msgstr "目标电子邮件当前正被另一个进程用于迁移"
+
+msgid "Destination Server"
+msgstr "目标服务器"
+
+msgid "Destination URL"
+msgstr "目标URL"
+
+msgid "Detach"
+msgstr "分离"
+
+msgid "Details"
+msgstr "详情"
+
+msgid "Details for %{ip}"
+msgstr "%{ip}的详细信息"
+
+msgid "Details for user \"%{username}\""
+msgstr "用户\"%{username}\"的详情"
+
+#, fuzzy
+msgid "Details for user &quot;%{username}&quot;"
+msgstr "用户\"%{username}\"的详情"
+
+msgid "Details:"
+msgstr "详细信息:"
+
+msgid "Detected build for OS"
+msgstr "Detected build for OS"
+
+msgid "Detected server OS"
+msgstr "检测到的服务器操作系统"
+
+msgid "DEV Playground"
+msgstr "DEV Playground"
+
+msgid "Device"
+msgstr "设备"
+
+msgid "Device: %{ device }"
+msgstr "设备: %{ device }"
+
+msgid "Devices"
+msgstr "设备"
+
+msgid "Difficult Password Enforcement"
+msgstr "高强度密码强制要求"
+
+msgid "Digest Issue"
+msgstr "摘要问题"
+
+msgid "Digest MaxDays"
+msgstr "摘要最大天数"
+
+msgid "Digest MaxLines"
+msgstr "摘要最大行数"
+
+msgid "digest subscriber"
+msgid_plural "digest subscribers"
+msgstr[0] "Digest订阅者"
+
+msgid "Digest Subscribers"
+msgstr "摘要订阅者"
+
+msgid "Digest Volume"
+msgstr "摘要卷"
+
+msgid "Direct Admin"
+msgstr "Direct Admin"
+
+msgid "DirectAdmin"
+msgstr "DirectAdmin"
+
+msgid "DirectAdmin Account"
+msgstr "DirectAdmin帐号"
+
+#, fuzzy
+msgid "DirectAdmin HTTP/2"
+msgstr "Direct Admin"
+
+msgid "DirectAdmin legacy"
+msgstr "DirectAdmin 旧版"
+
+msgid "DirectAdmin runs faster now, as it uses HTTP/2 for the connections"
+msgstr ""
+
+msgid "DirectAdmin version and updates"
+msgstr "DirectAdmin 版本和更新"
+
+msgid "DirectAdmin Web Control Panel © %{ year } JBMC Software"
+msgstr "DirectAdmin Web Control Panel © %{ year } JBMC Software"
+
+msgid "directadmin.conf values"
+msgstr "directadmin.conf内容"
+
+msgid "Direction"
+msgstr "方向"
+
+msgid "Direction:"
+msgstr "方向:"
+
+msgid "Directories"
+msgstr "目录"
+
+msgid "Directory"
+msgstr "目录"
+
+msgid "Directory %{ path } already protected."
+msgstr "目录%{ path }已被保护."
+
+msgid "Directory scan process canceled"
+msgstr "目录扫描进程已取消"
+
+msgid "Directory scan process started"
+msgstr "目录扫描进程已启动"
+
+msgid "Directory:"
+msgstr "目录："
+
+msgid "Dirs"
+msgstr "目录"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Disable Auto Reload"
+msgstr "禁用自动重新加载"
+
+msgid "Disable Auto-Renew"
+msgstr "禁用自动续订"
+
+msgid "Disable auto-renew after certificate request failure"
+msgstr "证书请求失败后禁用自动续订"
+
+msgid "Disable DKIM"
+msgstr "停用DKIM"
+
+msgid "Disable Hotlinks Protection"
+msgstr "停用防盗链保护"
+
+msgid "Disable Open Basedir"
+msgstr "停用Open Basedir"
+
+msgid "Disable Route Transition"
+msgstr "禁用Route转换"
+
+msgid "Disable Route Transitions"
+msgstr "禁用Route转换"
+
+msgid "Disable Rule"
+msgstr "禁用规则"
+
+msgid "Disable SpamAssassin"
+msgstr "停用SpamAssassin"
+
+msgid "Disable SSL"
+msgstr "停用SSL"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Disabled Rules"
+msgstr "禁用规则"
+
+msgid "Discard unsaved changes?"
+msgstr "是否放弃未保存的更改？"
+
+msgid "Disconnect"
+msgstr "断开"
+
+msgid "Disk Space"
+msgstr "磁盘空间"
+
+msgid "Disk Space (MB)"
+msgstr "磁盘空间 (MB)"
+
+msgid "Disk Usage"
+msgstr "磁盘使用量"
+
+msgid "Display as grid"
+msgstr "显示为网格"
+
+msgid "Display as Grid"
+msgstr "显示为网格"
+
+msgid "Display as list"
+msgstr "显示为列表"
+
+msgid "Display as List"
+msgstr "显示为列表"
+
+msgid "Display Mode: Grid"
+msgstr "显示模式: 网格"
+
+msgid "Display Mode: Table"
+msgstr "显示为表格"
+
+msgid "DLV Record"
+msgstr "DLV记录"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS Administration"
+msgstr "DNS管理"
+
+msgid "DNS Control"
+msgstr "DNS 控制"
+
+#, fuzzy
+msgid "DNS Control Disabled"
+msgstr "DNS 控制"
+
+msgid ""
+"DNS Control is disabled for this User. You can edit the zone because your "
+"master account has DNS Control."
+msgstr "该用户的 DNS 控制被禁用。 您可以编辑区域，因为您的主账户具有 DNS 控制。"
+
+msgid "DNS data"
+msgstr "DNS数据"
+
+msgid "DNS Management"
+msgstr "DNS 管理"
+
+msgid "DNS Only"
+msgstr "仅 DNS"
+
+msgid "DNS Provider"
+msgstr "DNS 提供商"
+
+msgid "DNS Provider Configuration"
+msgstr "DNS 提供商配置"
+
+msgid "DNS record"
+msgid_plural "DNS Records"
+msgstr[0] "DNS记录"
+
+msgid "DNSSEC"
+msgstr "DNSSEC"
+
+msgid "Do not add a whole <Virtualhost>..</VirtualHost>"
+msgstr "不要添加完整的 <Virtualhost>..</VirtualHost>"
+
+msgid "Do not add a whole server { ... } entry."
+msgstr "不要添加整个 server { ... } 条目。"
+
+msgid "Do not add a whole virtualHost { ... } entry."
+msgstr "不要添加整个 virtualHost { ... } 条目。"
+
+msgid "Do not remove DNS zones of domains owned by the user."
+msgstr "不要移除有用户的域名的DNS Zone。"
+
+msgid "Do not use CAPS, www, or http:// in your domain name"
+msgstr "不要在域名中使用大写字母，也不要包含www，或http://"
+
+msgid "Do you want to edit non text type file?"
+msgstr "你确定要编辑非文本类型的文件吗？"
+
+msgid "Do you wish to rewrite the subject of a spam e-mail?"
+msgstr "您是否希望重写垃圾电子邮件的主题？"
+
+msgid "Docroot"
+msgstr "文档根目录"
+
+#, fuzzy
+msgid "Document Root"
+msgstr "文档根覆盖"
+
+msgid "Document Root to Demo Skin"
+msgstr "Demo皮肤的根目录"
+
+msgid "Does not exist"
+msgstr "不存在"
+
+#, fuzzy
+msgid "Does not expire"
+msgstr "不存在"
+
+msgid "domain"
+msgid_plural "domains"
+msgstr[0] "域名"
+
+msgid "Domain"
+msgstr "域名"
+
+msgid "Domain Check"
+msgstr "域名检查"
+
+msgid "Domain Directory"
+msgstr "域名目录"
+
+msgid "Domain IPs"
+msgstr "域名IP"
+
+#, fuzzy
+msgid "Domain Management"
+msgstr "域名管理"
+
+msgid ""
+"Domain name has been automatically converted to punycode format. Punycode is "
+"used to encode internationalized domain names (IDN) by converting Unicode "
+"characters to ASCII."
+msgstr "域名已自动转换为 punycode 格式。Punycode 用于通过将 Unicode 字符转换为 ASCII "
+"来编码国际化域名 (IDN)。"
+
+msgid "Domain name punycoded"
+msgstr "已转化为punycode的域名"
+
+msgid "Domain Name:"
+msgstr "域名:"
+
+msgid "Domain Pointer"
+msgid_plural "Domain Pointers"
+msgstr[0] "域名指向"
+
+msgid "Domain Pointers"
+msgstr "域名指向"
+
+msgid "Domain policy type"
+msgstr "域名策略类型"
+
+msgid "Domain Setup"
+msgstr "域名设置"
+
+msgid "Domain Statistics"
+msgstr "域名统计"
+
+msgid "Domain:"
+msgstr "域名："
+
+msgid "Domain: %{ domain }"
+msgstr "域名: %{ domain }"
+
+msgid "Domain(s)"
+msgstr "域名"
+
+msgid "Domains"
+msgstr "域名"
+
+msgid "Domains - Scan the domains directory."
+msgstr "域名 - 扫描域名目录。"
+
+msgid "Domains Directory"
+msgstr "域名目录"
+
+msgid "Domains Directory: Backs up all user files for all domains"
+msgstr "域名目录: 备份所有域名的所有用户文件"
+
+msgid "Domains filter"
+msgstr "域名过滤"
+
+msgid "Don't use attachments (dangerous)."
+msgstr "不使用附件（危险）。"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Dowload"
+msgstr "下载"
+
+#, fuzzy
+msgid "Dowload Apple iOS, iPadOS, Mac Configuration"
+msgstr "下载Outlook配置"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download as GZ"
+msgstr "下载为GZ"
+
+msgid "Download as SQL"
+msgstr "下载为SQL"
+
+msgid "Download Backup"
+msgstr "下载备份"
+
+msgid "Downloading %{name}"
+msgstr "正在下载 %{name}"
+
+msgid "Drop E-mail"
+msgstr "删除Email"
+
+msgid "Drop file here or click to upload"
+msgid_plural "Drop files here or click to upload"
+msgstr[0] "拖拽文件至此区域或点击进行上传"
+
+msgid "Drop here to upload"
+msgstr "拖拽到此处上传"
+
+msgid "DS Record"
+msgstr "DS 记录"
+
+msgid "Due to advanced SPF record syntax, text-mode is used for SPF changes."
+msgstr "由于高级SPF记录语法，文本模式用于SPF更改。"
+
+msgid "Duplicate"
+msgstr "副本"
+
+msgid "Duplicate to pointers"
+msgstr "复制到指向"
+
+msgid "Duration"
+msgstr "期间"
+
+msgid "Dynamic"
+msgstr "动态"
+
+msgid "E-mail"
+msgstr "电子邮件"
+
+msgid "E-Mail"
+msgstr "电子邮件"
+
+msgid "E-mail a copy of all messages"
+msgstr "通过邮件发送一份全部消息的副本"
+
+msgid "E-mail accounts"
+msgstr "邮箱账号"
+
+msgid "E-mail Accounts"
+msgstr "邮箱账号"
+
+msgid "E-mail Accounts List for all domains (names and passwords)"
+msgstr "所有域名的邮箱账号列表（名字及密码）"
+
+msgid "E-mail Address:"
+msgstr "邮件地址:"
+
+msgid "E-mail Allow"
+msgstr "电子邮件允许"
+
+msgid "E-mail Blocklist"
+msgstr "电子邮件阻止列表"
+
+msgid "E-mail Body Chunk"
+msgstr "电子邮件正文"
+
+msgid "E-mail Daily Limit"
+msgstr "电子邮件每日限制"
+
+msgid "E-mail Data"
+msgstr "邮箱数据"
+
+msgid ""
+"E-mail Data: Includes the messages from the Inbox, IMAP Folders, and webmail "
+"data."
+msgstr "邮箱数据: 包括来自收件箱、IMAP 文件夹和 webmail 数据的消息。"
+
+msgid "E-mail Disk Usage"
+msgstr "邮箱磁盘使用情况"
+
+msgid "E-mail Filters"
+msgstr "邮件筛选器"
+
+msgid "E-mail Forwarders"
+msgstr "邮件转发器"
+
+msgid "E-mail Headers"
+msgstr "邮件页头"
+
+msgid "E-mail Manager"
+msgstr "邮件管理器"
+
+msgid "E-mail Only"
+msgstr "仅限电子邮件"
+
+msgid "E-mail pending delivery"
+msgstr "待发送邮件"
+
+msgid "E-mail Quota (MB)"
+msgstr "邮件配额（MB）"
+
+msgid "E-mail Settings"
+msgstr "邮箱设置"
+
+msgid "E-mail Settings: Includes the filters and the catchall address."
+msgstr "邮箱设置: 包括筛选器和Catch-All地址。"
+
+msgid "E-mail Summary"
+msgstr "电子邮件摘要"
+
+msgid "E-mail Tracking"
+msgstr "电子邮件跟踪"
+
+msgid "E-mail Usage"
+msgstr "邮箱用量"
+
+msgid "E-mails"
+msgstr "电子邮件"
+
+msgid "E-Mails"
+msgstr "电子邮件"
+
+msgid "E-mails (Incoming / Outgoing)"
+msgstr "邮件（收件/发送）"
+
+msgid "e.g. \"/redirect\", \"/\""
+msgstr "例子：\"/redirect\", \"/\""
+
+msgid "e.g. \"http://www.redirected.com\""
+msgstr "例子：\"http://www.redirected.com\""
+
+msgid "e.g. *@domain.com"
+msgstr "例子：*@domain.com"
+
+msgid "e.g. &quot;/redirect&quot;, &quot;/&quot;"
+msgstr ""
+
+#, fuzzy
+msgid "e.g. &quot;http://www.redirected.com&quot;"
+msgstr "例子：\"http://www.redirected.com\""
+
+msgid "e.g. Member's Area"
+msgstr "例子：成员专区"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Account Configuration"
+msgstr "编辑帐户配置"
+
+msgid "Edit Admin Message"
+msgstr "编辑管理员备注"
+
+msgid "Edit Apache Error Pages"
+msgstr "编辑 Apache 错误页"
+
+msgid "Edit Category"
+msgstr "编辑分类"
+
+msgid "Edit Cron Job"
+msgstr "编辑定时任务"
+
+msgid "Edit DNS Records for %{ domain }"
+msgstr "编辑 %{ domain } 的DNS记录"
+
+msgid "Edit Domain"
+msgstr "编辑域名"
+
+msgid "Edit E-mail Message"
+msgstr "编辑邮件信息"
+
+#, fuzzy
+msgid "Edit Entry"
+msgstr "添加条目"
+
+msgid "Edit in new tab"
+msgstr "在新标签页中编辑"
+
+msgid "Edit Manually"
+msgstr "手动编辑"
+
+msgid "Edit Package"
+msgstr "编辑套餐"
+
+msgid "Edit Protection"
+msgstr "编辑保护"
+
+msgid "Edit Record"
+msgstr "编辑记录"
+
+msgid "Edit Reseller Message"
+msgstr "编辑分销者信息"
+
+msgid "Edit Route"
+msgstr "编辑路由"
+
+msgid "Edit SSH Key"
+msgstr "编辑SSH Key"
+
+msgid "Edit User Message"
+msgstr "编辑用户消息"
+
+msgid "eg. Member's Area"
+msgstr "例子：成员专区"
+
+msgid "eg. sourcedomain.com"
+msgstr "例子：sourcedomain.com"
+
+msgid "Elements filter"
+msgstr "元素过滤"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Email Accounts"
+msgstr "邮件账号"
+
+msgid "Embedded Styles"
+msgstr "嵌入样式"
+
+msgid "Empty pipes are not allowed"
+msgstr "不允许使用空管道"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Enable Admin Demo"
+msgstr "启用管理演示"
+
+msgid "Enable Automatic Lost Password Recovery"
+msgstr "启用自动找回密码功能"
+
+msgid "Enable DKIM"
+msgstr "启用DKIM"
+
+msgid "Enable Email Compression and Save Disk Space on Your Server"
+msgstr ""
+
+msgid "Enable Hotlinks Protection"
+msgstr "编辑防盗链保护"
+
+msgid "Enable Open Basedir"
+msgstr "启用 Open Basedir 保护"
+
+msgid "Enable Reseller Demo"
+msgstr "启用分销商演示"
+
+msgid "Enable SpamAssassin"
+msgstr "启用 SpamAssassin"
+
+msgid "Enable SSL"
+msgstr "启用SSL"
+
+msgid "Enable User Demo"
+msgstr "启用用户演示"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Encrypted"
+msgstr "加密的"
+
+msgid "End Time"
+msgstr "结束时间"
+
+msgid "End time should be larger than start time"
+msgstr "结束时间应大于开始时间"
+
+msgid "Endpoint Not Found"
+msgstr "未找到端点"
+
+msgid "Enter new password:"
+msgstr "输入新密码:"
+
+msgid "Enter Password"
+msgstr "输入密码"
+
+msgid "Enter Password:"
+msgstr "输入密码:"
+
+msgid "Entries already included in the System Quotas"
+msgstr "条目已包含在System Quotas内"
+
+#, fuzzy
+msgid "Entry Type"
+msgstr "Key类型"
+
+msgid "Environment"
+msgstr "环境"
+
+msgid "Equal"
+msgstr "等于"
+
+msgid "Equals"
+msgstr "等于"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error 404: File Not Found"
+msgstr "错误404: 未找到文件"
+
+msgid "Error getting backup details"
+msgstr "获取备份详细信息时出错"
+
+msgid ""
+"Error loading %{ id } plugin: loaded bundle does not export valid Vue "
+"component."
+msgstr "加载 %{ id }插件时出错：加载的包没有导出有效的 Vue 组件。"
+
+msgid "Error loading %{ id } plugin: loaded bundle is not ES6 Module."
+msgstr "加载%{ id } 插件时出错：加载的包不是 ES6 模块。"
+
+msgid "Error loading %{ id } plugin."
+msgstr "加载%{ id } 插件时出错。"
+
+msgid "Error Loading Data"
+msgstr "加载数据错误"
+
+msgid "Error Log"
+msgstr "错误日志"
+
+msgid "Error reading file"
+msgstr "读取文件时出错"
+
+msgid "Error reading File"
+msgstr "读取文件时出错"
+
+msgid "Error Reading File"
+msgstr "读取文件时出错"
+
+msgid "every %s hours"
+msgstr "每 %s 小时"
+
+msgid "every %s minutes"
+msgstr "每 %s 分钟"
+
+msgid "every %s seconds"
+msgstr "每 %s 秒"
+
+msgid "every hour"
+msgstr "每隔一小时"
+
+msgid "every minute"
+msgstr "每一分钟"
+
+msgid "Every minute between %s and %s"
+msgstr "%s 和 %s 之间的每一分钟"
+
+msgid "every second"
+msgstr "每秒"
+
+#, fuzzy
+msgid "Every second"
+msgstr "每秒"
+
+msgid "Everything"
+msgstr "全部"
+
+msgid "Evolution encountered error while loading <code>%{page}</code>."
+msgstr ""
+
+msgid "Except Selected Users"
+msgstr "除选中用户外"
+
+msgid "Execute"
+msgstr "执行"
+
+msgid "Expired %{ distance } ago"
+msgstr ""
+
+msgid "Expires"
+msgstr "过期时间"
+
+msgid "Expires in %{ distance }"
+msgstr ""
+
+msgid "Expires On"
+msgstr "过期时间"
+
+msgid "Expiry"
+msgstr "到期"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export e-mails"
+msgstr "导出电子邮件"
+
+msgid "Extension"
+msgstr "扩展"
+
+msgid "Extension:"
+msgstr "扩展名:"
+
+msgid "Extensions"
+msgstr "扩展"
+
+msgid "External"
+msgstr "外部"
+
+msgid "External CSS URL"
+msgstr "外部CSS URL"
+
+msgid "External Styles URL"
+msgstr "外部样式 URL"
+
+msgid "Extra Features"
+msgstr "附加功能"
+
+msgid "Extra Small"
+msgstr "超小"
+
+msgid "Extract"
+msgstr "解压"
+
+msgid "Extract \"%{name}\""
+msgstr "解压 \"%{name}\""
+
+msgid "Extract to %{ target }"
+msgstr "解压缩到 %{ target }"
+
+msgid "Fail"
+msgstr "失败"
+
+msgid "Fail:"
+msgstr "失败："
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "Failed Logins"
+msgstr "失败的登录"
+
+msgid "Failed Logins: IP list"
+msgstr "失败的登录: IP 列表"
+
+msgid "Failed logins: Usernames List"
+msgstr "失败的登录: 用户名列表"
+
+msgid "Failed to create %{subject}!"
+msgstr "未能创建%｛subject｝！"
+
+#, fuzzy
+msgid "Failed to delete login key"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to delete login URL"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to load %{key} login key"
+msgstr "字段太长"
+
+msgid "Failed to load %{subject}!"
+msgstr "未能加载%｛subject｝！"
+
+#, fuzzy
+msgid "Failed to load cPanel import log"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to load license information"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to load login keys"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to load system info"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to load updates information"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to load vacation messages!"
+msgstr "字段太长"
+
+#, fuzzy
+msgid "Failed to login as ${user} user!"
+msgstr "未能加载%｛subject｝！"
+
+msgid "Failed to reach returned JSON"
+msgstr "读取返回的JSON失败"
+
+msgid "Failed to update %{subject}!"
+msgstr "无法更新％{主题}！"
+
+#, fuzzy
+msgid "FastCGI cache"
+msgstr "CGI Access"
+
+msgid "Favicon"
+msgstr "图标"
+
+msgid "Feature Disabled"
+msgstr "功能已禁用"
+
+msgid "Feature Set"
+msgstr "功能设置"
+
+msgid "Feature Sets"
+msgstr "功能设置"
+
+msgid "Features"
+msgstr "功能"
+
+msgid "Feb"
+msgstr "二月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "Fetch"
+msgstr "获取"
+
+msgid "Fetch completed"
+msgstr "获取完成"
+
+msgid "Field is required"
+msgstr "必填字段"
+
+msgid "Field too long"
+msgstr "字段太长"
+
+msgid "Field too short"
+msgstr "字段太短"
+
+msgid "fifth"
+msgstr "第五"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File %{file} does not exist"
+msgstr "文件 %{file} 不存在"
+
+msgid "File Editor"
+msgstr "文件编辑器"
+
+msgid "File is too big"
+msgid_plural "Files are too big"
+msgstr[0] "文件太大"
+
+msgid "File Manager"
+msgstr "文件管理器"
+
+msgid "File Name"
+msgstr "文件名"
+
+msgid "File Path"
+msgstr "文件路径"
+
+msgid "File was not added due to max file size limit"
+msgstr "文件因超过大小限制，未被添加"
+
+msgid "Filemanager Redirect"
+msgstr "文件管理器重定向"
+
+msgid "Filename has not been changed"
+msgstr "文件名未更改"
+
+msgid "Filename of the new key"
+msgstr "新Key的文件名"
+
+msgid "Files"
+msgstr "文件"
+
+#, fuzzy
+msgid "Files & Folders"
+msgstr "新文件夹"
+
+msgid "Filesystem"
+msgstr "文件系统"
+
+msgid "filter"
+msgid_plural "filters"
+msgstr[0] "过滤器"
+
+msgid "Filter"
+msgstr "筛选器"
+
+msgid "Filter Accounts"
+msgstr "过滤帐户"
+
+msgid "Filter files..."
+msgstr "筛选文件..."
+
+msgid "Filter forwarders"
+msgstr "过滤转发器"
+
+msgid "Filter icons"
+msgstr "过滤图标"
+
+msgid "Filter IP"
+msgstr "过滤IP"
+
+msgid "Filter IPs"
+msgstr "过滤IP"
+
+#, fuzzy
+msgid "Filter Routes"
+msgstr "筛选用户"
+
+msgid "Filter Tokens"
+msgstr "过滤器 Token"
+
+msgid "Filter Type"
+msgstr "筛选类型"
+
+msgid "Filter users"
+msgstr "筛选用户"
+
+msgid "Filter Value"
+msgstr "筛选值"
+
+msgid "Find next"
+msgstr "查找下一个"
+
+msgid "Find previous"
+msgstr "查找上一个"
+
+msgid "Fingerprint"
+msgstr "指纹"
+
+msgid "first"
+msgstr "第一个"
+
+msgid "First"
+msgstr "第一个"
+
+msgid "first weekday"
+msgstr "第一个工作日"
+
+msgid "Fix %{ n } issue"
+msgid_plural "Fix %{ n } issues"
+msgstr[0] ""
+
+#, fuzzy
+msgid "Fix Report"
+msgstr "关闭报告"
+
+msgid "Fixed %{ fixed } issue"
+msgid_plural "Fixed %{ fixed } issues"
+msgstr[0] ""
+
+msgid "Flush from DNS"
+msgstr "从 DNS 刷新"
+
+msgid "Folder"
+msgstr "文件夹"
+
+msgid "Folder Name"
+msgstr "文件夹名称"
+
+msgid "Folder Sizes"
+msgstr "文件夹大小"
+
+msgid "Folder:"
+msgstr "文件夹："
+
+msgid "Folders"
+msgstr "文件夹"
+
+msgid "Folders Tree"
+msgstr "文件夹树"
+
+msgid "For dark mode & sidebar layout"
+msgstr "黑色模式和侧边栏布局"
+
+msgid "For IPv6 IPs, use a /mask, eg: /64"
+msgstr "对于IPv6 IP，请使用/mask，例如:/64"
+
+msgid "Forbid users changing the skin layout on user level"
+msgstr "禁止用户在用户级别更改外观布局"
+
+msgid "Forbidden"
+msgstr "禁止"
+
+msgid "Force Load"
+msgstr "强制加载"
+
+msgid "Force redirect"
+msgstr "强制重定向"
+
+msgid "Force SSL with https redirect"
+msgstr "强制SSL进行https重定向"
+
+msgid "Force white background for sidebar header"
+msgstr "强制边栏header使用白色背景"
+
+msgid "Forced"
+msgstr "强制"
+
+msgid "Forensic Email (RUF)"
+msgstr "取证电子邮件 (RUF)"
+
+msgid "forwarder"
+msgid_plural "forwarders"
+msgstr[0] "转发器"
+
+msgid "Forwarder"
+msgstr "转发器"
+
+msgid "Forwarder Name"
+msgstr "转发器名称"
+
+msgid "Forwarders"
+msgstr "转发器"
+
+msgid "Forwarders: Includes all forwarding addresses."
+msgstr "转发器：包括所有转发地址。"
+
+msgid "fourth"
+msgstr "第四"
+
+#, fuzzy
+msgid "Fr"
+msgstr "周五"
+
+msgid "Free"
+msgstr "释放"
+
+msgid "Freeze"
+msgstr "冻结"
+
+msgid "Fri"
+msgstr "周五"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "From"
+msgstr "从"
+
+msgid "from the list"
+msgstr "从列表中"
+
+msgid "Frozen"
+msgstr "冻结"
+
+msgid "FTP"
+msgstr "FTP"
+
+msgid "FTP account created"
+msgstr "FTP帐号已创建"
+
+msgid ""
+"FTP account with the root directory as the user name in the public_html "
+"directory"
+msgstr "以在public_html中和用户名相同的目录作为根目录的FTP账号"
+
+msgid ""
+"FTP account with the root directory as the users name in the public_html "
+"directory"
+msgstr "以在public_html中和用户名相同的目录作为根目录的FTP账号"
+
+msgid ""
+"FTP account with the root directory in the domains home directory (one up "
+"from the public_html)"
+msgstr "以在域名根目录（public_html对上的一个目录）作为根目录的FTP账号"
+
+msgid "FTP account with the root directory in the domains public_ftp directory"
+msgstr "以在域名目录里的public_ftp作为根目录的FTP账号"
+
+msgid "FTP accounts"
+msgstr "FTP账号"
+
+msgid "FTP Accounts"
+msgstr "FTP账号"
+
+msgid "FTP Accounts for %{ domain }"
+msgstr "%{ domain }的 FTP 帐账号"
+
+msgid "FTP Management"
+msgstr "FTP管理"
+
+msgid "FTP Settings"
+msgstr "FTP设置"
+
+msgid "FTP Username"
+msgstr "ftp 用户名"
+
+msgid "FTP Username:"
+msgstr "FTP 用户名:"
+
+msgid "Full Log"
+msgstr "完整日志"
+
+msgid "Full Log (slow for large logfiles)"
+msgstr "完整日志（大型日志文件较慢）"
+
+msgid "Full reload will be performed in %{ seconds } seconds"
+msgstr "完全重新加载将在 %{ seconds } 秒内执行"
+
+msgid "Full Server Statistics"
+msgstr "完整的服务器统计信息"
+
+msgid "Generate Keys"
+msgstr "生成密钥"
+
+msgid "Generate Random Password"
+msgstr "生成随机密码"
+
+msgid "Generate Secret"
+msgstr "生成密钥"
+
+msgid "Get Access"
+msgstr "获取访问权限"
+
+msgid "Get automatic certificate from ACME Provider"
+msgstr "从 ACME Provider 自动获取证书"
+
+msgid "Git"
+msgstr "Git"
+
+msgid "Git Deploy"
+msgstr "Git部署"
+
+msgid "Git deploy branch is not set"
+msgstr "未设置Git部署分支"
+
+msgid "Git deploy directory is not set"
+msgstr "未设置Git部署目录"
+
+msgid "Git directory exists %{ directory }"
+msgstr "Git目录已存在 %{ directory }"
+
+msgid "Git Fetch"
+msgstr "Git 获取"
+
+msgid "Git Modify"
+msgstr "Git 修改"
+
+msgid "Global"
+msgstr "全球"
+
+msgid ""
+"Global custom tokens apply to all php version, but only for this User. "
+"Global is added before per-php tokens."
+msgstr "全局自定义标记适用于所有php版本，但仅适用于此用户。在per-"
+"php令牌之前添加Global。"
+
+msgid "Global Default"
+msgstr "全局默认"
+
+msgid "Global Key"
+msgstr "全局密钥"
+
+msgid "Global Key Options"
+msgstr "全局Key选项"
+
+msgid "Global Limit"
+msgstr "全局限制"
+
+msgid "Go back to Log view"
+msgstr "返回日志视图"
+
+msgid "Grep"
+msgstr "Grep"
+
+msgid "Grep:"
+msgstr "查找:"
+
+msgid "Grid"
+msgstr "网格"
+
+msgid "Grid Icons"
+msgstr "网格图标"
+
+msgid "Group"
+msgstr "组"
+
+msgid "half a minute"
+msgstr "半分钟"
+
+msgid "handler"
+msgid_plural "handlers"
+msgstr[0] "Handler"
+
+msgid "Handler"
+msgstr "Handler"
+
+msgid "Handler for such extension already exists"
+msgstr "此类扩展的Handler已存在"
+
+msgid "Hardware details"
+msgstr "硬件详细信息"
+
+msgid "Has expiry date"
+msgstr ""
+
+msgid "Hello,"
+msgstr "你好，"
+
+msgid "Help"
+msgstr "帮助"
+
+#, fuzzy
+msgid "Help link"
+msgstr "帮助"
+
+#, fuzzy
+msgid "Help Links"
+msgstr "实用链接"
+
+msgid "Here is your SSL Certificate Request."
+msgstr "这是您的SSL证书申请。"
+
+msgid "Hi, %{username} 👋"
+msgstr "你好, %{username} 👋"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Hide Empty"
+msgstr "隐藏空值"
+
+msgid "Hide entries which use 0 bytes"
+msgstr "隐藏使用了0 bytes的记录"
+
+msgid "Hide folders tree"
+msgstr "隐藏文件夹树"
+
+msgid "High"
+msgstr "高"
+
+msgid "High severity"
+msgstr "高严重性"
+
+msgid "High Threshold (10.0)"
+msgstr "高阈值 (10.0)"
+
+msgid "Highest"
+msgstr "最高"
+
+msgid "Hold"
+msgstr "保持"
+
+msgid "Hold ⌘ or control key to copy"
+msgstr "按住⌘ 或Ctrl键进行复制"
+
+msgid "Hold Shift key to remove completely"
+msgstr "按住Shift键可将其完全移除"
+
+msgid "Home"
+msgstr "主页"
+
+msgid "Home - Scan the home directory."
+msgstr "Home - 扫描主目录。"
+
+msgid "Home Directory"
+msgstr "主目录"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "Host"
+msgstr "主机"
+
+msgid "Host connection failure"
+msgstr "主机连接失败"
+
+#, fuzzy
+msgid "Hostname"
+msgstr "服务器主机名"
+
+msgid "Hosts"
+msgstr "主机"
+
+msgid "Hotlink Protection"
+msgstr "防盗链保护"
+
+msgid "Hotlinks Protection"
+msgstr "防盗链保护"
+
+msgid "Hour"
+msgstr "小时"
+
+msgid "Hour should be a number between 0 and 23 or *"
+msgstr "小时必须是0到23之间的数字或是 *"
+
+msgid "Hour: %{hour}"
+msgstr "小时: %{hour}"
+
+msgid "hours after last attempt."
+msgstr "小时自最后一次尝试。"
+
+msgid "How should the spam be delivered?"
+msgstr "如何发送垃圾邮件？"
+
+msgid ""
+"However, these passwords have attributes, such as the ability to expire and "
+"can be limited to certain functions."
+msgstr "但是，这些密码具有属性，例如可以过期，并且可以限制为某些功能。"
+
+msgid "HTTPD data"
+msgstr "HTTPD 数据"
+
+msgid "Hue"
+msgstr "色调"
+
+msgid "Huge icons"
+msgstr "Huge icons"
+
+msgid "Hybrid"
+msgstr "混合"
+
+msgid "Icon"
+msgstr "图标"
+
+msgid "Icon ID"
+msgstr "图标 ID"
+
+msgid "Icon id could include only lowercase letters, digits and dashes"
+msgstr "图标 ID 只能包含小写字母、数字和破折号"
+
+msgid "Icon Size"
+msgstr "图标大小"
+
+msgid "Icons"
+msgstr "图标"
+
+msgid "Icons for icons grid navigation"
+msgstr "网格导航的图标"
+
+msgid "Icons for refreshed layout menu navigation"
+msgstr "用于刷新布局菜单导航的图标"
+
+msgid "Icons Grid"
+msgstr "图标网格"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ID Info"
+msgstr "ID信息"
+
+msgid "Idle Timeout"
+msgstr "空闲超时"
+
+msgid ""
+"If hosting a repository on this server, only the \"name\" parameter is "
+"required."
+msgstr ""
+
+msgid ""
+"If hosting a repository on this server, only the &quot;name&quot; parameter "
+"is required."
+msgstr ""
+
+msgid "If no commands are checked (allow and deny), all commands are allowed."
+msgstr "如果未选中任何命令(允许或拒绝)，则允许所有命令。"
+
+msgid ""
+"If script is set, all requests to the application are handled by the script "
+"you provide."
+msgstr "如果设置了脚本，则对应用程序的所有请求都由提供的脚本处理。"
+
+msgid ""
+"If SMTP authentication is used, this will show the login name used. Scripts "
+"will show the owner of the script. Can be considered accurate."
+msgstr "如果使用SMTP身份验证，这将显示使用的登录名，脚本将显示脚本的所有者，可以认为"
+"是准确的。"
+
+msgid ""
+"If the email was generated from a script, the path value will show the "
+"working directory the script was in. An email in the spool will have a path "
+"value of \"retry\" for each attempt."
+msgstr "如果电子邮件是由脚本生成的，路径值将显示脚本所在的工作目录。 "
+"每次尝试中的电子邮件都有路径值“重试”。"
+
+msgid "If the user already exists, this setting will have no effect."
+msgstr "如果用户已经存在, 此设置将不起作用。"
+
+msgid ""
+"If the username entered is correct, you will receive a confirmation email "
+"shortly."
+msgstr ""
+
+msgid ""
+"If this is set, it will show the IP that connect to the server. If no IP is "
+"set, then the email was sent vie a local script."
+msgstr "如果设置，它将显示连接到服务器的IP。 "
+"如果没有设置IP，则通过本地脚本发送电子邮件。"
+
+msgid "If unchecked key never expires."
+msgstr ""
+
+msgid ""
+"If using the IPs from within the backup, any IPs that don't exist on this "
+"system will not be included. If there no IPs to be used, a Reseller or Admin "
+"will be restored to the server IP."
+msgstr ""
+"如果使用备份中的IP地址的话，所有使用这个系统不存在的IP的备份将不会被恢复。如"
+"果备份中没有指明IP地址的话，分销者或者管理员会被恢复到服务器IP地址。"
+
+msgid "Ignore Case"
+msgstr "大小写不敏感"
+
+msgid "Ignore convert errors"
+msgstr "忽略转换错误"
+
+msgid "Ignore Errors"
+msgstr "忽略错误"
+
+msgid "Ignore:"
+msgstr "忽略："
+
+msgid "Image preview"
+msgstr "图像预览"
+
+msgid "Images"
+msgstr "图像"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "IMAP:"
+msgstr "IMAP:"
+
+msgid "ImapSync authentication failure"
+msgstr "ImapSync 身份验证失败"
+
+msgid "ImapSync connection failure"
+msgstr "ImapSync 连接失败"
+
+msgid "ImapSync host destination connection failure"
+msgstr "ImapSync 主机目标连接失败"
+
+msgid "ImapSync host source connection failure"
+msgstr "ImapSync 主机源连接失败"
+
+msgid "IMAPSync Manager"
+msgstr "IMAPSync 管理器"
+
+msgid "IMAPSync Migrations"
+msgstr "IMAPSync 迁移"
+
+msgid "ImapSync process not found"
+msgstr "找不到 ImapSync 进程"
+
+msgid "ImapSync user destination authentication failure"
+msgstr "ImapSync 用户目标身份验证失败"
+
+msgid "ImapSync user source authentication failure"
+msgstr "ImapSync 用户源身份验证失败"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import e-mails"
+msgstr "导入电子邮件"
+
+msgid "Import packages"
+msgstr "导入套餐"
+
+msgid "Import Packages"
+msgstr "导入套餐"
+
+msgid "In"
+msgstr "在"
+
+msgid "In progress"
+msgstr "进行中"
+
+msgid "In Progress"
+msgstr "进行中"
+
+msgid "Inactive"
+msgstr "不活跃"
+
+msgid "Inbound"
+msgstr "入站"
+
+msgid "Inbox (don't block it)"
+msgstr "收件箱(请勿屏蔽)"
+
+msgid "Incident Object Description Exchange Format"
+msgstr "事件对象描述交换格式"
+
+msgid "Include"
+msgstr "包含"
+
+msgid "Include Domain"
+msgstr "包含域名"
+
+msgid "Incoming"
+msgstr "传入"
+
+msgid "Increase Bandwidth"
+msgstr "增加流量"
+
+msgid "Incremental file-by-file backup"
+msgstr "增量文件备份"
+
+msgid "Index Access"
+msgstr "索引访问"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Info Access"
+msgstr "信息访问"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Initialize Repository"
+msgstr "初始化存储库"
+
+msgid "Inode"
+msgstr "索引节点"
+
+msgid "Inodes"
+msgstr "索引节点"
+
+msgid "Inodes Count"
+msgstr "Inodes 数量"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Install after upload"
+msgstr "上传后安装"
+
+msgid "Install Nginx as Reverse Proxy and Control Proxying Per-Domain"
+msgstr ""
+
+msgid "Install WordPress"
+msgstr "安装 WordPress"
+
+msgid "Installation deleted"
+msgstr "安装已删除"
+
+msgid "Installation successful"
+msgstr "安装成功"
+
+msgid "Installed"
+msgstr "已安装"
+
+msgid "Installed Perl Modules"
+msgstr "已安装的Perl模块"
+
+#, fuzzy
+msgid "Internal"
+msgstr "外部"
+
+msgid "Internal sign-in"
+msgstr "内部登录"
+
+msgid "Intro Access"
+msgstr "Intro Access"
+
+#, fuzzy
+msgid "Invalid database credentials"
+msgstr "无效的日期格式"
+
+msgid "Invalid date format"
+msgstr "无效的日期格式"
+
+msgid "Invalid Domain"
+msgstr "无效域名"
+
+msgid "Invalid JSON"
+msgstr "无效的JSON"
+
+msgid "Invalid Subject"
+msgstr "无效主题"
+
+msgid "Invalid username"
+msgstr "用户名无效"
+
+msgid "Invert"
+msgstr "倒置"
+
+msgid "IO"
+msgstr "IO"
+
+msgid "IO Pressure"
+msgstr "IO 负载"
+
+msgid "IO Read"
+msgstr "IO 读取"
+
+msgid "IO Write"
+msgstr "IO 写入"
+
+msgid "IOPS"
+msgstr "IOPS"
+
+msgid "IP"
+msgid_plural "IPs"
+msgstr[0] "IP"
+
+msgid "IP / Range / Domain / E-mail"
+msgstr "IP / 范围 / 域名 / E-mail"
+
+msgid "IP / User"
+msgstr "IP / 用户"
+
+msgid "IP Address"
+msgid_plural "IP Addresses"
+msgstr[0] "IP地址"
+
+msgid "IP Address:"
+msgstr "IP地址："
+
+msgid "IP Addresses"
+msgstr "IP地址"
+
+msgid "IP Addresses in CIDR format that deliver or relay mail for this domain"
+msgstr "用于传递或中继此域邮件的CIDR格式的IP地址"
+
+msgid "IP Details"
+msgstr "IP 的详细信息"
+
+msgid "IP Info"
+msgstr "IP 信息"
+
+msgid "IP Info: %{ ip }"
+msgstr "IP 信息: %{ ip }"
+
+msgid "IP Management"
+msgstr "IP管理"
+
+msgid "IP Manager"
+msgstr "IP管理器"
+
+msgid "IP of Domain"
+msgstr "域名数量"
+
+msgid ""
+"IP without CIDR prefix will be automatically assigned with 32 IPV4 and 128 "
+"IPV6 CIDR prefix."
+msgstr ""
+
+msgid "IP's in CIDR format."
+msgstr ""
+
+msgid "IP(s)"
+msgstr "IP"
+
+msgid "IPs"
+msgstr "IP"
+
+msgid "Issuer"
+msgstr "发行人"
+
+msgid ""
+"It will free up some space, but will reset any learned progress SpamAssassin "
+"has previously made."
+msgstr "这能释放一些空间，但将重置 SpamAssassin 以前所取得的任何学习进展。"
+
+msgid "Jailed"
+msgstr "封禁"
+
+msgid "Jan"
+msgstr "1月"
+
+msgid "January"
+msgstr "1月"
+
+msgid "Java"
+msgstr "Java"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid "JSON"
+msgstr "JSON"
+
+msgid "Jul"
+msgstr "7月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "Jump to line"
+msgstr "跳过行"
+
+msgid "Jun"
+msgstr "6月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "Keep Number of Apache Log Backups"
+msgstr "Apache Log 备份存放数量"
+
+msgid "Key"
+msgstr "密钥"
+
+msgid "Key Data"
+msgstr "Key 数据"
+
+msgid "Key file"
+msgstr "密钥文件"
+
+msgid "Key ID"
+msgstr "Key ID"
+
+msgid "Key Name"
+msgstr "密钥名称"
+
+msgid "Key Name:"
+msgstr "Key 名称:"
+
+msgid "Key Options"
+msgstr "Key 选项"
+
+msgid "Key size"
+msgstr "Key 大小"
+
+msgid "Key Size (bits)"
+msgstr "Key 大小 （bits）"
+
+msgid "Key Value:"
+msgstr "Key 值："
+
+msgid "Key-Signing Key"
+msgstr "Key-签名密钥"
+
+msgid "Keyfile"
+msgstr "密钥文件"
+
+msgid "Keys not yet generated."
+msgstr "Key尚未生成。"
+
+msgid "KiB Mem:"
+msgstr "KiB 内存："
+
+msgid "KiB Swap:"
+msgstr "KiB Swap："
+
+msgid "Kill"
+msgstr "终止"
+
+#, fuzzy
+msgid "Kill Process"
+msgstr "取消进程"
+
+msgid "Lacking authorization to connect to the remote repository"
+msgstr ""
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Large icons"
+msgstr "大图标"
+
+msgid "Last"
+msgstr "最后一个"
+
+#, fuzzy
+msgid "Last 1 minute"
+msgstr "1 分钟"
+
+#, fuzzy
+msgid "Last 15 minutes"
+msgstr "5 分钟"
+
+#, fuzzy
+msgid "Last 5 minutes"
+msgstr "5 分钟"
+
+msgid "Last Message"
+msgstr "最后一条消息"
+
+msgid "Last Password Change:"
+msgstr "上次密码更改："
+
+msgid "Last PID:"
+msgstr "最后的PID:"
+
+msgid "Last Tally Completion"
+msgstr "上次统计完成"
+
+msgid "Layout"
+msgstr "布局"
+
+msgid "Layout Options"
+msgstr "布局选项"
+
+msgid "Learn <strong>DirectAdmin.</strong>"
+msgstr ""
+
+msgid "Learn about our <strong>Pro Pack.</strong>"
+msgstr ""
+
+msgid "Learn More"
+msgstr "了解更多"
+
+msgid "Leave DNS"
+msgstr "退出DNS"
+
+msgid "Legacy"
+msgstr "历史"
+
+msgid "Legacy (a sub-folder inside main domain)"
+msgstr ""
+
+msgid "less than a minute"
+msgid_plural "less than %{ count } minutes"
+msgstr[0] "少于 %{ count } 分钟"
+
+msgid "less than a second"
+msgid_plural "less than %{ count } seconds"
+msgstr[0] "少于 %{ count } 秒"
+
+msgid "Level"
+msgstr "用户等级"
+
+#, fuzzy
+msgid "license"
+msgstr "许可证"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "License checks cannot be performed"
+msgstr "无法执行许可证检查"
+
+msgid "License ID (LID)"
+msgstr "许可证编号(LID)"
+
+msgid "License Info"
+msgstr "许可证信息"
+
+msgid "License or License session doesn't exist"
+msgstr "许可证或许可证会话不存在"
+
+msgid "License owner (UID)"
+msgstr "许可证所有者 (UID)"
+
+msgid "License Proof"
+msgstr "许可证证明"
+
+msgid "License session not being connected"
+msgstr "许可证会话未连接"
+
+msgid "License: %{name}"
+msgstr "许可证：%{name}"
+
+msgid "Licensing"
+msgstr "许可"
+
+msgid "Lightness"
+msgstr "亮度"
+
+msgid "Limit"
+msgstr "限制"
+
+msgid "Limit can't be larger than %{ limit }"
+msgstr "限制不能大于%{ limit }"
+
+msgid "Limit CPU, RAM, I/O with the Pro Pack"
+msgstr ""
+
+msgid "Limit Hits"
+msgstr "点击限制"
+
+msgid "Limit Notice"
+msgstr "限制通知"
+
+msgid "Limit of 10 domain lookups reached"
+msgstr "已达到 10 个域查找的限制"
+
+msgid "Limit should be larger than 0"
+msgstr "限制应大于0"
+
+msgid "Limited License"
+msgstr "有限许可"
+
+msgid "Line"
+msgstr "行"
+
+msgid "Line Numbers"
+msgstr "行号"
+
+msgid "Line Wrap"
+msgstr "换行"
+
+msgid "Lines Count"
+msgstr "行数"
+
+msgid "Lines:"
+msgstr "行："
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Link an IP to %{ip}"
+msgstr "将 IP Link 到"
+
+msgid "Link in background"
+msgstr "后台链接"
+
+msgid "Link IP"
+msgstr "Link IP"
+
+#, fuzzy
+msgid ""
+"Link to id_rsa.pub (should be inserted into ~/user/.ssh/authorized_keys)"
+msgstr "SCP的id_dsa.pub(~/user/.ssh/authorized_keys2)"
+
+msgid "Link to: %{ path }"
+msgstr "链接到: %{ path }"
+
+msgid "Linked IP(s)"
+msgstr "已Link的IP"
+
+msgid ""
+"Linking an IP with apache will add the linked IP into the VirtualHost with "
+"the current IP."
+msgstr "Link一个IP到Apache会将这个IP额外添加到VitrualHost。"
+
+msgid ""
+"Linking an IP with DNS will duplicate the A/AAAA records for the current IP "
+"with the linked IP."
+msgstr "将IP与DNS链接将使当前IP的A/AAAA记录与链接的IP重复。"
+
+msgid "List"
+msgstr "列表"
+
+msgid "List Administrators"
+msgstr "列出管理员"
+
+msgid "List filtered by IP: %{ ip }"
+msgstr "按 IP 筛选的列表: %{ ip }"
+
+msgid "List filtered by User: %{ user } "
+msgstr "按用户筛选的列表: %{ user } "
+
+msgid "List Information"
+msgstr "列表信息"
+
+msgid "List Name:"
+msgstr "列表名称："
+
+msgid "List of currently active scans."
+msgstr "当前活动扫描的列表。"
+
+msgid "List Resellers"
+msgstr "显示分销商"
+
+msgid "List Users"
+msgstr "显示用户"
+
+msgid "listed here."
+msgstr ""
+
+msgid "Live API Documentation"
+msgstr "实时 API 文档"
+
+msgid "Live Usage"
+msgstr "实时使用"
+
+msgid "Load"
+msgstr "负载"
+
+msgid "Load Accounts"
+msgstr "加载帐户"
+
+msgid "Load all %{n} files in current folder"
+msgstr "加载当前文件夹中的所有%{n}个文件"
+
+msgid "Load Average"
+msgstr "平均负载"
+
+msgid "Load Average:"
+msgstr "平均负载："
+
+msgid "Load Hits"
+msgstr "加载点击数"
+
+msgid "Load in new tab"
+msgstr "在新选项卡中加载"
+
+msgid "Load Log"
+msgstr "加载日志"
+
+msgid "Load Usage"
+msgstr "负载使用量"
+
+msgid "Loading"
+msgstr "载入中"
+
+msgid "Loading “%{name}” plugin"
+msgstr "正在加载插件“%{name}”"
+
+#, fuzzy
+msgid "loading server data..."
+msgstr "正在加载组件数据..."
+
+msgid ""
+"Loading was aborted due to %{ time }s timeout. <br/>%{returned} lines was "
+"returned of %{ requested } requested"
+msgstr "由于超时了 %{ time }秒，加载被中止。 <br/>%{returned} 行返回了 %{ requested }"
+" 个请求"
+
+msgid "Loading widget data..."
+msgstr "正在加载组件数据..."
+
+msgid "Local"
+msgstr "本地"
+
+msgid "Local Data"
+msgstr "本地数据"
+
+msgid "Local Mail"
+msgstr "本地邮件"
+
+msgid "Local path"
+msgstr "本地路径"
+
+msgid "Local URL Path"
+msgstr "本地URL路径"
+
+msgid "Local: %{ local_path }"
+msgstr "本地: %{ local_path }"
+
+msgid "Local: %{ location }"
+msgstr "本地位置: %{ location }"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Locations without WordPress"
+msgstr "没有 WordPress 的位置"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Log Entry"
+msgstr "日志条目"
+
+msgid "Log Usage"
+msgstr "日志使用情况"
+
+msgid "Log View Options"
+msgstr "日志视图选项"
+
+msgid "Log Viewer"
+msgstr "日志查看器"
+
+msgid "Logged in as"
+msgstr "已登录为"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Login anyway"
+msgstr "强制登录"
+
+msgid "Login as %{ username }"
+msgstr "以 %{ username } 身份登录"
+
+msgid "Login as %{user}"
+msgstr "作为%{user}登录"
+
+msgid "login attempts"
+msgstr "登录尝试"
+
+msgid "Login Customization"
+msgstr "登录自定义"
+
+msgid "Login Failures"
+msgstr "登录失败"
+
+msgid "login failures from any IP."
+msgstr "来自所有IP的登录失败尝试。"
+
+msgid "login failures on any account."
+msgstr "所有账号的登录失败记录。"
+
+msgid "Login History"
+msgstr "登录历史"
+
+#, fuzzy
+msgid "login key"
+msgstr "登录密钥"
+
+msgid "Login key created. Take note of it's value and keep it safe."
+msgstr "已创建登录密钥，请记下它的值并保存到安全的地方。"
+
+#, fuzzy
+msgid "Login key modified. Take note of it and keep it safe."
+msgstr "已创建登录密钥，请记下它的值并保存到安全的地方。"
+
+#, fuzzy
+msgid "Login key was successfully deleted"
+msgstr "账号已成功删除"
+
+#, fuzzy
+msgid "login keys"
+msgstr "登录密钥"
+
+msgid "Login Keys"
+msgstr "登录密钥"
+
+msgid "Login keys allow you to create extra passwords for your account."
+msgstr "登录Key允许您为您的帐户创建额外的密码。"
+
+msgid "Login Page"
+msgstr "登录页面"
+
+msgid "Login to phpMyAdmin"
+msgstr "登入phpMyAdmin"
+
+#, fuzzy
+msgid "Login URL was successfully created"
+msgstr "账号已成功删除"
+
+#, fuzzy
+msgid "Login URL was successfully deleted"
+msgstr "账号已成功删除"
+
+#, fuzzy
+msgid "Login URLs"
+msgstr "登录密钥"
+
+msgid "Login: %{ login }"
+msgstr "登录: %{ login }"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Logo Dark"
+msgstr "深色Logo"
+
+msgid "Logo Light"
+msgstr "亮色Logo"
+
+msgid "Logout"
+msgstr "注销"
+
+msgid "Logs"
+msgstr "日志"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Low severity"
+msgstr "低严重性"
+
+msgid "Low Threshold (5.0)"
+msgstr "低阈值 (5.0)"
+
+msgid "Machine ID"
+msgstr "机器ID"
+
+msgid "Mail - Scan all mail directories."
+msgstr "邮件 - 扫描所有邮件目录。"
+
+msgid "Mail Queue"
+msgstr "邮件队列"
+
+msgid "Mail Queue Administration"
+msgstr "邮件队列管理"
+
+msgid "mail() Line Number"
+msgstr "mail() 行号"
+
+msgid "Mailbox"
+msgstr "邮箱"
+
+msgid "mailing list"
+msgid_plural "mailing lists"
+msgstr[0] "邮件列表"
+
+msgid "Mailing List"
+msgstr "邮件列表"
+
+msgid "Mailing Lists"
+msgstr "邮件列表"
+
+msgid "Mailing Lists: Includes all mailing lists."
+msgstr "邮件列表：包括所有邮件列表。"
+
+msgid "Mailing Lists: Includes the list, digest-list and archives."
+msgstr "邮件列表: 包括列表、Digest列表和存档。"
+
+msgid "Main Database Account"
+msgstr "主数据库账号"
+
+msgid "Main Domain..."
+msgstr "主域名..."
+
+msgid "Main FTP Account"
+msgstr "主FTP账号"
+
+msgid "Maintenance"
+msgstr "维护"
+
+#, fuzzy
+msgid "Maintenance tasks"
+msgstr "维护任务"
+
+msgid "Maintenance Tasks"
+msgstr "维护任务"
+
+msgid "Make Request"
+msgstr "请求"
+
+msgid "Make statistics publicly viewable"
+msgstr "公开统计数据"
+
+msgid ""
+"Making modifications to the MX records can potentially disable all of your "
+"email accounts from receiving mail."
+msgstr "修改MX记录可能会使您的所有电子邮件帐户无法接收邮件。"
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "Manage Database Configuration"
+msgstr "管理数据库设置"
+
+msgid "Manage IPs"
+msgstr "管理 IP"
+
+msgid "Manage Reseller Packages"
+msgstr "管理分销商软件包"
+
+msgid "Manage Security Questions"
+msgstr "管理安全问题"
+
+msgid "Manage Server IPs"
+msgstr "管理服务器 IP"
+
+msgid "Manage Tickets"
+msgstr "管理工单"
+
+msgid "Manage user accounts"
+msgstr "管理用户帐户"
+
+msgid "Manage User Backups"
+msgstr "管理用户备份"
+
+msgid "Manage User Packages"
+msgstr "管理用户软件包"
+
+msgid "Manual"
+msgstr "手动"
+
+msgid "Manual Trigger"
+msgstr "手动触发"
+
+msgid "Manually Change Settings"
+msgstr "手动更改设置"
+
+msgid "Manually edit the config file yourself"
+msgstr "手动编辑配置文件"
+
+msgid "Mar"
+msgstr "3月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "Mark as read"
+msgstr "标记为已读"
+
+msgid "Markdown"
+msgstr "Markdown"
+
+msgid "Max"
+msgstr "最大值"
+
+#, fuzzy
+msgid "Max File Size:"
+msgid_plural "Max Files Size:"
+msgstr[0] "文件最大尺寸："
+
+msgid "Max limit User can set per E-mail"
+msgstr "每封电子邮件用户可以设置的最大限制"
+
+msgid "Max limit user can set per email"
+msgstr "每封电子邮件用户可以设置的最大限制"
+
+msgid "Max Request / Upload Size"
+msgstr "每个请求或上传请求的大小上限"
+
+msgid "Max Time"
+msgstr "最长时间"
+
+msgid "Max Username Length"
+msgstr "最大用户名长度"
+
+msgid "Max Username length could not be higher than 30 characters"
+msgstr "最大用户名长度不能超过 30 个字符"
+
+msgid "Max Username length could not be lower than 8 characters"
+msgstr "最大用户名长度不能低于 8 个字符"
+
+msgid "Max workers must be greater than 0"
+msgstr ""
+
+msgid "Max workers must be less than 20"
+msgstr ""
+
+msgid "Maximize"
+msgstr "最大化"
+
+msgid "Maximum requests per week: %{n}"
+msgstr "每周最大请求数: %{n}"
+
+msgid "MaxLength"
+msgstr "最大长度"
+
+msgid "May"
+msgstr "5月"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Medium severity"
+msgstr "中等严重性"
+
+msgid "Medium Threshold (7.5)"
+msgstr "中等阈值 (7.5)"
+
+msgid "MEM"
+msgstr "内存"
+
+msgid "MEM Pressure"
+msgstr "内存负载"
+
+msgid "Mem:"
+msgstr "内存:"
+
+msgid "Memory"
+msgstr "内存"
+
+msgid "Memory Pressure"
+msgstr "内存负载"
+
+msgid "Memory Usage"
+msgstr "内存使用情况"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "message"
+msgid_plural "messages"
+msgstr[0] "信息"
+
+msgid "Message"
+msgstr "信息"
+
+msgid "Message All Users"
+msgstr "向所有用户留言"
+
+msgid "Message Area"
+msgstr "留言区"
+
+#, fuzzy
+msgid "Message configuration has been updated"
+msgstr "force_ssl选项已更新"
+
+msgid "Message Details"
+msgstr "消息详细信息"
+
+msgid "Message Footer"
+msgstr "消息页脚"
+
+msgid "Message Fronter"
+msgstr "消息 Fronter"
+
+msgid "Message Headers"
+msgstr "消息头部"
+
+msgid "Message sent successfully."
+msgstr "消息发送成功."
+
+msgid ""
+"Message will be delivered to all User/Reseller accounts that were selected "
+"plus all E-Mail accounts that exist under domains for selected User accounts."
+msgstr "邮件将发送到所选的所有用户/经销商帐户以及存在于所选用户帐户的域下的所有电子邮"
+"件帐户。"
+
+msgid "Message:"
+msgstr "信息："
+
+msgid "Messages"
+msgstr "消息"
+
+msgid "Method Not Allowed"
+msgstr "不允许的方法"
+
+msgid "Migration canceled"
+msgstr "迁移已取消"
+
+msgid "Migration started"
+msgstr "迁移开始"
+
+msgid "Mime Type"
+msgid_plural "Mime Types"
+msgstr[0] "Mime类型"
+
+msgid "Mime Types"
+msgstr "Mime 类型"
+
+msgid "Minimize"
+msgstr "最小化"
+
+msgid "Minimum disk space required for backup (MB)"
+msgstr "备份所需的最小磁盘空间(MB)"
+
+msgid ""
+"Minimum number of idle processes to reserve for an app. When the app is "
+"started, spare idle processes are launched; server assigns incoming requests "
+"to existing idle processes, forking new idles to maintain the spare level if "
+"max allows. As processes complete requests and turn idle, server terminates "
+"extra ones after idle_timeout"
+msgstr ""
+"为应用程序保留的最小空闲进程数。启动应用程序时，启动备用空闲进程；服务器将传"
+"入的请求分配给现有的空闲进程，如果max允许，则分叉新的空闲进程以保持空闲级别。"
+"当进程完成请求并变为空闲时，服务器会在空闲超时后终止额外的请求"
+
+msgid "Minimum time before a repeated reply"
+msgstr "重复回复前的最短时间"
+
+msgid "Minor only"
+msgstr "仅限次要"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "Minute should be a number between 0 and 59 or *"
+msgstr "分钟数必须是0到59之间的数字或是 *"
+
+msgid "Minute: %{minute}"
+msgstr "分：%{minute}"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "minutes %s through %s past the hour"
+msgstr "小时后的第 %s 到 %s 分钟"
+
+#, fuzzy
+msgid "Mo"
+msgstr "周一"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Mode:"
+msgstr "模式："
+
+#, fuzzy
+msgid "Model"
+msgstr "模式"
+
+msgid "Moderate"
+msgstr "中度"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "Modified"
+msgstr "已修改"
+
+msgid "Modify"
+msgstr "修改"
+
+msgid "Modify %{domain}"
+msgstr "修改 %{domain}"
+
+msgid "Modify App"
+msgstr "修改应用程序"
+
+msgid "Modify Autoresponder"
+msgstr "修改自动回复"
+
+msgid "Modify Backup"
+msgstr "修改备份"
+
+msgid "Modify Backup Schedule"
+msgstr "修改备份计划"
+
+msgid "Modify Domain"
+msgstr "修改域名"
+
+msgid "Modify Forwarder"
+msgstr "修改转发器"
+
+msgid "Modify FTP Account"
+msgstr "修改FTP账号"
+
+msgid "Modify Key"
+msgstr "修改密钥"
+
+msgid "Modify Login Key"
+msgstr "修改登录密钥"
+
+msgid "Modify Mailing List"
+msgstr "修改邮件列表"
+
+msgid "Modify Mailing List: %{list}"
+msgstr "修改邮件列表:％{list}"
+
+msgid "Modify MX Records"
+msgstr "修改MX记录"
+
+msgid "Modify Package"
+msgstr "修改套餐"
+
+msgid "Modify Privileges"
+msgstr "修改权限"
+
+msgid "Modify Repository %{ name }"
+msgstr "修改版本库 %{ name }"
+
+msgid "Modify Reseller Package"
+msgstr "修改分销者套餐"
+
+msgid "Modify Vacation Message"
+msgstr "修改假期信息"
+
+msgid "Modify Your Own User data"
+msgstr "修改您自己的用户数据"
+
+msgid "Modify Your Own User Data"
+msgstr "修改您自己的用户数据"
+
+msgid "ModSecurity"
+msgstr "ModSecurity"
+
+msgid "ModSecurity Disabled Rules"
+msgstr "ModSecurity禁用规则"
+
+msgid "ModSecurity Status"
+msgstr "ModSecurity 状态"
+
+msgid "Modsecurity: %{ domain }"
+msgstr "Modsecurity: %{ domain }"
+
+msgid "Module"
+msgstr "模块"
+
+msgid "Mon"
+msgstr "周一"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Monitor all services"
+msgstr "监控所有服务"
+
+msgid "Monitor Backup: %{ id }"
+msgstr "监视器备份: %{id}"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Month: %{month}"
+msgstr "月份: %{month}"
+
+msgid "More..."
+msgstr "更多..."
+
+msgid "Mounted on"
+msgstr "挂载于"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move File"
+msgid_plural "Move Files"
+msgstr[0] "移动文件"
+
+msgid "Move to %{directory}"
+msgstr "移动到 %{directory}"
+
+msgid "Move Users"
+msgstr "移动用户"
+
+msgid "Move Users between Resellers"
+msgstr "在分销商之间移动用户"
+
+msgid "Move Users Between Resellers"
+msgstr "修改用户归属分销者"
+
+msgid "Multi Server is currently turned OFF"
+msgstr "集群功能已关闭"
+
+msgid "Multi Server Setup"
+msgstr "集群设置"
+
+msgid "Multiple Targets"
+msgstr "多个目标"
+
+msgid "Mungedomain"
+msgstr "Mungedomain"
+
+msgid "MX Records"
+msgstr "MX 记录"
+
+msgid "MX Template"
+msgstr "MX 模板"
+
+msgid "My Files"
+msgstr "我的文件"
+
+msgid "My Messages"
+msgstr "我的消息"
+
+msgid "My Users"
+msgstr "我的用户"
+
+msgid "MySQL Databases"
+msgstr "MySQL数据库"
+
+msgid "MySQL Management"
+msgstr "MySQL数据库管理"
+
+msgid "name"
+msgstr "名字"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name already in list"
+msgstr "名称已经在列表中"
+
+msgid "Name in License"
+msgstr "License中的名称"
+
+msgid "Name Server"
+msgstr "NS服务器"
+
+msgid "Name Server 1"
+msgstr "域名服务器1"
+
+msgid "Name Server 1:"
+msgstr "NS服务器1："
+
+msgid "Name Server 2"
+msgstr "域名服务器2"
+
+msgid "Name Server 2:"
+msgstr "NS服务器2："
+
+msgid "Name Servers"
+msgstr "域名服务器"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "nameserver"
+msgstr "DNS 服务器"
+
+msgid "Nameserver"
+msgstr "域名服务器"
+
+msgid "Navigate to WordPress Page"
+msgstr "导航到 WordPress 页面"
+
+msgid "Navigation"
+msgstr "导航栏"
+
+msgid "Navigation filter"
+msgstr "导航过滤"
+
+msgid "Navigation Filter"
+msgstr "导航过滤"
+
+msgid "Netdata server metrics"
+msgstr "Netdata 服务器指标"
+
+msgid "Netmask"
+msgstr "网络掩码"
+
+msgid "Network Error: Server is unreachable"
+msgstr "网络错误：服务器无法访问"
+
+msgid "Neutral"
+msgstr "中性"
+
+msgid "Never"
+msgstr "从不使用"
+
+#, fuzzy
+msgid "New Category"
+msgstr "添加新分类"
+
+msgid "New Domain"
+msgstr "新域名"
+
+#, fuzzy
+msgid "New Entry"
+msgstr "添加条目"
+
+msgid "New File"
+msgstr "新建文件"
+
+msgid "New Folder"
+msgstr "新文件夹"
+
+msgid "New Forwarder Name"
+msgstr "新建转发器名称"
+
+msgid "New Import"
+msgstr "新建导入"
+
+#, fuzzy
+msgid "New Link"
+msgstr "新建位置"
+
+msgid "New Messages"
+msgstr "新消息"
+
+msgid "New Name"
+msgstr "新名称"
+
+msgid "New Package Name"
+msgstr "新软件包名称"
+
+msgid "New Password"
+msgstr "新密码"
+
+msgid "New Path"
+msgstr "新路径"
+
+msgid "New Path (Optional)"
+msgstr "新路径(可选)"
+
+msgid "New Random Password"
+msgstr "新随机密码"
+
+msgid "New Secret Set:"
+msgstr "新建密钥集："
+
+msgid "New sub-folder"
+msgstr "新建子文件夹"
+
+msgid "Newer"
+msgstr "较新"
+
+msgid "Newer Than:"
+msgstr "日期之后的:"
+
+msgid "Newest Message"
+msgstr "最新消息"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "Next Retries"
+msgstr "下次重试"
+
+msgid "Next Retry"
+msgstr "下次重试"
+
+msgid "Next Step"
+msgstr "下一步"
+
+msgid "Nginx Templates"
+msgstr "Nginx 模板"
+
+msgid "Nginx Unit"
+msgstr "Nginx 单元"
+
+msgid "Nginx URL Rewrites"
+msgstr "Nginx URL 重写"
+
+msgid "No"
+msgstr "否"
+
+msgid "No backups available"
+msgstr "没有可用的备份"
+
+msgid "No commands matching this filter..."
+msgstr "没有与此过滤器匹配的命令..."
+
+#, fuzzy
+msgid "No data"
+msgstr "DNS数据"
+
+msgid "No data to show"
+msgstr "无数据显示"
+
+msgid "No Data to Show"
+msgstr "没有要显示的数据"
+
+msgid "No default domain"
+msgstr "无默认域名"
+
+msgid "No Domains"
+msgstr "无域名"
+
+msgid "No elements matching the search criteria."
+msgstr "没有符合搜索条件的元素。"
+
+#, fuzzy
+msgid "No entries that match the search criteria..."
+msgstr "没有符合搜索条件的页面..."
+
+msgid "No icons found"
+msgstr "找不到图标"
+
+msgid "No Installed Widgets"
+msgstr "无已安装的组件"
+
+msgid "No items to show"
+msgstr "没有要显示的项目"
+
+msgid "No maintenance tasks available"
+msgstr "没有可用的维护任务"
+
+msgid "No new messages"
+msgstr "没有新消息"
+
+msgid "No pages that match the search criteria..."
+msgstr "没有符合搜索条件的页面..."
+
+msgid "No pointer"
+msgstr "没有指向"
+
+msgid "No redirection"
+msgstr "无重定向"
+
+msgid "No Redirection"
+msgstr "无重定向"
+
+msgid "No results"
+msgstr "无结果"
+
+msgid "No Results"
+msgstr "无结果"
+
+msgid "No search results match given criteria"
+msgstr "没有符合给定条件的搜索结果"
+
+#, fuzzy
+msgid "No vacation messages to show"
+msgstr "假期消息"
+
+msgid "No widget selected"
+msgstr "无选中的组件"
+
+msgid ""
+"No, do not block high scoring spam. Use only the threshold in the previous "
+"section."
+msgstr "否，不要屏蔽高分垃圾邮件。仅在前面部分使用阈值。"
+
+msgid "No, leave the subject unchanged."
+msgstr "否，对主题保持不变。"
+
+msgid "Node.js"
+msgstr "Node.js"
+
+msgid "None"
+msgstr "无"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Normal icons"
+msgstr "正常图标"
+
+msgid "Not After"
+msgstr "不晚于"
+
+msgid "Not Before"
+msgstr "不早于"
+
+msgid "Not defined"
+msgstr "未定义"
+
+msgid ""
+"Not using attachments will leave the spam unaltered except for spam headers."
+msgstr "不使用附件将使垃圾邮件保持不变，只有垃圾邮件头部除外。"
+
+msgid "Note"
+msgstr "说明"
+
+msgid ""
+"Note that the Login Keys are one-way encrypted, just like passwords. They "
+"cannot be retrieved if you forget them."
+msgstr "请注意登陆Key是和密码一样是单向加密的。如果忘记了的话就无法取回的了。"
+
+msgid "Note that there are no spaces"
+msgstr "请注意, 没有空格"
+
+msgid ""
+"Note that you must set the IP to be shared if you want to add multiple users "
+"to it. If you select a non-shared IP, you can only restore 1 user to it."
+msgstr "请注意如果希望让多个用户共享一个IP的话，那个IP必须设置为共享的。如果选择了一"
+"个非共享的IP，则只能有1个用户还原到这个IP。"
+
+msgid ""
+"Note: Database instance and database user account will not be deleted, "
+"because it might be shared with other websites or services."
+msgstr "注意：不会删除数据库实例和数据库用户帐户，因为它可能与其他网站或服务共享。"
+
+msgid ""
+"Note: For older exim.pl files before version 13, each delivery attempt is "
+"counted, including retries."
+msgstr "注意：对于版本13之前的旧的 exim.pl 文件，每次发送尝试都被计数，包括检索。"
+
+msgid "Note: selected database will be cleared"
+msgstr "注意：选择的数据库将被清除"
+
+msgid ""
+"Note: the word filter matches partial words. For example, if you block the "
+"word \"put\" and the email contains \"computer\", then the email will be "
+"blocked. If you expect it to be its own word, then block \" put \", with "
+"spaces beside it to avoid partial matching."
+msgstr ""
+"注意: 单词过滤器匹配部分单词。例如，如果您屏蔽了“put”一词，电子邮件包含了“电"
+"脑”，那么电子邮件就会被阻止如果你期望它是自己的单词，然后将\"块放在\", "
+"并将空格放在之外避免部分匹配。"
+
+#, fuzzy
+msgid ""
+"Note: the word filter matches partial words. For example, if you block the "
+"word &quot;put&quot; and the email contains &quot;computer&quot;, then the "
+"email will be blocked. If you expect it to be its own word, then block &quot;"
+" put &quot;, with spaces beside it to avoid partial matching."
+msgstr ""
+"注意: 单词过滤器匹配部分单词。例如，如果您屏蔽了“put”一词，电子邮件包含了“电"
+"脑”，那么电子邮件就会被阻止如果你期望它是自己的单词，然后将\"块放在\", "
+"并将空格放在之外避免部分匹配。"
+
+msgid "Nothing found"
+msgstr "什么都没找到"
+
+msgid "Notified"
+msgstr "已通知"
+
+msgid "Notify"
+msgstr "通知"
+
+msgid "Notify administrator account on certificate request failures"
+msgstr "在证书请求失败时通知管理员帐户"
+
+msgid "Notify Admins after a User has"
+msgstr "在客户发生以下情况时通知管理员"
+
+msgid "Notify Admins after an IP has"
+msgstr "在IP发生以下情况时通知管理员"
+
+msgid ""
+"Notify all admins whenever a service goes down using the messaging/ticket "
+"system."
+msgstr "在服务离线时使用消息/工单系统通知所有管理员。"
+
+msgid ""
+"Notify me on all incorrect codes entries. Disabling this option will still "
+"notify you after 5 failed attempts."
+msgstr "通知我所有不正确的代码条目。禁用此选项仍将在5次尝试失败后通知您。"
+
+msgid "Notify user on certificate request success"
+msgstr "通知用户证书申请成功"
+
+msgid "Notify users on certificate request failures"
+msgstr "在证书请求失败时通知用户"
+
+#, fuzzy
+msgid ""
+"Notifying you that if you 'Login As' this account, you might be using a skin "
+"which is under that account's control."
+msgstr "通知您，如果您“Login As”此帐户登录，您可能正在使用其控制下的皮肤代码。"
+
+msgid "Nov"
+msgstr "11月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "Now"
+msgstr "现在"
+
+msgid "NS1"
+msgstr "NS1"
+
+msgid "NS2"
+msgstr "NS2"
+
+msgid "Number of auto-renew certificate request failures before disabling it"
+msgstr "禁用前自动续订证书请求失败的次数"
+
+msgid "Number of lines from the end"
+msgstr "从尾部开始的行数"
+
+msgid "Number of lines to show"
+msgstr "显示行数"
+
+msgid "Number of user domains shown"
+msgstr "显示的用户域名数"
+
+msgid "Number of Users"
+msgstr "用户数"
+
+msgid "Oct"
+msgstr "10月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "of %{ total }"
+msgstr "/ %{ total }"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "Old Domain"
+msgstr "旧域名"
+
+msgid "Old Package Name"
+msgstr "旧软件包名称"
+
+msgid "Old Password"
+msgstr "旧密码"
+
+msgid "Older"
+msgstr "较旧"
+
+msgid "Older than"
+msgstr "日期之前"
+
+msgid "On"
+msgstr "开启"
+
+msgid "on %{ date } from %{ ip }"
+msgstr "于%{ date }从%{ ip }登录"
+
+msgid "on partition"
+msgstr "在分区上"
+
+msgid ""
+"On restore, check for domain conflict in domainowners file, rather than the "
+"named.conf, or remote named.conf files."
+msgstr "恢复时，不要用named.conf或者远程的named."
+"conf文件作为冲突检查。请查看domainowners文件。"
+
+msgid "On Schedule"
+msgstr "按计划进行"
+
+msgid ""
+"One-Click login requires does not support webmail_link=%{ webmail_link }. "
+"Try webmail_link=roundcube"
+msgstr "单击登录需要不支持 webmail_link=%{ webmail_link "
+"}。请尝试webmail_link=roundcube"
+
+msgid "One-Time Login URL Created"
+msgstr "一次性登录URL已创建"
+
+msgid "Only add the few lines of the server code you need to insert."
+msgstr "只添加需要插入的几行服务器代码。"
+
+#, fuzzy
+msgid "Only Files"
+msgstr "我的文件"
+
+#, fuzzy
+msgid "Only Folders"
+msgstr "打开文件夹"
+
+msgid "Only use wildcard on domains who currently have functional local DNS"
+msgstr "仅在当前具有功能本地 DNS 的域名上使用通配符"
+
+msgid "Only use wildcards for locally controlled dns zones."
+msgstr "仅在本地控制的dns区域使用通配符。"
+
+msgid "Oops..."
+msgstr "哎呀..."
+
+msgid "Oops... something went wrong. Please, try load in new tab"
+msgstr "糟糕……出错了，请尝试在新标签中加载"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open + Confirm"
+msgstr "打开 + 确认"
+
+msgid "Open Basedir"
+msgstr "打开基础目录"
+
+msgid "Open BaseDir"
+msgstr "Open BaseDir"
+
+msgid "Open documentation"
+msgstr "打开文档"
+
+msgid "Open dropdown"
+msgstr "打开下拉菜单"
+
+msgid "Open in new tab"
+msgstr "在新标签页中打开"
+
+msgid "Optimize"
+msgstr "优化"
+
+msgid "Optional"
+msgstr "可选"
+
+msgid "Optional. Required for syncing to a private remote repository."
+msgstr ""
+
+msgid "Optional. Required for syncing to a remote repository."
+msgstr ""
+
+msgid "Options"
+msgstr "选项"
+
+#, fuzzy
+msgid "Options saved successfully"
+msgstr "服务已成功启动"
+
+msgid "or"
+msgstr "或者"
+
+msgid "Order"
+msgstr "顺序"
+
+msgid "Original Package"
+msgstr "原始软件包"
+
+msgid "OS kernel info"
+msgstr "操作系统内核信息"
+
+msgid "Other"
+msgstr "其他"
+
+#, fuzzy
+msgid "Other pages"
+msgstr "其他"
+
+msgid "Other..."
+msgstr "其他..."
+
+msgid "Out"
+msgstr "退出"
+
+msgid "Outbound"
+msgstr "出站"
+
+msgid "Outgoing"
+msgstr "传出"
+
+msgid "over %{ count } year"
+msgid_plural "over %{ count } years"
+msgstr[0] "超过 %{ count } 年"
+
+#, fuzzy
+msgid "Override home directory"
+msgstr "移动到 %{directory}"
+
+msgid "Override Shade"
+msgstr "覆盖阴影"
+
+msgid "Override Suspension Message"
+msgstr "覆盖暂停消息"
+
+msgid "Override TTL"
+msgstr "覆盖 TTL"
+
+msgid "Override TTL Value"
+msgstr "覆盖 TTL 值"
+
+msgid "Oversell"
+msgstr "超售"
+
+msgid ""
+"Overselling: Allow Resellers to sell More features than they are allowed."
+msgstr "超售: 允许分销销售超过允许的资源数量。"
+
+msgid "Overusage highlight"
+msgstr "更加明亮"
+
+msgid "Overview:"
+msgstr "概览："
+
+msgid "Overwrite"
+msgstr "覆盖"
+
+msgid "Overwrite all"
+msgstr "覆盖所有"
+
+msgid "Overwrite Files"
+msgstr "覆盖所有"
+
+msgid "Overwrite selected"
+msgstr "覆盖已选择"
+
+msgid "Owner"
+msgstr "所有者"
+
+msgid "package"
+msgid_plural "packages"
+msgstr[0] "套餐"
+
+msgid "Package"
+msgstr "软件包"
+
+msgid "Package already exists"
+msgstr "同名套餐已存在"
+
+msgid "Package Name"
+msgstr "套餐名称"
+
+msgid "Package Name should not contain any special symbols"
+msgstr "套餐名不应包含任何特殊符号"
+
+msgid "Package name should not contain special characters"
+msgstr "套餐名不应包含任何特殊字母"
+
+msgid "Parse service logs for brute force attacks"
+msgstr "分析暴力破解攻击的记录日志"
+
+msgid "Partition Usage Threshold should be number between 0 and 100"
+msgstr "分区使用阈值应为0到100之间"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password Management"
+msgstr "密码管理"
+
+msgid "Password Protected Directories"
+msgstr "密码保护目录"
+
+msgid "Password:"
+msgstr "密码："
+
+msgid "Paste a pre-generated certificate and key"
+msgstr "粘贴预生成的证书和密钥"
+
+msgid "Paste Authorized Key"
+msgstr "粘贴Authorized Key"
+
+msgid "Paste Key"
+msgstr "粘贴Key"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Path to redis socket file"
+msgstr "Redis socket文件路径"
+
+msgid "Path:"
+msgstr "路径："
+
+msgid "Pending"
+msgstr "待办"
+
+msgid "Percent"
+msgstr "百分比"
+
+msgid "Percentage"
+msgstr "百分比"
+
+msgid "Period:"
+msgstr "周期："
+
+msgid "Perl"
+msgstr "Perl"
+
+msgid "Perl Modules"
+msgstr "Perl 模块"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Persistent search"
+msgstr "持续搜索"
+
+msgid "Personal DNS's"
+msgstr "个人的DNS"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "PHP 7.3"
+msgstr "PHP 7.3"
+
+msgid "PHP Access"
+msgstr "使用PHP的权限"
+
+msgid "PHP Configuration"
+msgstr "PHP 配置"
+
+msgid "PHP Script Name"
+msgstr "PHP 脚本名称"
+
+msgid "PHP Scripts"
+msgstr "PHP脚本"
+
+msgid "PHP Settings"
+msgstr "PHP设置"
+
+msgid "PHP Version"
+msgstr "PHP版本"
+
+msgid "PHP Version selector"
+msgstr "PHP版本选择"
+
+msgid "PHP Version Selector"
+msgstr "PHP 版本选择器"
+
+msgid ""
+"php_version_selector=2 setting is not supported by the skin, please consider "
+"switching to php_version_selector=1 (default)."
+msgstr ""
+
+msgid "PHP-FPM config customization for %{ user } php-fpm %{ version }"
+msgstr "自定义用户 %{ user } 的PHP-FPM配置, 版本%{ version }"
+
+msgid "PHP-FPM Configuration"
+msgstr "PHP-FPM配置"
+
+msgid "php-fpm Global |CUSTOM1|"
+msgstr "php-fpm Global |CUSTOM1|"
+
+msgid "php-fpm Global |CUSTOM2|"
+msgstr "php-fpm Global |CUSTOM2|"
+
+msgid "phpMyAdmin"
+msgstr "phpMyAdmin"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "PID(s)"
+msgstr "PID"
+
+msgid "Pipe"
+msgstr "管道"
+
+msgid "Plain"
+msgstr "纯文本"
+
+#, fuzzy
+msgid "Plain Content"
+msgstr "纯文本"
+
+msgid "Plain Text"
+msgstr "纯文本"
+
+msgid "Plan"
+msgstr "计划"
+
+msgid "Play"
+msgstr "播放"
+
+msgid ""
+"Please add a period symbol at the end of the domain name if domain should "
+"not be auto-appended."
+msgstr "如果域名不应自动添加，请在域名末尾添加一个周期符号。"
+
+msgid "Please confirm your request"
+msgstr "请确认您的请求"
+
+msgid "Please enter username/domain to search"
+msgstr "请输入要搜索的用户名/域名"
+
+msgid "Please enter your search criteria"
+msgstr "请输入搜索条件"
+
+msgid "Please keep this is mind when chosing a key's privileges."
+msgstr "在选择密钥权限时，请记住这一点。"
+
+msgid ""
+"Please make sure you specify different database IDs for your applications, "
+"so that there would be no key conflicts."
+msgstr "请确保您为您的应用程序指定不同的数据库ID，以免发生关键冲突。"
+
+msgid ""
+"Please Note that if a key is allowed to access ALL_USER, CMD_LOGIN_KEYS, or "
+"CMD_API_LOGIN_KEYS, that key will have sufficient privileges to create "
+"another key of higher privilege."
+msgstr ""
+"请注意，如果允许密钥访问 ALL_USER、CMD_LOGIN_KEYS 或 "
+"CMD_API_LOGIN_KEYS，则该密钥将具有足够的权限来创建另一个更高权限的密钥。"
+
+msgid "Please provide custom directory in the field below"
+msgstr "请在下面的字段中提供自定义目录"
+
+msgid "Please, select one of options listed below"
+msgstr "请选择下面列出的一个选项"
+
+msgid "Plugin"
+msgstr "插件"
+
+#, fuzzy
+msgid "Plugin Logs"
+msgstr "插件"
+
+msgid "Plugin Manager"
+msgstr "插件管理器"
+
+msgid "Plugins"
+msgstr "插件"
+
+msgid "Plugins Allow/Deny"
+msgstr "插件 允许/拒绝"
+
+msgid "Plugins Category"
+msgstr "插件类别"
+
+msgid "Pointer"
+msgstr "域名指向"
+
+msgid "Pointer:"
+msgstr "域名指向:"
+
+msgid "Pointers"
+msgstr "域名指向"
+
+msgid "Policy"
+msgstr "策略"
+
+msgid "POP"
+msgstr "POP"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Post reply"
+msgstr "发表回复"
+
+msgid "Post Reply"
+msgstr "发表回复"
+
+msgid "Precedence"
+msgstr "优先级"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Preferred Archive Type"
+msgstr "首选归档类型"
+
+msgid "Present"
+msgstr "展示"
+
+msgid "Preserve owner"
+msgstr "保留所有者"
+
+msgid "Press Ctrl+Enter to save"
+msgstr "按 Ctrl+Enter 键保存"
+
+msgid "Prevent 127.0.0.1 from being Blacklisted"
+msgstr "防止127.0.0.1 被列入黑名单"
+
+msgid "Prevent E-mail"
+msgstr "阻止电子邮件"
+
+msgid "Prevent SPAM on the server"
+msgstr ""
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Previous Page"
+msgstr "上一页"
+
+msgid "Previous Step"
+msgstr "上一步"
+
+#. custom message for error type
+msgid "Previous update still in progress"
+msgstr "以前的更新仍在进行中"
+
+msgid "Primary"
+msgstr "主要"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid "Priority:"
+msgstr "优先级："
+
+msgid "private_html option has been updated"
+msgstr "private_html选项已更新"
+
+msgid "private_html setup"
+msgstr "private_html设置"
+
+msgid "Privileges"
+msgstr "权限"
+
+msgid "Privileges:"
+msgstr "权限:"
+
+msgid "Pro Pack"
+msgstr "Pro Pack"
+
+msgid "Process Info"
+msgstr "进程信息"
+
+msgid "Process list"
+msgstr "进程列表"
+
+msgid "Process Monitor"
+msgstr "进程监视器"
+
+#, fuzzy
+msgid "Process successfully killed!"
+msgstr "账号已成功删除"
+
+#, fuzzy
+msgid "process:"
+msgstr "进程"
+
+msgid "Processes"
+msgstr "进程数"
+
+msgid "Processes:"
+msgstr "进程数:"
+
+#, fuzzy
+msgid "Processor Speed"
+msgstr "处理器速度 (MHz)"
+
+msgid "Profile Setup"
+msgstr "配置文件设置"
+
+msgid "Progress"
+msgstr "进度"
+
+msgid "Proof is expired"
+msgstr "证明已过期"
+
+msgid "Proof is invalid"
+msgstr "证明无效"
+
+msgid "Proof License"
+msgstr "许可证证明"
+
+msgid "Proof value"
+msgstr "证明值"
+
+msgid "Protect"
+msgstr "保护"
+
+msgid "Protect Directory"
+msgstr "保护目录"
+
+msgid "Protected Directories"
+msgstr "受保护的目录"
+
+msgid "Protected Directory Prompt"
+msgstr "受保护的目录提示"
+
+msgid "Protected file types"
+msgstr "受保护的文件类型"
+
+msgid "Public"
+msgstr "公开"
+
+msgid "Public Keys"
+msgstr "公钥"
+
+msgid "Published"
+msgstr "已发布"
+
+msgid "Purge"
+msgstr "清除"
+
+msgid "Purge Archives"
+msgstr "清除归档"
+
+msgid "Purge Archives older than"
+msgstr "清除早于日期的档案"
+
+msgid "Purge Folder"
+msgstr "清除文件夹"
+
+msgid "Purge Received"
+msgstr "收到清除"
+
+msgid "Purge Spambox / Trash data after (days)"
+msgstr "清除垃圾箱/垃圾箱数据后(天)"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Python / Ruby / Java / Perl support (Pro Pack)"
+msgstr ""
+
+msgid "QR Code"
+msgstr "二维码"
+
+msgid "Quarantine"
+msgstr "隔离"
+
+msgid ""
+"Queue size (%{ queue_size }) is larger than the maximum value (%{ "
+"max_load_size}) and may timeout."
+msgstr "队列大小 (%{ queue_size }) 大于最大值 (%{ max_load_size}) 并且可能超时。"
+
+msgid "Quick Link:"
+msgstr "快速链接："
+
+msgid "Quick Navigation (Ctrl + Q)"
+msgstr "快速导航 (Ctrl + Q)"
+
+msgid "Quota can't be larger than 100TB"
+msgstr "Quota不能大于100TB"
+
+msgid "RAM"
+msgstr ""
+
+#, fuzzy
+msgid "RAM Memory Information"
+msgstr "内存信息"
+
+msgid "Range"
+msgstr "范围"
+
+msgid "Range end should be larger than start"
+msgstr "结束范围应该大于开始范围"
+
+msgid "Rates"
+msgstr "比率"
+
+msgid "raw"
+msgstr "raw"
+
+msgid "Re-sign your zone"
+msgstr "重置您的解析"
+
+msgid "Read"
+msgstr "读取"
+
+msgid "Read finished migration reports in the"
+msgstr "阅读已完成的迁移报告"
+
+msgid "Read finished scan reports in the"
+msgstr "阅读完成的扫描报告"
+
+msgid "Read Message"
+msgstr "阅读消息"
+
+msgid "Read Ticket"
+msgstr "读取工单"
+
+msgid "Reading from tracker stream..."
+msgstr "正在从 Tracker 流读取..."
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "Reason:"
+msgstr "原因："
+
+msgid "Reboot"
+msgstr "重启"
+
+msgid "Reboot Server"
+msgstr "重新启动服务器"
+
+msgid "Received"
+msgstr "已接收"
+
+msgid "Received E-mails"
+msgstr "收到的电子邮件"
+
+msgid "Recipient(s)"
+msgstr "收件人"
+
+msgid "record"
+msgid_plural "records"
+msgstr[0] "记录"
+
+msgid "Record Type"
+msgstr "记录类型"
+
+msgid "Redirect"
+msgid_plural "Redirects"
+msgstr[0] "重定向"
+
+msgid "Redirect Domain"
+msgstr "重定向域名"
+
+msgid "Redirect it to the catch-all spam folder in your main IMAP account"
+msgstr "将其重定向到您主要的 IMAP 帐户中的 cat-all 垃圾邮件文件夹"
+
+msgid "Redirect Now"
+msgstr "立即重定向"
+
+msgid "Redirect to"
+msgstr "重定向至"
+
+msgid "Redirect Type"
+msgstr "重定向类型"
+
+msgid "Redirect URL"
+msgstr "重定向网址"
+
+msgid "Redirect URL:"
+msgstr "重定向网址："
+
+msgid "Redirecting to"
+msgstr "重定向至"
+
+msgid "Redirection for domain, pointers, and sub-domains."
+msgstr "域名、指向和子域名的重定向。"
+
+msgid "Redis"
+msgstr "Redis"
+
+msgid "Refreshed"
+msgstr "已刷新"
+
+msgid "Registered"
+msgstr "已注册"
+
+msgid "Reinstall WordPress"
+msgstr "重新安装 WordPress"
+
+msgid "Reject"
+msgstr "拒绝"
+
+msgid "Related Pages"
+msgstr "相关页面"
+
+msgid "Relaxed"
+msgstr "Relaxed"
+
+msgid "Reload"
+msgstr "重新加载"
+
+msgid "Reload every"
+msgstr "重新加载间隔"
+
+msgid "Reload file"
+msgstr "重新加载文件"
+
+msgid "Reload Files"
+msgstr "重新加载文件"
+
+msgid "Reload files..."
+msgstr "重新加载文件..."
+
+msgid "Reload in %{m} minutes"
+msgstr "在 %{n} 分钟后重新加载"
+
+msgid "Reload in %{s} seconds"
+msgstr "在 %{n} 秒后重新加载"
+
+msgid "Reload Log"
+msgstr "重新加载日志"
+
+msgid "Reload Now"
+msgstr "立即重载"
+
+msgid "Reload Table"
+msgstr "重载表格"
+
+msgid "Reloading in %{n} second"
+msgid_plural "Reloading in %{n} seconds"
+msgstr[0] "在 %{n} 秒后重新加载"
+
+#, fuzzy
+msgid "Reloading now"
+msgstr "立即重载"
+
+msgid "Remote"
+msgstr "远程"
+
+msgid "Remote cPanel server credentials"
+msgstr "远程 cPanel 服务器凭据"
+
+msgid "Remote Host"
+msgstr "远程主机"
+
+msgid "Remote is not set"
+msgstr "未设置远程主机"
+
+msgid "Remote Password"
+msgstr "远程密码"
+
+msgid "Remote Path"
+msgstr "远程路径"
+
+msgid "Remote Server"
+msgstr "远程服务器"
+
+msgid "Remote Transfer"
+msgstr "远程传输"
+
+msgid "Remote transfer method"
+msgstr "远程传输方法"
+
+msgid "Remote User"
+msgstr "远程用户"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Remove %{n} file"
+msgid_plural "Remove %{n} files"
+msgstr[0] "删除 %{n} 个文件"
+
+msgid "Remove an IP from the BF blacklist after"
+msgstr "从BF黑名单中删除IP"
+
+msgid "Remove an IP from the blacklist after"
+msgstr "IP黑名单保留天数"
+
+msgid "Remove Authentication"
+msgstr "移除认证"
+
+msgid "Remove completely"
+msgstr "彻底删除"
+
+msgid "Remove Destination"
+msgstr "移除目标"
+
+msgid "Remove Directory Content"
+msgstr "删除目录内容"
+
+msgid "Remove DNS records for IP"
+msgid_plural "Remove DNS records for IPs"
+msgstr[0] "从此IP移除DNS记录"
+
+msgid "Remove file"
+msgstr "删除文件"
+
+msgid "Remove File"
+msgid_plural "Remove Files"
+msgstr[0] "删除文件"
+
+msgid "Remove Files"
+msgid_plural "Remove File"
+msgstr[0] "删除文件"
+
+msgid "Remove Filter"
+msgstr "删除过滤器"
+
+msgid "Remove folder"
+msgstr "移除文件夹"
+
+msgid "Remove Folder"
+msgid_plural "Remove Folders"
+msgstr[0] "移除文件夹"
+
+msgid "Remove Forwarder"
+msgstr "移除转发器"
+
+msgid "Remove from"
+msgstr "移除"
+
+msgid "Remove from blacklist"
+msgstr "从黑名单中移除"
+
+msgid "Remove from pointers"
+msgstr "从域名指向中移除"
+
+msgid "Remove from queue"
+msgstr "从队列中移除"
+
+msgid "Remove from reseller"
+msgstr "从分销商中删除"
+
+msgid "Remove from Skip List"
+msgstr "从列表中移除"
+
+msgid "Remove IP"
+msgstr "移除IP"
+
+#, fuzzy
+msgid "Remove Key"
+msgstr "删除文件"
+
+msgid "Remove Protection"
+msgstr "移除保护"
+
+msgid "Remove public stats"
+msgstr "移除公共统计数据"
+
+msgid "Remove uploaded files"
+msgstr "移除已上传文件"
+
+#, fuzzy
+msgid "Remove URL"
+msgstr "删除"
+
+msgid "Remove widget"
+msgstr "移除组件"
+
+msgid "Remove Widget"
+msgstr "移除组件"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Rename domain"
+msgstr "重命名域名"
+
+msgid "Rename Domain"
+msgstr "重命名域名"
+
+msgid "Rename Package"
+msgstr "重命名软件包"
+
+msgid "Renew certificates on suspended domains"
+msgstr "在暂停的域名上更新证书"
+
+msgid "Repair"
+msgstr "修复"
+
+msgid "Replace"
+msgstr "替换"
+
+msgid "Replace all"
+msgstr "全部替换"
+
+msgid "Replace existing user"
+msgstr "替换现有用户"
+
+msgid "Replace expired/invalid certificates with the ones provided by ACME"
+msgstr "使用 ACME 提供证书替换过期/无效的证书"
+
+msgid "Replace Users"
+msgstr "替换用户"
+
+msgid "Replies"
+msgstr "回复"
+
+msgid "Reply Frequency"
+msgstr "回复频率"
+
+msgid "Reply To"
+msgstr "答复"
+
+msgid "Report Format"
+msgstr "报告格式"
+
+msgid "Reporting Interval"
+msgstr "报告间隔"
+
+msgid "Repository"
+msgstr "版本库"
+
+msgid "Repository created"
+msgstr "版本库已创建"
+
+msgid "Repository deleted"
+msgstr "版本库已删除"
+
+msgid "Repository Info"
+msgstr "版本库信息"
+
+msgid "Repository is not valid"
+msgstr "版本库无效"
+
+msgid "Repository Logs"
+msgstr "版本库日志"
+
+msgid "Repository modified"
+msgstr "版本库已修改"
+
+msgid "Repository: %{name}"
+msgstr "版本库：%{name}"
+
+msgid ""
+"Request and display folder sizes; noticeably increases data loading time "
+"when enabled."
+msgstr "请求并显示文件夹大小；启用时显著增加数据加载时间。"
+
+msgid "Request Line"
+msgstr "请求行"
+
+msgid "Requested page doesn't belong to your authority level"
+msgstr "请求的页面不属于您的权限级别"
+
+msgid "Requests"
+msgstr "请求"
+
+msgid "Require valid Two-Step Authentication Code to login to this account."
+msgstr "需要有效的两步验证代码才能登录到此账号。"
+
+msgid "Required field"
+msgstr "必填字段"
+
+msgid "Reseller"
+msgstr "分销商"
+
+msgid "Reseller Bandwidth"
+msgstr "分销者带宽"
+
+msgid "Reseller History"
+msgstr "分销商历史"
+
+msgid "Reseller package with such name exists already and will be overwritten."
+msgstr "具有此名称的分销套餐已存在, 将被覆盖。"
+
+msgid "Reseller Plugins"
+msgstr "分销商插件"
+
+msgid "Reseller Quota"
+msgstr "分销商限额"
+
+msgid "Reseller Skin owned by %{ owner }"
+msgstr "由 %{ owner } 拥有的分销者界面皮肤"
+
+msgid "Reseller Statistics"
+msgstr "分销商统计"
+
+msgid "Reseller Stats"
+msgstr "分销者统计"
+
+msgid "Reseller Tools"
+msgstr "分销者工具"
+
+msgid "Reseller: %{ creator }"
+msgstr "分销者: %{ creator }"
+
+msgid "Reseller: %{ username }"
+msgstr "分销者: %{ username }"
+
+msgid "Reseller: %{ username } and %{ nusers } user"
+msgid_plural "Reseller: %{ username } and %{ nusers } users"
+msgstr[0] "销售商: %{ username } 和 %{ nusers } 个用户"
+
+msgid "Reseller(s)"
+msgstr "经销商"
+
+msgid "Resellers"
+msgstr "分销者"
+
+msgid "Resellers Count"
+msgstr "经销商数量"
+
+msgid "Resend"
+msgstr "重新发送"
+
+msgid "Resend Welcome E-mail"
+msgstr "重新发送欢迎电子邮件"
+
+msgid "Resend welcome email"
+msgstr "重新发送欢迎电子邮件"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Reset all"
+msgstr "重置全部"
+
+msgid "Reset All"
+msgstr "重置全部"
+
+msgid "Reset count of IP/User failed attempts"
+msgstr "重置IP/用户尝试失败计数"
+
+msgid "Reset Defaults"
+msgstr "复位默认值"
+
+msgid "Reset Owner"
+msgstr "重置所有者"
+
+msgid "Reset Owner Recursive"
+msgstr "重置所有者"
+
+msgid "Reset to default"
+msgstr "重置为默认值"
+
+msgid "Reset to defaults"
+msgstr "重置为默认值"
+
+msgid "Reset to enhanced"
+msgstr "重置为增强"
+
+msgid "Reset Today"
+msgstr "今日重置"
+
+msgid "Resetting the defaults will wipe any custom entries you have made."
+msgstr "重置为默认值将会清除所有自定义项目。"
+
+#, fuzzy
+msgid "Resource limits"
+msgstr "分销者上限"
+
+msgid "Resource Limits"
+msgstr "资源限制"
+
+msgid "Responder Address:"
+msgstr "自动回复地址："
+
+msgid "Responder Message:"
+msgstr "自动回复信息："
+
+msgid "Restart"
+msgstr "重新启动"
+
+msgid "Restart Application"
+msgstr "重启应用程序"
+
+msgid "Restart DirectAdmin"
+msgstr "重启DirectAdmin"
+
+msgid "Restarting now..."
+msgstr "正在重启..."
+
+msgid "Restore"
+msgstr "还原"
+
+msgid "Restore Backup"
+msgstr "恢复备份"
+
+msgid "Restore Options"
+msgstr "还原选项"
+
+msgid "Restore to partition"
+msgstr "还原到分区"
+
+msgid "Restore with local NameServers."
+msgstr "使用本地NameServer恢复。"
+
+msgid "Restore with SPF values from backup."
+msgstr "使用备份中的SPF参数恢复。"
+
+msgid "Restrict Post"
+msgstr "限制 Post"
+
+msgid "Result: %{ name }"
+msgstr "结果：%{ name }"
+
+msgid "Retries"
+msgstr "重试"
+
+msgid "Retry"
+msgstr "重试"
+
+msgid "Retry Now"
+msgstr "现在重试"
+
+msgid "Rewrite Apache"
+msgstr "重写 Apache"
+
+#, fuzzy
+msgid "RGB Value"
+msgstr "值"
+
+msgid "Roles"
+msgstr "角色"
+
+msgid "Root"
+msgstr "根目录"
+
+#, fuzzy
+msgid "Root Password"
+msgstr "远程密码"
+
+msgid "Route"
+msgstr "路由"
+
+msgid "Routes"
+msgstr "路由"
+
+msgid "Rows:"
+msgstr "行:"
+
+msgid "Rspamd spam filtering system"
+msgstr "垃圾邮件过滤系统"
+
+msgid "Ruby"
+msgstr "Ruby"
+
+msgid "Rule ID"
+msgstr "规则 ID"
+
+msgid "Run import"
+msgstr "运行导入"
+
+msgid "Run Now"
+msgstr "立即运行"
+
+msgid "Run on @reboot"
+msgstr "在 @reboot 时运行"
+
+msgid "Run System Backup"
+msgstr "运行系统备份"
+
+msgid "Running"
+msgstr "正在运行"
+
+#, fuzzy
+msgid "Sa"
+msgstr "周六"
+
+msgid "Safe"
+msgstr "安全"
+
+msgid "Safe Mode"
+msgstr "安全模式"
+
+msgid "Same as database name"
+msgstr "与数据库名称相同"
+
+msgid "Same as domain"
+msgstr "与域名相同"
+
+msgid "Same as Main account"
+msgstr "与主帐号相同"
+
+msgid "Sample Cron commands:"
+msgstr "定时任务命令样本："
+
+msgid "Sat"
+msgstr "周六"
+
+msgid "Saturation"
+msgstr "饱和度"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save changes"
+msgstr "保存更改"
+
+msgid "Save Comments"
+msgstr "保存注释"
+
+msgid "Save E-mail"
+msgstr "保存电子邮件"
+
+msgid "Save File"
+msgstr "保存文件"
+
+msgid "Save File As..."
+msgstr "保存文件为..."
+
+msgid "Save for all PHP versions"
+msgstr "保存所有PHP版本"
+
+msgid "Save Limit Notice"
+msgstr "保存限制通知"
+
+msgid "Save Name"
+msgstr "保存名称"
+
+msgid "Save Name Servers"
+msgstr "保存NS服务器"
+
+msgid "Scan directory to detect malware and other malicious threats."
+msgstr "扫描目录以检测恶意软件和其他恶意威胁。"
+
+msgid "Scan for WordPress attacks"
+msgstr "扫描 WordPress 攻击"
+
+msgid "Scan Path"
+msgstr "扫描路径"
+
+msgid "Schedule"
+msgstr "计划"
+
+msgid "Schedule Backup"
+msgstr "计划备份"
+
+#, fuzzy
+msgid "scheduled backup"
+msgstr "已计划的备份"
+
+msgid "Scheduled Backups"
+msgstr "已计划的备份"
+
+msgid "Scratch Code"
+msgstr "临时代码"
+
+msgid "Scratch Codes"
+msgstr "Scratch 代码"
+
+msgid ""
+"Scratch Codes are one-time use codes in case you don't have your phone, so "
+"keep them safe."
+msgstr ""
+"如果手机不在身边，可以使用一次性的Scratch Code来代替Authenticator "
+"App生成的号码。请妥善保管Scratch Code。"
+
+msgid "Script"
+msgstr "脚本"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search criteria in here…"
+msgstr "在这里输入搜索…"
+
+msgid "Search domain name"
+msgstr "搜索子域名"
+
+#, fuzzy
+msgid "Search For"
+msgstr "搜索"
+
+msgid "Search menu entries..."
+msgstr "搜索菜单项..."
+
+msgid "Search Results"
+msgstr "搜索结果"
+
+msgid "Search settings"
+msgstr "搜索设置"
+
+msgid "second"
+msgstr "秒"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "seconds %s through %s past the minute"
+msgstr "分钟后 %s 到 %s 秒"
+
+msgid "seconds after the last attempt"
+msgstr "秒自最后一次尝试"
+
+msgid "Secret"
+msgstr "密钥"
+
+msgid "SecRuleEngine"
+msgstr "SecRuleEngine"
+
+msgid "Secure FTP"
+msgstr "安全FTP"
+
+msgid "Secure Socket Layer (SSL)"
+msgstr "安全套接字层（SSL）"
+
+msgid "Secure SSL"
+msgstr "安全SSL"
+
+msgid "Security Question"
+msgstr "安全问题"
+
+msgid "Security Questions"
+msgstr "安全问题"
+
+msgid "Security Settings"
+msgstr "安全设置"
+
+msgid "Seek should be smaller than %{ size }"
+msgstr "寻找应该小于 %{ size }"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select All Domains"
+msgstr "选择全部域名"
+
+msgid "Select all files"
+msgstr "选择所有文件"
+
+msgid "Select all rows"
+msgstr "选择全部行"
+
+msgid "Select at least one file to remove"
+msgstr "至少选择一个要删除的文件"
+
+msgid "Select backup files to restore."
+msgstr "选择要恢复的备份文件。"
+
+msgid "Select category for plugins"
+msgstr "选择插件的类别"
+
+msgid "Select color scheme"
+msgstr "选择配色方案"
+
+msgid "Select data you would like to backup."
+msgstr "选择要备份的数据。"
+
+msgid "Select Database"
+msgstr "选择数据库"
+
+msgid "Select directory for backups."
+msgstr "选择用于备份的目录。"
+
+msgid "Select directory for restore."
+msgstr "选择要恢复的目录。"
+
+msgid "Select domains to backup"
+msgstr "选择要备份的域名"
+
+msgid "Select file to upload"
+msgid_plural "Select files to upload"
+msgstr[0] "选择要上传的文件"
+
+msgid "Select files to archive"
+msgstr "选择存档文件"
+
+msgid "Select files to extract..."
+msgstr "选择要解压的文件..."
+
+msgid "Select files to overwrite..."
+msgstr "选择要覆盖的文件..."
+
+msgid "Select IP address or User to filter results"
+msgstr "选择IP或者用户来进行筛选"
+
+msgid "Select IP address used for restore."
+msgstr "选择用于恢复的IP地址。"
+
+msgid "Select IP to Add"
+msgstr "选择要添加的IP"
+
+msgid "Select IP to filter results"
+msgstr "选择IP以筛选结果"
+
+msgid "Select language mode"
+msgstr "选择语言模式"
+
+msgid "Select log file"
+msgstr "选择日志文件"
+
+msgid "Select log file to view"
+msgstr "选择要查看的日志文件"
+
+msgid "Select None"
+msgstr "全部不选"
+
+msgid "Select Path"
+msgstr "选择路径"
+
+msgid "Select Plugins Category"
+msgstr "选择插件类别"
+
+msgid "Select Reseller"
+msgstr "选择分销者"
+
+msgid "Select row"
+msgstr "选择行"
+
+msgid "Select the domain to change and enter its new value"
+msgstr "选择要修改的域名并输入新的值"
+
+msgid "Select time period for backup."
+msgstr "选择备份的时间段。"
+
+msgid "Select username to filter results"
+msgstr "选择用户名以筛选结果"
+
+msgid "Select Users"
+msgstr "选择用户"
+
+msgid "Select users you would like to backup."
+msgstr "选择需要备份的用户。"
+
+msgid "Select Virtual Environment Path"
+msgstr "选择虚拟环境路径"
+
+msgid "Select your searching criteria:"
+msgstr "选择您的搜索条件:"
+
+msgid "Selected creators and their users"
+msgstr "选定的创建者及其用户"
+
+msgid "Selected Creators and their users"
+msgstr "选定的创建者及其用户"
+
+msgid "Selected Creators and their Users"
+msgstr "选定的创建者及其用户"
+
+msgid "Selected Data"
+msgstr "所选数据"
+
+msgid "Selected Domains"
+msgstr "选定域名"
+
+msgid "Selected entries count: %{n}"
+msgstr "所选条目数: %{n}"
+
+msgid "selected skin"
+msgid_plural "selected skins"
+msgstr[0] "选中的皮肤"
+
+msgid "selected users"
+msgstr "选中的用户"
+
+msgid "Selected users"
+msgstr "选中的用户"
+
+msgid "Selected Users"
+msgstr "所选用户"
+
+msgid "Selected Users:"
+msgstr "选中的用户："
+
+msgid "Selected:"
+msgstr "已选择："
+
+msgid "Selection"
+msgstr "选择"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Send a CC to:"
+msgstr "转寄至："
+
+msgid "Send a message"
+msgstr "发送消息"
+
+msgid "Send a Message"
+msgstr "发送消息"
+
+msgid "Send a message when a backup has finished."
+msgstr "备份完成后发送消息。"
+
+msgid "Send all Cron output to e-mail"
+msgstr "将所有 cron 输出发送到邮箱"
+
+msgid "Send another message"
+msgstr "发送另一条消息"
+
+msgid "Send Count"
+msgstr "发送次数"
+
+msgid "Send E-mail Notification"
+msgstr "发送邮件通知"
+
+#, fuzzy
+msgid "Send Message"
+msgstr "发送消息"
+
+msgid "Send the spam to the user's spam folder"
+msgstr "将垃圾邮件发送到用户的垃圾邮件文件夹"
+
+msgid "Send to spambox"
+msgstr "发送到垃圾邮件框"
+
+msgid "Send To:"
+msgstr "发送至:"
+
+msgid "Sender"
+msgstr "发件人"
+
+msgid "Sender Host"
+msgstr "发件人主机"
+
+msgid "Sends"
+msgstr "发送"
+
+msgid "Sent"
+msgstr "已发送"
+
+msgid "Sent E-mails"
+msgstr "已发送邮件"
+
+msgid "Sep"
+msgstr "9月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "server"
+msgid_plural "server"
+msgstr[0] "服务器"
+
+msgid "Server Error: %{ message }"
+msgstr "服务器错误：%{ message }"
+
+#, fuzzy
+msgid "Server failed to connect to the remote repository"
+msgstr "无法连接到远程主机"
+
+msgid "Server History"
+msgstr "服务器历史"
+
+#, fuzzy
+msgid "Server Hostname"
+msgstr "服务器主机名"
+
+msgid "Server Manager"
+msgstr "服务器管理"
+
+msgid "Server Path"
+msgstr "服务器路径"
+
+msgid "Server Settings"
+msgstr "服务器设置"
+
+msgid "Server Statistics"
+msgstr "服务器统计"
+
+msgid "Server was successfully rebooted"
+msgstr "服务器已成功重新启动"
+
+msgid "Server wide"
+msgstr "全服务器"
+
+msgid "Server's Hostname"
+msgstr "服务器主机名"
+
+msgid "Service"
+msgstr "服务"
+
+msgid "Service Monitor"
+msgstr "服务监测"
+
+msgid "Service was reloaded successfully"
+msgstr "服务已成功重新加载"
+
+msgid "Service was restarted successfully"
+msgstr "服务已成功重新启动"
+
+msgid "Service was started successfully"
+msgstr "服务已成功启动"
+
+msgid "Service was stopped successfully"
+msgstr "服务已停止"
+
+msgid "Services"
+msgstr "服务"
+
+msgid "Session Timeout (minutes)"
+msgstr "会话超时（分钟）"
+
+msgid "Set as default"
+msgstr "设为默认"
+
+msgid "Set Catch All E-mail"
+msgstr "设置抓取所有电子邮件"
+
+msgid "Set Category"
+msgstr "设置分类"
+
+msgid "Set default default layout and configure layout options"
+msgstr "设置默认布局和配置布局选项"
+
+msgid "Set E-mail"
+msgstr "设置电子邮件"
+
+msgid "Set Global"
+msgstr "全局设置"
+
+msgid "Set IP To"
+msgstr "将IP设置为"
+
+msgid "Set Language"
+msgstr "设置语言"
+
+msgid "Set limit"
+msgstr "设置上限"
+
+msgid "Set Limit"
+msgstr "设置上限"
+
+msgid "Set Local Mail"
+msgstr "设置本地邮件"
+
+msgid "Set maximum values reseller could set for his users."
+msgstr "设置分销商可以为其用户设置的最大值。"
+
+msgid "Set Package to"
+msgstr "变更套餐为"
+
+msgid "Set Password (optional)"
+msgstr "设置密码（可选）"
+
+msgid "Set Permissions"
+msgstr "设置权限"
+
+msgid "Set Remote Mail"
+msgstr "设置远程邮件"
+
+msgid "Set selected domain to be publicly viewable."
+msgid_plural "Set selected domains to be publicly viewable"
+msgstr[0] "将选定域名设置为公开可见。"
+
+msgid "Set the Name servers that will be assigned to new users"
+msgstr "设置将分配给新用户的名称服务器"
+
+msgid "Set up your own CSS styles for Evolution"
+msgstr "为 Evolution 设置自己的 CSS 样式"
+
+msgid "Set Vacation Message"
+msgstr "设置假期消息"
+
+msgid "Set/Update User"
+msgstr "设置/更新用户"
+
+msgid "Setting"
+msgstr "设置"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Setup your Databases"
+msgstr "设置数据库"
+
+msgid "Shade"
+msgstr "阴影"
+
+msgid "Shades"
+msgstr "阴影"
+
+msgid "Share"
+msgstr "共享"
+
+msgid "Share Server IP"
+msgstr "使用服务器共享IP"
+
+msgid "Shared"
+msgstr "共享"
+
+msgid "Shared CSS"
+msgstr "共享 CSS"
+
+msgid "Shared CSS Styles (would be applied to all layouts)"
+msgstr "共享 CSS 样式（将应用于所有布局）"
+
+msgid "Shell Access (SSH)"
+msgstr "Shell 权限 (SSH)"
+
+msgid "Should be a valid IP Address"
+msgstr "应为有效IP地址"
+
+msgid "Should be a valid port number"
+msgstr "应为有效端口号码"
+
+msgid "Should be larger than zero"
+msgstr "应大于0"
+
+msgid "Should be valid domain"
+msgstr "应为有效域名"
+
+msgid "Should be valid domain name"
+msgstr "应为有效域名"
+
+msgid "Should be valid email"
+msgstr "应为有效邮箱"
+
+msgid "Should be valid email address"
+msgstr "应为有效邮箱地址"
+
+msgid "Should be valid IP Address"
+msgstr "应为有效IP地址"
+
+msgid "Should be valid netmask"
+msgstr "应为有效掩码"
+
+msgid "Should be valid URL"
+msgstr "应为有效URL"
+
+msgid "Should not contain spaces"
+msgstr "不应包含空格"
+
+msgid "Should not contain special characters"
+msgstr "不应包含特殊字符"
+
+#, fuzzy
+msgid "Should start with a forward slash \"/\""
+msgstr "应该以斜线“ /”开头"
+
+#, fuzzy
+msgid "Should start with a forward slash &quot;/&quot;"
+msgstr "应该以斜线“ /”开头"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show %{ count } Results"
+msgstr "显示 %{ count } 个结果"
+
+msgid "Show %{ linesCount } lines"
+msgstr "显示 %{ linesCount } 行"
+
+msgid "Show Activity widget"
+msgstr "显示活动小部件"
+
+msgid "Show additional configuration"
+msgstr "显示附加配置"
+
+msgid "Show Additional Info"
+msgstr "显示附加信息"
+
+msgid "Show all accounts"
+msgstr "显示所有帐号"
+
+msgid "Show All Users"
+msgstr "显示所有用户"
+
+msgid "show all..."
+msgstr "显示详细信息..."
+
+msgid "Show as:"
+msgstr "显示为："
+
+msgid "Show As:"
+msgstr "显示为："
+
+msgid "Show closed"
+msgstr "显示关闭"
+
+msgid "Show Details"
+msgstr "显示详细信息"
+
+msgid "Show domains that"
+msgstr "显示符合如下条件的域名"
+
+msgid "Show Domains that"
+msgstr "显示符合如下条件的域名"
+
+msgid "Show Empty"
+msgstr "显示空"
+
+msgid "Show entire file"
+msgstr "显示整个文件"
+
+msgid "Show files as..."
+msgstr "显示文件为..."
+
+msgid "Show folders tree"
+msgstr "显示文件夹树"
+
+msgid "Show folders tree for faster navigation."
+msgstr "显示文件夹树以加快导航速度。"
+
+msgid "Show Info"
+msgstr "显示信息"
+
+msgid "Show Search"
+msgstr "显示搜索"
+
+msgid "Show search dialog (Ctrl + F)"
+msgstr "显示搜索对话框 (Ctrl + F)"
+
+msgid "Show Services"
+msgstr "显示服务"
+
+msgid "Show settings"
+msgstr "显示设置"
+
+msgid "Show Settings"
+msgstr "显示设置"
+
+msgid "Show Usage From:"
+msgstr "显示以下来源的用量:"
+
+msgid "Show Users"
+msgstr "显示用户"
+
+msgid "Show whole file"
+msgstr "显示整个文件"
+
+msgid "Showing"
+msgstr "显示"
+
+msgid "Sidebar"
+msgstr "侧边栏"
+
+msgid "Sign In as user"
+msgstr "以用户身份登录"
+
+msgid "Sign In to Webmail"
+msgstr "登录到 Webmail"
+
+msgid "Sign your Zone"
+msgstr "签名你的区域"
+
+msgid "Signed"
+msgstr "已签名"
+
+msgid "Single Target"
+msgstr "单个目标"
+
+msgid "Site Backup"
+msgstr "站点备份"
+
+msgid "Site Redirection"
+msgstr "网站重定向"
+
+msgid "Site Redirects"
+msgstr "网站重定向"
+
+msgid "Site Summary / Statistics / Logs"
+msgstr "站点摘要 / 统计 / 日志"
+
+msgid "Site URL"
+msgstr "网站URL"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Skin"
+msgstr "风格"
+
+msgid "Skin has been updated"
+msgstr "皮肤已更新"
+
+msgid "Skin Manager"
+msgstr "皮肤管理"
+
+msgid "Skin Name"
+msgstr "皮肤名称"
+
+msgid "Skin Options"
+msgstr "皮肤选项"
+
+msgid "Skin Owner"
+msgstr "皮肤所有者"
+
+msgid "Skins"
+msgstr "皮肤"
+
+msgid "Skip"
+msgstr "跳过"
+
+msgid "Skip all"
+msgstr "跳过所有"
+
+msgid "Skip all existing files"
+msgstr "跳过所有已存在文件"
+
+msgid "Skip IP"
+msgstr "跳过IP"
+
+msgid "Skip List"
+msgstr "跳过列表"
+
+msgid "Skip Rule"
+msgstr "跳过规则"
+
+msgid "Skip Rule: %{ rule }"
+msgstr "跳过规则: %{ rule }"
+
+msgid "Skip Suspended"
+msgstr "跳过暂停"
+
+msgid "Skipped IPs / Users"
+msgstr "跳过的IP/用户"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Small icons"
+msgstr "小图标"
+
+msgid "SMTP Log"
+msgstr "SMTP 日志"
+
+msgid "SNI Host"
+msgstr "SNI 主机"
+
+msgid "SNI Hosts"
+msgstr "SNI 主机"
+
+msgid "SoftFail"
+msgstr "软故障"
+
+msgid "Some files was not added due to max files size limit"
+msgstr "一些文件因超过大小限制，未被添加"
+
+msgid "Sorry, but the page you are looking for can't be found."
+msgstr "对不起，无法找到您正查阅的网页。"
+
+msgid ""
+"Sorry, it seems that there are no backups created yet. Would you like to "
+"create one?"
+msgstr "对不起, 似乎还没有创建备份。需要创建一个吗？"
+
+msgid ""
+"Sorry, it seems that there are no reseller packages created yet. Would you "
+"like to create one?"
+msgstr "对不起，似乎还没有创建分销者套餐。 需要创建一个吗？"
+
+msgid ""
+"Sorry, it seems that there are no user packages created yet. Would you like "
+"to create one?"
+msgstr "对不起，似乎还没有用户套餐。需要创建一个吗？"
+
+msgid "Sort"
+msgstr "排序"
+
+msgid "Sort this column ascending"
+msgstr "按升序对此列进行排序"
+
+msgid "Sort this column descending"
+msgstr "按降序对此列进行排序"
+
+msgid "Source"
+msgstr "来源"
+
+msgid "Source Domain"
+msgstr "源域名"
+
+msgid ""
+"Source domain name has been automatically converted to punycode format. "
+"Punycode is used to encode internationalized domain names (IDN) by "
+"converting Unicode characters to ASCII."
+msgstr ""
+"源域名已自动转换为 punycode 格式。Punycode 用于通过将 Unicode 字符转换为 "
+"ASCII 来编码国际化域名 (IDN)。"
+
+msgid "Source domain name punycoded"
+msgstr "源域名 (punycode转码过的格式)"
+
+msgid "Source Email"
+msgstr "源电子邮件"
+
+msgid "Source Server"
+msgstr "源服务器"
+
+msgid "Spam"
+msgstr "垃圾箱"
+
+msgid "SPAM Filters"
+msgstr "垃圾邮件过滤器"
+
+msgid "SpamAssassin"
+msgstr "垃圾邮件过滤器"
+
+msgid "SpamAssassin is not currently enabled."
+msgstr "SpamAssassin未启用。"
+
+msgid "Spamassassin Setup"
+msgstr "SpamAssassin配置"
+
+msgid "SpamAssassin Setup"
+msgstr "SpamAssassin配置"
+
+msgid "Spare"
+msgstr "空间"
+
+msgid "Speed"
+msgstr ""
+
+msgid "Speed up WordPress by using nginx cache plugin (Pro Pack)"
+msgstr ""
+
+msgid "SSH"
+msgstr "SSH"
+
+msgid "SSH Access"
+msgstr "SSH 权限"
+
+msgid "SSH Access for Users"
+msgstr "用户的SSH权限"
+
+msgid "SSH Keys"
+msgstr "SSH 密钥"
+
+msgid "SSH server is not cPanel server"
+msgstr "SSH 服务器不是 cPanel 服务器"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "SSL Access"
+msgstr "SSL权限"
+
+msgid "SSL CA Certificate"
+msgstr "SSL CA 证书"
+
+msgid "SSL Certificates"
+msgstr "SSL 证书"
+
+msgid "SSL Connection"
+msgstr "SSL连接"
+
+msgid "SSL is currently disabled for this domain"
+msgstr "此域名的SSL已被停用"
+
+msgid "SSL Management"
+msgstr "SSL管理"
+
+msgid "Stage"
+msgstr "阶段"
+
+msgid "Standalone Nginx"
+msgstr "独立 Nginx"
+
+msgid "Standard"
+msgstr "标准"
+
+msgid "Standard layout default menu type"
+msgstr "标准布局默认菜单类型"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Start Export Migration"
+msgstr "开始导出迁移"
+
+msgid "Start Import Migration"
+msgstr "开始导入迁移"
+
+msgid "Start migration"
+msgstr "开始迁移"
+
+msgid "Start searching"
+msgstr "开始搜索"
+
+msgid "Start time"
+msgstr "开始时间"
+
+msgid "Start Time"
+msgstr "开始时间"
+
+msgid "Started"
+msgstr "已启动"
+
+msgid "Started At"
+msgstr "开始于"
+
+msgid "Starts With"
+msgstr "开头为"
+
+msgid "State"
+msgstr "状态"
+
+msgid "State/Province"
+msgstr "州份/省份"
+
+msgid "Static Content Path"
+msgstr "静态内容路径"
+
+msgid "Statistics for your Account"
+msgstr "当前账户统计信息"
+
+msgid "Stats"
+msgstr "统计"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Status & Disabled Rules"
+msgstr "状态和已禁用规则"
+
+msgid "Status:"
+msgstr "状态："
+
+msgid "Step 1: From Where"
+msgstr "第1步：选择备份"
+
+msgid "Step 1: Who"
+msgstr "第1步：选择用户"
+
+msgid "Step 2: Select IP"
+msgstr "第2步：选择IP"
+
+msgid "Step 2: When"
+msgstr "第2步：时间计划"
+
+msgid "Step 3: Select File(s)"
+msgstr "第3步：选择文件"
+
+msgid "Step 3: Where"
+msgstr "第3步：备份目标"
+
+msgid "Step 4: What"
+msgstr "第4步：备份内容"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Stop Migration"
+msgstr "停止迁移"
+
+msgid "Stop Task"
+msgstr "停止任务"
+
+msgid "Stop word"
+msgstr "停止词"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "stored in the backup"
+msgstr "存于备份中"
+
+msgid "Strict"
+msgstr "严格"
+
+msgid "Strip"
+msgstr "柱状图"
+
+msgid "Styles"
+msgstr "样式"
+
+msgid "Styles specific to \"%{layout}\" layout"
+msgstr "特定于“%{layout}”布局的样式"
+
+#, fuzzy
+msgid "Su"
+msgstr "周日"
+
+msgid "Sub-Domains"
+msgstr "子域名"
+
+msgid "Sub-Domains Setup"
+msgstr "子域名设置"
+
+msgid "subdomain"
+msgid_plural "subdomains"
+msgstr[0] "子域名"
+
+msgid "Subdomain"
+msgstr "子域名"
+
+msgid "Subdomain Lists"
+msgstr "子域名列表"
+
+msgid "Subdomain Management"
+msgstr "子域名管理"
+
+msgid "Subdomain Name"
+msgstr "子域名名称"
+
+msgid ""
+"Subdomain name has been automatically converted to punycode format. Punycode "
+"is used to encode internationalized domain names (IDN) by converting Unicode "
+"characters to ASCII."
+msgstr "域名已自动转换为 punycode 格式。Punycode 用于通过将 Unicode 字符转换为 ASCII "
+"来编码国际化域名 (IDN)。"
+
+msgid "Subdomain name punycoded"
+msgstr "已转化为punycode的子域名"
+
+msgid "Subdomain policy type"
+msgstr "子域策略类型"
+
+msgid "Subdomains"
+msgstr "子域名"
+
+msgid "SubDomains"
+msgstr "子域名"
+
+msgid "Subdomains Lists: Backs up the list of subdomains for each domain"
+msgstr "子域列表: 备份每个域名的子域名列表"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Subject Contains"
+msgstr "主题包含"
+
+msgid "Subject Prefix"
+msgstr "主题前缀"
+
+msgid "Subject:"
+msgstr "主题："
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Subscribe Policy"
+msgstr "订阅策略"
+
+msgid "subscriber"
+msgid_plural "subscribers"
+msgstr[0] "订阅者"
+
+msgid "Subscriber"
+msgstr "订阅者"
+
+msgid "Subscribers"
+msgstr "订阅者"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Sun"
+msgstr "周日"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "Support & Help"
+msgstr "支持和帮助"
+
+msgid "Support Center"
+msgstr "帮助中心"
+
+msgid "Suspend"
+msgstr "暂停"
+
+msgid "Suspend / Unsuspend"
+msgstr "暂停 / 取消暂停"
+
+msgid ""
+"Suspend a Reseller and their Users when the Reseller goes over their "
+"Bandwidth limit."
+msgstr "当分销者超过其带宽限制时, 暂停分销者及其用户。"
+
+msgid "Suspend at Limit"
+msgstr "暂停限制"
+
+msgid "Suspend user"
+msgstr "暂停用户"
+
+msgid "Suspended"
+msgstr "已暂停"
+
+msgid "Suspended on:"
+msgstr "暂停于："
+
+msgid "Suspended: %{ reason }"
+msgstr "已挂起: %{ reason }"
+
+msgid "Suspension Message"
+msgstr "暂停信息"
+
+msgid "Swap"
+msgstr "交换区"
+
+msgid "SWAP"
+msgstr ""
+
+#, fuzzy
+msgid "SWAP Memory Information"
+msgstr "内存信息"
+
+msgid "Swap:"
+msgstr "交换区:"
+
+#, fuzzy
+msgid "Switch to %{username}"
+msgstr "以 %{ username } 身份登录"
+
+msgid "Switch to Reseller Level Backups"
+msgstr "切换到转销商级别备份"
+
+msgid "Symbol"
+msgstr "符号"
+
+msgid "Symbol for dark mode"
+msgstr "黑暗模式符号"
+
+msgid "Syntax Error"
+msgstr "语法错误"
+
+msgid "System Apache Handlers"
+msgstr "系统Apache Handlers"
+
+msgid "System Backup"
+msgstr "系统备份"
+
+msgid "System Info"
+msgstr "系统信息"
+
+msgid "System Info & Files"
+msgstr "系统信息和文件"
+
+msgid "System Information"
+msgstr "系统信息"
+
+msgid "System Mime Types"
+msgstr "系统Mime类型"
+
+msgid "System Quotas"
+msgstr "系统配额"
+
+msgid "Tab for suggestion, Enter to change current path"
+msgstr "用于建议的选项卡，输入以更改当前路径"
+
+msgid "Table"
+msgstr "表格"
+
+msgid "Table Prefix"
+msgstr "表前缀"
+
+msgid "Tables"
+msgstr "表"
+
+msgid "Taboo Body"
+msgstr "Taboo Body"
+
+msgid "Taboo Headers"
+msgstr "Taboo Headers"
+
+msgid "Tail"
+msgstr "故障"
+
+msgid "Target"
+msgstr "目标"
+
+msgid "Target Domain"
+msgstr "目标域名"
+
+msgid "Targets"
+msgstr "目标"
+
+#, fuzzy
+msgid "Task"
+msgstr "任务列表"
+
+msgid "Tasks"
+msgstr "任务列表"
+
+msgid "Tasks:"
+msgstr "任务："
+
+msgid "Template"
+msgstr "模板"
+
+msgid "Template Diff"
+msgstr "模板差异"
+
+msgid "Template Diff: %{ name }"
+msgstr "模板差异： %{ name }"
+
+msgid "Template Tokens"
+msgstr "模板令牌"
+
+msgid "Templates"
+msgstr "模板"
+
+msgid "Temporary Bandwidth Increase"
+msgstr "临时带宽增加"
+
+msgid "Terminal"
+msgstr "终端"
+
+msgid "Test Code"
+msgstr "测试代码"
+
+msgid "Test Connection"
+msgstr "测试连接"
+
+msgid "Test your phone's code"
+msgstr "测试您的手机的代码"
+
+msgid "Text Wrap"
+msgstr "文本换行"
+
+msgid "Text-only attachments are used for increased safety."
+msgstr "仅使用文本附件以提高安全性。"
+
+#, fuzzy
+msgid "Th"
+msgstr "周四"
+
+msgid "Thaw"
+msgstr "解冻"
+
+msgid ""
+"The \"Apply to existing Domains\" option will trigger the httpd.conf "
+"rewrites and insert A/AAAA records into the local DNS zones. Disabling this "
+"checkbox won't touch the DNS or httpd.conf files, but future httpd.cont "
+"rewrites will have the linked IP added."
+msgstr ""
+"\"应用于现有域名\"选项将触发httpd.conf 重写并将A/AAAA记录插入本地的DNS区域。 "
+"禁用此复选框不会触摸DNS或 httpd.conf 文件，但将来的 httpd.conf "
+"重写将添加链接IP。"
+
+msgid ""
+"The \"From\" value set in the email header. This value should not be "
+"considered as accurate, as a sender can specify any value they wish."
+msgstr "邮件头中设置的“From”值。此值不应被认为是准确的，因为发件人可以指定他们想要的"
+"任何值。"
+
+msgid ""
+"The ALL_USER type commands are replaced with all commands the User is "
+"allowed, at that level."
+msgstr "ALL_USER类型命令被用户允许的所有命令所替换。"
+
+msgid "The App will show you a code, which you'll use to Login to DirectAdmin."
+msgstr "该应用程序将向您显示一个代码，您将使用该代码登录DirectAdmin。"
+
+msgid "The Complete 2020 Web and Development Bootcamp"
+msgstr ""
+
+msgid "The Complete Web Developer in 2021: Zero to Mastery"
+msgstr ""
+
+msgid "The e-mail containing your new password has been sent."
+msgstr ""
+
+msgid "The e-mail is dropped and completely ignored"
+msgstr "邮件被丢弃并完全忽略"
+
+msgid ""
+"The email limit is %{ limit }, but the User limit is %{override}, hence it "
+"is limited to %{override}."
+msgstr "电子邮件限制为 %{ limit }，但用户限制为 %{override}，所以它限制为 "
+"%{override}。"
+
+msgid "The format is the same as the E-mail Blocklist"
+msgstr "格式与电子邮件阻止邮件列表相同"
+
+msgid "the last day"
+msgstr "最后一天"
+
+msgid "The login username used will still be your normal DA username."
+msgstr "使用Key登陆时，登陆用户名与当前DA用户名相同。"
+
+#, fuzzy
+msgid "The path does not exists"
+msgstr "用户不存在"
+
+msgid "The path must not contain /../, /./ or //"
+msgstr ""
+
+msgid "The path must not end with /.., /. or /"
+msgstr ""
+
+msgid "The path must start with /domains/"
+msgstr ""
+
+msgid "The priorities for allow and deny are"
+msgstr "允许和拒绝的优先级是"
+
+msgid "The raw forwarders create action does not support multiple lines."
+msgstr "原始转发器创建操作不支持多行。"
+
+msgid ""
+"The send limit for %{ username } is %{limit} which overrides per-email limits"
+msgstr "%{ username } 的发送限制是 %{limit} ，它覆盖了每个电子邮件的限制"
+
+msgid "The sender is notified that the address doesn't exist"
+msgstr "发送者已收到地址不存在的通知"
+
+msgid "The SPF record for this domain replaces the current record."
+msgstr "此域名的SPF记录取代当前记录。"
+
+msgid ""
+"The SPF record has designated the host as NOT being allowed to send (reject)"
+msgstr "SPF 记录指定主机为不允许发送 (拒绝)"
+
+msgid ""
+"The SPF record has designated the host as NOT being allowed to send but is "
+"in transition (accept but mark)"
+msgstr "SPF 记录指定主机为不允许发送，但是正处于过渡期(接受但标记)"
+
+msgid ""
+"The SPF record specifies explicitly that nothing can be said about validity "
+"(accept)"
+msgstr "SPF记录明确规定，不能对有效性进行任何说明（接受）"
+
+msgid "The subdomains will be ignored if a wildcard is used."
+msgstr "如果使用通配符，子域名将被忽略。"
+
+msgid ""
+"The table lists the number of hits (failures) that occurred until that time. "
+"If you compare it to the previous hit, you'd get a total number of hits "
+"between these time periods. CPU column is an exception, it shows the "
+"percentage of total/throttled events."
+msgstr ""
+"该表列出了在此之前发生的命中（失败）次数。如果您将其与上一次点击进行比较，您"
+"将得到这些时间段之间的总点击数。CPU列是一个例外，它显示总/限制事件的百分比。"
+
+msgid "The very last entry."
+msgstr "最后一个条目."
+
+msgid "Theme Colors"
+msgstr "主题颜色"
+
+msgid "Theme:"
+msgstr "主题："
+
+msgid "There are no statistics for the domain yet"
+msgstr "此域名暂无统计信息"
+
+msgid "There is no accounts that can be imported"
+msgstr ""
+
+msgid "There is no default domain; you should start with creating one first"
+msgstr "无默认域名，请先创建一个"
+
+msgid "third"
+msgstr "第三"
+
+msgid ""
+"This action could cause domain resolution problems and cannot be undone. Are "
+"you sure you want to proceed?"
+msgstr "此操作可能导致域解析问题，无法撤消。您确定要继续吗？"
+
+msgid ""
+"This assumes your code is valid across all php versions. This will also "
+"overwrite any other custom code for other versions."
+msgstr "这假设您的代码在所有php版本中都有效。这也将覆盖其他版本的任何其他自定义代码。"
+
+msgid "This button will remove data learned by SpamAssassin."
+msgstr "此按钮将会移除SpamAssassin学习了的数据。"
+
+msgid "This could replace paid EV certificates"
+msgstr "这可以取代付费EV证书"
+
+msgid "This domain is controlled by the main domain for this User."
+msgstr "此域名由此用户的主域名控制。"
+
+msgid ""
+"This e-mail address will catch all improperly addressed mail (i.e. to a user "
+"that doesn't exist) to your site. This address may be your defaultusername@"
+"yourdomain.com, or any other email account you have created."
+msgstr ""
+"此电子邮件地址将捕获所有错误发送的邮件(即给不存在的用户)到您的网站。 "
+"此地址可能是您的默认用户名@yourdomain.com，或您创建的其他电子邮件账户。"
+
+msgid "This feature has been disabled. Please, contact your administrator."
+msgstr "此功能已被禁用。请与管理员联系。"
+
+msgid "This feature is not turned on."
+msgstr "此功能未启用。"
+
+msgid "This file is tagged as secure. Root password required to edit"
+msgstr "此文件被标记为 \"最高安全级\"。要编辑此文件需要提供Root密码"
+
+msgid "This folder is empty."
+msgstr "文件夹为空。"
+
+msgid "This is a Trial License of DirectAdmin"
+msgstr "这是DirectAdmin的试用许可证"
+
+msgid "This is internal login key and can not be modified or removed."
+msgstr ""
+
+msgid ""
+"This is the list of e-mail address that will be allowed through, regardless "
+"of content."
+msgstr "此白名单中的邮箱地址，无论内容为何，都将会被通过。"
+
+msgid "This is the list of e-mail address that will be blocked."
+msgstr "此黑名单中的邮箱地址将会被拦截。"
+
+msgid ""
+"This is the recommended option for the catch-all setting. Catch-all's will "
+"increase the server load due to spam, so having them disable is highly "
+"recommended unless you absolutely need the feature on."
+msgstr "这是通配设置的推荐选项。 全面加载会因垃圾邮件而增加服务器负载，因此强烈建议禁"
+"用它们，除非您绝对需要该功能。"
+
+msgid "This Month"
+msgstr "本月"
+
+msgid "This Month (excluding today)"
+msgstr "本月 (不包括今天)"
+
+msgid ""
+"This page lists all active mailbox migrations started with IMAPSync tool. "
+"New migration can be started with the action button."
+msgstr "此页列出了使用 IMAPSync "
+"邮箱迁移工具启动的所有活动邮箱。可以通过“操作”按钮开始新的迁移。"
+
+msgid "This path is already being scanned by ClamAV"
+msgstr "ClamAV 已经在扫描此路径"
+
+msgid ""
+"This will add IP addresses ranging from 111.111.111.111 to 111.111.111.114"
+msgstr ""
+
+msgid "Thu"
+msgstr "周四"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Ticket #"
+msgstr "工单 #"
+
+msgid "Ticket System Enabled"
+msgstr "已启用工单系统"
+
+msgid "Ticket System Settings"
+msgstr "工单系统设置"
+
+msgid "Tickets"
+msgstr "工单"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Time before failed login count resets"
+msgstr "到登录失败计数重置的时间"
+
+msgid "Timeout"
+msgstr "超时"
+
+msgid "Timeout (seconds)"
+msgstr "超时 (秒)"
+
+msgid "Timezone"
+msgstr "时区"
+
+msgid "Tiny icons"
+msgstr "小图标"
+
+msgid "Tips & Tricks"
+msgstr "提示与技巧"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "To"
+msgstr "至"
+
+msgid "To access a specific URL periodically use a command like:"
+msgstr "要定期访问特定 URL，请使用以下命令："
+
+msgid ""
+"To add a range of IP addresses, enter a dash after the last digit. For "
+"example:"
+msgstr ""
+
+msgid "To Trash"
+msgstr "到回收站"
+
+msgid ""
+"To use it, paste the Signed Certificate on \"Paste a pre-generated "
+"certificate and key\" tab and click \"Save\"."
+msgstr "若要使用它，请将签名证书粘贴到\"粘贴预生成的证书和密钥\"选项卡上，"
+"然后点击\"保存\"。"
+
+msgid ""
+"To use this feature, download the Google Authenticator App for your phone ("
+"or equivalent), and scan in the QR code."
+msgstr "若要使用此功能，请下载谷歌身份验证器应用程序用于您的手机，然后扫描二维码。"
+
+msgid "To:"
+msgstr "至："
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Toolbar placement"
+msgstr "工具栏放置"
+
+msgid "Top:"
+msgstr "顶部："
+
+msgid "Total"
+msgstr "总计"
+
+msgid "Total Disk Usage"
+msgstr "总磁盘使用率"
+
+msgid "Total Usage"
+msgstr "总使用量"
+
+msgid "Tracker stream was closed!"
+msgstr "跟踪器流已关闭！"
+
+msgid "Transmitted"
+msgstr "传输完成"
+
+msgid "Trash"
+msgstr "回收站"
+
+msgid "Trash Bin"
+msgstr "回收站"
+
+msgid "Trigger Retry for this Domain"
+msgstr "触发此域名重试"
+
+msgid "Try Again"
+msgstr "重试"
+
+msgid "TTL"
+msgstr "TTL"
+
+msgid "TTL is overriden globally. Changing this setting will have no effect."
+msgstr "TTL已全局override。修改这个设置将不会有效果。"
+
+msgid "TTL Value"
+msgstr "TTL值"
+
+#, fuzzy
+msgid "Tu"
+msgstr "周四"
+
+msgid "Tue"
+msgstr "周二"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Turn Off"
+msgstr "关闭"
+
+msgid "Turn On"
+msgstr "打开"
+
+msgid "Two-Step Authentication"
+msgstr "两步验证"
+
+msgid "TXT Record Type"
+msgstr "TXT记录类型"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type your reply here..."
+msgstr "在此处输入您的回复..."
+
+msgid "UID/GID"
+msgstr "UID/GID"
+
+msgid "Un-Install"
+msgstr "卸载"
+
+msgid "Un-Link"
+msgstr "取消链接"
+
+msgid "Un-Link IP Address"
+msgid_plural "Un-Link IP Addresses"
+msgstr[0] "取消链接 IP 地址"
+
+msgid "Un-Set Global"
+msgstr "取消全局设置"
+
+msgid ""
+"Unable to load the skin. Please contact tech support for troubleshooting."
+msgstr "无法加载主题，请联系技术支持进行故障排除。"
+
+msgid "Unable to reach network. Please check your internet connection."
+msgstr "无法访问网络。请检查您的互联网连接。"
+
+msgid "Unauthorized"
+msgstr "未经授权"
+
+msgid "unauthorized connections"
+msgstr "未经授权的连接"
+
+msgid "Unblock"
+msgstr "解除屏蔽"
+
+msgid "Unblock IP"
+msgid_plural "Unblock IPs"
+msgstr[0] "取消拦截IP"
+
+msgid ""
+"Unchecking will immediately delete the file from disk and cannot be recovered"
+msgstr "取消选中将立即从磁盘上删除该文件，无法恢复"
+
+msgid "Undo changes"
+msgstr "撤销更改"
+
+msgid "Unexpected database error"
+msgstr "意外的数据库错误"
+
+msgid "Unexpected error"
+msgstr "意外错误"
+
+#, fuzzy
+msgid "Unexpected Error"
+msgstr "意外错误"
+
+msgid "Unicode Tokens"
+msgstr "Unicode Tokens"
+
+msgid "Unit Applications"
+msgstr "单元应用程序"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown Error"
+msgstr "未知错误"
+
+msgid "Unlimited"
+msgstr "无限制"
+
+msgid "Unset publicly viewable statistics"
+msgstr "重置公开可见的统计信息"
+
+msgid "Unsubscribe Policy"
+msgstr "退订政策"
+
+msgid "Unsuspend"
+msgstr "取消暂停"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Channel"
+msgstr "更新频道"
+
+msgid "Update DirectAdmin"
+msgstr "更新DirectAdmin"
+
+msgid "Update disk usage"
+msgstr "更新磁盘使用情况"
+
+msgid "Update is scheduled"
+msgstr "已计划更新"
+
+msgid "Update List"
+msgstr "更新列表"
+
+msgid "Update Services List"
+msgstr "更新Services列表"
+
+msgid "Update Wordpress automatically when new version is detected"
+msgstr "检测到新版本时自动更新 Wordpress"
+
+msgid ""
+"Update Wordpress automatically, but only to minor releases (when major "
+"version does not change)"
+msgstr "自动更新 Wordpress，但仅限于次要版本（主要版本不变时）"
+
+msgid "Update Wordpress manually"
+msgstr "手动更新 Wordpress"
+
+msgid "Updated"
+msgstr "已更新"
+
+msgid "Updated:"
+msgstr "已更新："
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Updating now..."
+msgstr "正在更新中..."
+
+msgid "Upload"
+msgstr "上传"
+
+msgid "Upload Backup"
+msgstr "上传备份"
+
+msgid "Upload completed. Processing uploaded file"
+msgstr "上传完成。正在处理上传的文件"
+
+msgid "Upload files"
+msgstr "上传文件"
+
+msgid "Upload Files"
+msgstr "上传文件"
+
+msgid "Upload Icon"
+msgstr "上传图标"
+
+msgid "Upload In Progress"
+msgstr "上传进行中"
+
+msgid "Upload Method:"
+msgstr "上传方式:"
+
+msgid "Upload Skin"
+msgstr "上传皮肤"
+
+msgid "Upload your own icons for Evolution"
+msgstr "上传您自己的 Evolution 图标"
+
+msgid "Upload your own logos / symbols"
+msgstr "上传你自己的LOGO/符号"
+
+msgid "Uploaded %{ progress } of %{ size }"
+msgstr "已上传 %{ progress } 中的 %{ size }"
+
+msgid "Uploading: %{ uploaded } of %{ total }"
+msgstr "正在上传: %{ uploaded } / %{ total }"
+
+msgid "Uptime"
+msgstr "运行时间"
+
+msgid "Url"
+msgstr "Url"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Usage"
+msgstr "用量"
+
+msgid "Usage log"
+msgstr "用量日志"
+
+msgid "Usage Log"
+msgstr "使用日志"
+
+msgid "Usage Statistics"
+msgstr "用量统计"
+
+msgid "Usage Statistics for %{device}"
+msgstr "%{device}的使用率统计信息"
+
+msgid "Usage, logs and statistics"
+msgstr "使用情况、日志和统计信息"
+
+msgid "Use a CA Cert"
+msgstr "使用 CA 证书"
+
+msgid "Use a custom document root for this subdomain"
+msgstr ""
+
+msgid "Use a directory named private_html"
+msgstr "使用名为private_html的目录"
+
+msgid ""
+"Use a symbolink link from private_html to public_html - allows for same data "
+"in http and https"
+msgstr "使用从 private_html 到 public_html 的软链接，让http和https里的数据同步"
+
+msgid "Use attachments."
+msgstr "使用附件。"
+
+msgid "Use existing"
+msgstr "使用现有的"
+
+msgid "Use local SPF values."
+msgstr "使用本地 SPF 值。"
+
+msgid "Use NS values from backup."
+msgstr "使用备份中的NS值。"
+
+msgid "Use RBL Blocking"
+msgstr "使用 RBL 阻断"
+
+msgid "Use Remote Transfer"
+msgstr "使用远程传输"
+
+msgid "Use text-only attachments."
+msgstr "使用纯文本附件。"
+
+msgid "Use the | charter for separation."
+msgstr "使用 | 作为分隔符。"
+
+msgid "Use the best match certificate"
+msgstr "使用最佳匹配证书"
+
+msgid "Use the IP"
+msgstr "使用IP"
+
+msgid "Use the IP stored in the backup"
+msgstr "使用在备份文件中指定的 IP"
+
+msgid ""
+"Use the server\\'s shared signed certificate. With this setting, DirectAdmin "
+"will automatically manage your certificates."
+msgstr "使用服务器\\共享签名证书。通过此设置，DirectAdmin将自动管理您的证书。"
+
+msgid ""
+"Use this server to handle my e-mails. If not, change the MX records and "
+"uncheck this option."
+msgstr "使用此服务器来处理我的电子邮件。如果没有，更改MX记录并取消选中此选项。"
+
+msgid "Used"
+msgstr "已使用"
+
+msgid ""
+"Used to trigger the auto-creation of certificate on a pre-existent host."
+msgstr "用于在预先存在的主机上触发自动创建证书。"
+
+msgid "Useful Links"
+msgstr "实用链接"
+
+msgid "user"
+msgid_plural "users"
+msgstr[0] "用户"
+
+msgid "User"
+msgstr "用户"
+
+msgid "User Accounts"
+msgstr "用户帐户"
+
+msgid "User already exists"
+msgstr "用户已存在"
+
+msgid "User authentication failure"
+msgstr "用户身份验证失败"
+
+msgid "User Bandwidth"
+msgstr "用户带宽"
+
+msgid "User can set limit per E-mail"
+msgstr "用户可以设置每个邮箱的限制"
+
+msgid "User Check"
+msgstr "用户检测"
+
+msgid "User does not exist"
+msgstr "用户不存在"
+
+msgid "User History"
+msgstr "用户历史"
+
+msgid "User Home"
+msgstr "用户主目录"
+
+msgid "User is using non system skin"
+msgstr ""
+
+msgid "User Level"
+msgstr "用户等级"
+
+msgid "User Limit"
+msgstr "用户限制"
+
+msgid "User list & Password Reset"
+msgstr "用户列表和密码重置"
+
+#, fuzzy
+msgid "User Options"
+msgstr "Key 选项"
+
+msgid "user package"
+msgid_plural "user packages"
+msgstr[0] "用户套餐"
+
+msgid "User Package"
+msgstr "用户套餐"
+
+#, fuzzy
+msgid "User Packages"
+msgstr "用户套餐"
+
+#, fuzzy
+msgid "User password changed successfully"
+msgstr "用户密码已更改"
+
+msgid "User Plugins"
+msgstr "用户插件"
+
+msgid "User Quota"
+msgstr "用户配额"
+
+msgid "User SSH"
+msgstr "用户 SSH"
+
+msgid "User Statistics"
+msgstr "用户统计"
+
+msgid "User Suspended"
+msgstr "用户已暂停"
+
+msgid "User Type"
+msgstr "用户类型"
+
+msgid "User(s)"
+msgstr "用户"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Username / E-Mail"
+msgstr "用户名 / 电子邮件"
+
+msgid ""
+"Username has been automatically converted to punycode format. Punycode is "
+"used to encode internationalized domain names (IDN) by converting Unicode "
+"characters to ASCII."
+msgstr ""
+"用户名已自动转换为 punycode 格式。Punycode 用于通过将 Unicode 字符转换为 "
+"ASCII 来编码国际化域名 (IDN)。"
+
+msgid "Username is too long"
+msgstr "用户名过长"
+
+msgid "Username or password is incorrect"
+msgstr "用户名或密码不正确"
+
+msgid "Username punycoded"
+msgstr "用户名 (已经punycode转码)"
+
+msgid "Username:"
+msgstr "用户名:"
+
+msgid "Username/Email"
+msgstr "用户名/电子邮件"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Users under your control"
+msgstr "此账户下的用户"
+
+msgid "Users:"
+msgstr "用户："
+
+msgid "Uses 2 IP's, domain uses one of them"
+msgstr "给用户分配 2 个IP, 域名使用其中之一"
+
+msgid "Uses 3 IP's, domain gets own IP"
+msgstr "给用户分配 3 个IP, 域名独立使用其中之一"
+
+msgid "Vacation Account"
+msgstr "休假账户"
+
+msgid "Vacation Account:"
+msgstr "假期账户:"
+
+msgid "Vacation End"
+msgstr "假期结束"
+
+#, fuzzy
+msgid "vacation message"
+msgstr "假期消息"
+
+#, fuzzy
+msgid "Vacation message succesffully created!"
+msgstr "账号已成功删除"
+
+#, fuzzy
+msgid "Vacation message succesffully modified!"
+msgstr "账号已成功删除"
+
+#, fuzzy
+msgid "Vacation message successfully deleted!"
+msgstr "账号已成功删除"
+
+msgid "Vacation Message:"
+msgstr "假期消息:"
+
+msgid "Vacation Messages"
+msgstr "休假消息"
+
+msgid "Vacation Messages: Includes all vacation messages and times."
+msgstr "假期信息：包括所有假期信息和时间。"
+
+msgid "Vacation Start"
+msgstr "假期开始"
+
+msgid "Valid"
+msgstr "有效"
+
+msgid "Valid Cron time values are the numbers indicated and *."
+msgstr "有效的 Cron 时间值是表示的数字和 *。"
+
+msgid "Valid until"
+msgstr "有效期至"
+
+msgid ""
+"Valid values are an E-mail address, your DA username: admin, or a blank "
+"field to prevent any e-mail."
+msgstr "有效值是一个电子邮件地址，您的 DA "
+"用户名：admin，或空白字段以防止任何电子邮件。"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Version"
+msgstr "版本"
+
+#, fuzzy
+msgid "version information"
+msgstr "当前的登录信息"
+
+msgid "Version: %{version}"
+msgstr "版本：%{版本}"
+
+#, fuzzy
+msgid "Versions"
+msgstr "版本"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "View"
+msgstr "视图"
+
+msgid "View / Delete Blocked IPs"
+msgstr "查看/删除被拦截的IP"
+
+msgid "View %{id}"
+msgstr "查看 %{id}"
+
+msgid "View All"
+msgstr "查看全部"
+
+msgid "View All Available Tokens"
+msgstr "查看所有可用的Tokens"
+
+msgid "View As..."
+msgstr "查看..."
+
+msgid "View current backups"
+msgstr "查看当前备份"
+
+msgid "View Database"
+msgstr "查看数据库"
+
+msgid "View Domain Configuration"
+msgstr "查看域名配置"
+
+msgid "View Error Log for %{ domain }"
+msgstr "查看 %{ domain } 的错误日志"
+
+msgid "View Last Backup Log"
+msgstr "查看最近一次的备份日志"
+
+msgid "View Log"
+msgstr "查看日志"
+
+msgid "View Log Item"
+msgstr "查看日志项目"
+
+msgid "View Log: %{ log }"
+msgstr "查看日志: %{ log }"
+
+msgid "View Mailing List"
+msgstr "查看邮件列表"
+
+msgid "View more"
+msgstr "查看详情"
+
+msgid "View Options"
+msgstr "查看选项"
+
+msgid "View Processes"
+msgstr "查看进程"
+
+msgid "View Protected Directory"
+msgstr "查看受保护的目录"
+
+msgid "View Queue Item"
+msgstr "查看队列项目"
+
+msgid "View RAW"
+msgstr "查看 RAW"
+
+msgid "View Reseller"
+msgstr "查看分销者"
+
+msgid "View Reseller: %{ user }"
+msgstr "查看分销者：%{ user }"
+
+msgid "View Statistic Reports"
+msgstr "查看统计日志"
+
+msgid "View Sub-Domain Log"
+msgstr "查看子域名日志"
+
+msgid "View Sub-Domain Stats"
+msgstr "查看子域名统计信息"
+
+msgid "View Subdomain Log"
+msgstr "查看子域名日志"
+
+msgid "View Ticket: #%{ number }"
+msgstr "查看工单: #%{ number }"
+
+msgid "View Ticket: #%{ ticket }"
+msgstr "查看工单: #%{ ticket }"
+
+msgid "View Usage Log for %{ domain }"
+msgstr "查看 %{ domain } 的使用率日志"
+
+msgid "View User"
+msgstr "查看用户"
+
+msgid "Virtual"
+msgstr "虚拟"
+
+msgid "Virtual Environment Path (Optional)"
+msgstr "虚拟环境路径(可选)"
+
+msgid "Virtual Slice Size"
+msgstr ""
+
+msgid "VPS Only"
+msgstr "仅 VPS"
+
+msgid "Warn Admin's at"
+msgstr "在以下情况通知管理员"
+
+msgid "Warning"
+msgstr "警告"
+
+#, fuzzy
+msgid "We"
+msgstr "周三"
+
+msgid "Webalizer"
+msgstr "Webalizer"
+
+msgid "Webapp"
+msgstr "Webapp"
+
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+msgid "Webmail:"
+msgstr "Webmail："
+
+msgid "Webmail: Roundcube"
+msgstr "Webmail：Roundcube"
+
+msgid "Webmail: Squirrelmail"
+msgstr "Webmail：Squirrelmail"
+
+msgid "Webmail: UebiMiau"
+msgstr "Webmail：UebiMiau"
+
+msgid "Website Data"
+msgstr "网站数据"
+
+msgid "Wed"
+msgstr "周三"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Week Start"
+msgstr "一周始于"
+
+msgid "weekday nearest day %s"
+msgstr "工作日最近的第 %s 天"
+
+msgid "Weight"
+msgstr "权重"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Welcome Message"
+msgstr "欢迎信息"
+
+msgid "What score threshold do you wish to use?"
+msgstr "您想使用什么分数阈值？"
+
+msgid "What:"
+msgstr "什么："
+
+msgid "When"
+msgstr "当"
+
+msgid "When enabled, this IP can be used by multiple Resellers"
+msgstr "启用时，此IP可以由多个销售商使用"
+
+msgid ""
+"When restoring a Reseller or Admin, if you select an IP from the list, that "
+"Reseller will only receive the single IP. You would need to add extra IPs to "
+"that accounts IP list after he's created."
+msgstr "在还原分销或管理员时, 如果从列表中选择IP, 则该转销商将只获得单个IP。创建后, "
+"您需要在该帐户IP列表中添加额外的IP。"
+
+msgid ""
+"When this is set, the add link task is processed in the background via "
+"task.queue. It may take up to 1 minute before the processing starts, and an "
+"unknown amount of time, depending on the number of websites present."
+msgstr "设置后，添加链接任务将通过任务队列在后台处理。 "
+"处理开始前可能需要1分钟，时间不详，视网站数量而定。"
+
+msgid "Where"
+msgstr "在哪里"
+
+msgid "Where do you want the spam to go?"
+msgstr "你想要垃圾邮件到哪里？"
+
+msgid "Where:"
+msgstr "在哪里："
+
+msgid "Which Access"
+msgstr "哪个访问"
+
+msgid "Who"
+msgstr "谁"
+
+msgid "Who Access"
+msgstr "谁访问"
+
+msgid "Who:"
+msgstr "谁："
+
+msgid "Widget ID"
+msgstr "Widget ID"
+
+msgid "Widgets"
+msgstr "组件"
+
+msgid "Widgets Disabled"
+msgstr "部件已禁用"
+
+msgid "Wildcard"
+msgstr "通配符"
+
+msgid ""
+"Wildcard failure will automatically attempt an http based fallback request "
+"for all sub-hosts."
+msgstr "通配符失败将自动尝试所有子主机基于 http 的回退请求。"
+
+msgid "Wildcard:"
+msgstr "通配符:"
+
+msgid "Will be used for fast compression and downloads"
+msgstr "将用于快速压缩和下载"
+
+msgid "With Selected"
+msgstr "已选中"
+
+msgid "Wordpress"
+msgstr "Wordpress"
+
+msgid "WordPress Dashboard"
+msgstr "WordPress 仪表板"
+
+msgid "WordPress Database Modified successfully"
+msgstr "WordPress 数据库已成功修改"
+
+msgid ""
+"WordPress installation might overwrite existing files. Do you want to "
+"proceed?"
+msgstr "WordPress 安装可能会覆盖现有文件。你想继续吗？"
+
+msgid "WordPress installations"
+msgstr "WordPress 安装"
+
+msgid "WordPress installations with issues"
+msgstr "WordPress 安装有问题"
+
+#, fuzzy
+msgid "wordpress instance"
+msgstr "Wordpress 管理器"
+
+#, fuzzy
+msgid "Wordpress is already installed"
+msgstr "Wordpress 已经安装到根目录"
+
+msgid "Wordpress Manager"
+msgstr "Wordpress 管理器"
+
+msgid "WordPress Manager"
+msgstr "WordPress 管理器"
+
+#, fuzzy
+msgid "wordpress users"
+msgstr "WordPress 用户"
+
+msgid "Wordpress Users"
+msgstr "WordPress 用户"
+
+msgid "Workers"
+msgstr ""
+
+msgid "Working directory"
+msgstr "工作目录"
+
+msgid "Would you like to delete high scoring spam?"
+msgstr "您想要删除高分垃圾邮件吗？"
+
+msgid "Write"
+msgstr "写"
+
+msgid "Wrong format for a domain"
+msgstr "域名格式错误"
+
+msgid "Wrong format for a nameserver"
+msgstr "DNS服务器格式错误"
+
+msgid "Wrong IP format"
+msgstr "IP格式错误"
+
+msgid "Wrong username format"
+msgstr "用户名格式错误"
+
+msgid "Year:"
+msgstr "年："
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yes, block all spam scoring higher than:"
+msgstr "是的，阻止所有垃圾信息得分高于："
+
+msgid "Yes, set the subject to the following:"
+msgstr "是的，设定以下主题："
+
+msgid "You already have this IP on your system."
+msgstr "此IP已在系统内。"
+
+msgid "You are about to add the following widgets to your dashboard:"
+msgstr "将向面板中添加以下组件:"
+
+msgid ""
+"You are deleting admin that have users under control. If you proceed, these "
+"user accounts, along with ALL the associated website and email contents, "
+"which are not listed here, will also be removed."
+msgstr "您正在删除受用户控制的管理员。如果继续，这些用户帐户以及所有相关网站和电子邮"
+"件内容（此处未列出）也将被删除。"
+
+msgid ""
+"You are deleting reseller that have users under control. If you proceed, "
+"these user accounts, along with ALL the associated website and email "
+"contents, which are not listed here, will also be removed."
+msgid_plural ""
+"You are deleting resellers that have users under control. If you proceed, "
+"these user accounts, along with ALL the associated website and email "
+"contents, which are not listed here, will also be removed."
+msgstr[0] "您正在删除拥有用户控制的经销商，如果您继续，那么这些用户帐户以及所有相关的网"
+"站和电子邮件内容， 此处未列出的也将被删除。"
+
+msgid ""
+"You can combine them to create a more precise schedule. e.g. 1,5,11-15,30-59/"
+"2 (minutes 1, 5, 11 to 15 and every 2nd minute between 30 and 59)"
+msgstr "组合多条规则以创建更精确的计划，如：1,5,11-15,30-59/"
+"2（分钟数为：1，5，11到15之间的整数，30到59之间的双数）"
+
+msgid ""
+"You can specify exact times using commas to separate them. e.g. 1,2,3 ("
+"minutes 1,2 and 3)"
+msgstr "多条规则可用英语（半角）逗号分隔，如：1,2,3 （分钟数为：1，2，3）"
+
+msgid ""
+"You can specify intervals using a star and a forward slash. e.g. */2 (every "
+"2nd minute)"
+msgstr "时间间隔可用通配符和斜杠表示，如：*/2 （每2分钟）"
+
+msgid "You can specify spans using a dash. e.g. 5-7 (minutes 5 to 7)"
+msgstr "时间段可用横杠表示，如：5-7（分钟数为5-7之间的整数）"
+
+msgid ""
+"You deleted all of your domains. You should create one for full "
+"functionality."
+msgstr "您删除了您所有的域名。您应该为完整功能创建一个域名。"
+
+msgid "You have %{ n } unread ticket"
+msgid_plural "You have %{ n } unread tickets"
+msgstr[0] "您有%{ n }个未读工单"
+
+msgid ""
+"You have reached your license limits and could not create resellers anymore"
+msgstr "您已达到许可证限额，不能再创建经销商"
+
+msgid "You have reached your license limits and could not create users anymore"
+msgstr "您已达到许可证限制，无法再创建用户"
+
+msgid "You have visited this page %{n} time"
+msgid_plural "You have visited this page %{n} times"
+msgstr[0] "您已经访问了 %{n} 页"
+
+msgid ""
+"You must wait for the stats to be computed. This will only happen *after* "
+"logs exist (domain must resolve and be used)."
+msgstr "您必须等待统计数据被计算出来， "
+"这只会在日志存在后才会发生（必须解析并使用域名）。"
+
+msgid ""
+"You will send this text to a Certificate Authority and they will give you a "
+"Signed Certificate."
+msgstr "您将把这个文本发送给证书管理局，他们会给您签名的证书。"
+
+msgid "Your Account"
+msgstr "我的账号"
+
+msgid "Your account has been active since %{date}."
+msgstr "您的帐户自 %{date} 以来一直处于活动状态。"
+
+msgid "Your current login information"
+msgstr "当前的登录信息"
+
+msgid "Your domain is pointing to %{ip}."
+msgstr "您的域名指向 %{ip}。"
+
+msgid "Your Password:"
+msgstr "您的密码:"
+
+msgid "Zone Keys"
+msgstr "区域密钥"
+
+msgid "Zone keys are newer than the Zone Signing."
+msgstr "区域密钥比区域签名更新。"
+
+msgid "Zone Signing"
+msgstr "区域签名"
+
+msgid "Zone Transfer"
+msgstr "区域传输"
+
+msgid "Zone-Signing Key"
+msgstr "Zone-签名密钥"
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "All admin commands"
+msgstr "所有域名"
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "All reseller commands"
+msgstr "所有经销商"
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "All user commands"
+msgstr "可用的Tokens"
+
+msgctxt "cmd-description"
+msgid "Check and run admin maintenance tasks"
+msgstr ""
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "Check DirectAdmin version, change update channel, trigger DA update"
+msgstr "DirectAdmin 版本和更新"
+
+msgctxt "cmd-description"
+msgid "Create and manage user login keys, replacement for CMD_LOGIN_KEYS"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "Create and manage user owned git repositories"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "Downloading email account configuration for Apple devices (iOS/MacOS)"
+msgstr ""
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "E-Mail Summary reports"
+msgstr "电子邮件摘要"
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "E-Mail Tracking reports"
+msgstr "电子邮件跟踪"
+
+msgctxt "cmd-description"
+msgid "Execute arbitrary commands on behalf of the user, API only"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "Import user accounts from remote cPanel server over SSH"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "Install, update, remove and reconfigure software managed by CustomBuild"
+msgstr ""
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "Make Evolution customizations"
+msgstr "登录自定义"
+
+msgctxt "cmd-description"
+msgid "Make login page (global) Evolution customizations"
+msgstr ""
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "Manage email vacation messages"
+msgstr "字段太长"
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "Manage WordPress installations"
+msgstr "WordPress 安装"
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "Restart DirectAdmin service"
+msgstr "重启DirectAdmin"
+
+msgctxt "cmd-description"
+msgid "Start on-demand ClamAV scans of user owned directories"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "Start web terminal with user shell"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "Start/stop user owned Redis instance, replacement for CMD_REDIS command"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "Sync local and external mailboxes over IMAP"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid ""
+"Tool for converting reseller account to user account, used by the "
+"reseller_to_user.sh script"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid ""
+"Tool for converting user account to reseller account, used by the "
+"user_to_reseller.sh script"
+msgstr ""
+
+msgctxt "cmd-description"
+msgid "View general system and system services information"
+msgstr ""
+
+#, fuzzy
+msgctxt "cmd-description"
+msgid "View licensing information"
+msgstr "当前的登录信息"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Actions"
+msgstr "操作"
+
+msgctxt "custombuild"
+msgid "Active command:"
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Application"
+msgstr "应用"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Available Version"
+msgstr "可用版本"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Bad Request: %{ message }"
+msgstr "错误请求：%{ message }"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Build"
+msgstr "自定义"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Build Software"
+msgstr "软故障"
+
+msgctxt "custombuild"
+msgid "Check and update existing software components."
+msgstr ""
+
+msgctxt "custombuild"
+msgid "Check logs from the last CustomBuild executions."
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Clear"
+msgstr "清除"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Close"
+msgstr "关闭"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Compilation"
+msgstr "编译于"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Current Version"
+msgstr "当前服务器版本"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Custom script removed"
+msgstr "自定义项目"
+
+msgctxt "custombuild"
+msgid "Custom script saved"
+msgstr ""
+
+msgctxt "custombuild"
+msgid "Custom version removed"
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Custom version saved"
+msgstr "自定义错误页面"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Custombuild"
+msgstr "自定义"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "CustomBuild"
+msgstr "自定义"
+
+msgctxt "custombuild"
+msgid ""
+"CustomBuild installation is running in the background. Please do not reboot "
+"the server and avoid adding new users or domains."
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Customize"
+msgstr "定制"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Customize Compilation"
+msgstr "自定义配置"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Customize Compilation Scripts"
+msgstr "自定义配置"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Customize Versions"
+msgstr "自定义皮肤"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Date"
+msgstr "日期"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Default Value: %{ default }"
+msgstr "默认值"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Delete Log"
+msgstr "删除"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Description"
+msgstr "描述"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Edit"
+msgstr "编辑"
+
+msgctxt "custombuild"
+msgid "Edit CustomBuild options.conf and php_extentions.conf files."
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Edit Options"
+msgstr "编辑保护"
+
+msgctxt "custombuild"
+msgid "Execute miscellaneous CustomBuild actions."
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Failed to load log"
+msgstr "字段太长"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "File"
+msgstr "文件"
+
+msgctxt "custombuild"
+msgid "File Size"
+msgstr "文件尺寸"
+
+msgctxt "custombuild"
+msgid "Install or rebuild new software components."
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Last command:"
+msgstr "上次登录："
+
+msgctxt "custombuild"
+msgid "Main"
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "custombuild"
+msgid "No log specified"
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Options"
+msgstr "选项"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Other"
+msgstr "其他"
+
+msgctxt "custombuild"
+msgid "Override latest software versions."
+msgstr ""
+
+msgctxt "custombuild"
+msgid "Override software compilation configuration."
+msgstr "覆盖软件编译配置。"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "PHP Extensions"
+msgstr "扩展"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Plugin logs"
+msgstr "插件"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Plugin Logs"
+msgstr "插件"
+
+msgctxt "custombuild"
+msgid "Queued command: %{command}"
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Remove"
+msgstr "删除"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Remove all"
+msgstr "删除文件"
+
+msgctxt "custombuild"
+msgid "Remove longer used software components."
+msgstr ""
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Remove Software"
+msgstr "移除转发器"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Save"
+msgstr "保存"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Settings"
+msgstr "设置"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Settings saved"
+msgstr "设置"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Software"
+msgstr "软故障"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Update"
+msgstr "更新"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Update all"
+msgstr "更新频道"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Update Software"
+msgstr "更新数据库"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Updates"
+msgstr "更新"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Updates Software"
+msgstr "更新数据库"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Version"
+msgstr "版本"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Versions"
+msgstr "版本"
+
+#, fuzzy
+msgctxt "custombuild"
+msgid "Web Applications"
+msgstr "应用"
+
+#, fuzzy
+msgctxt "login-page"
+msgid "Account disabled"
+msgstr "帐户已禁用"
+
+msgctxt "login-page"
+msgid "Authenticate"
+msgstr "验证"
+
+msgctxt "login-page"
+msgid "Back to the login page"
+msgstr "返回登录页面"
+
+#, fuzzy
+msgctxt "login-page"
+msgid "Blacklisted"
+msgstr "登录＞黑名单"
+
+msgctxt "login-page"
+msgid "Code"
+msgstr "代码"
+
+msgctxt "login-page"
+msgid "Code from E-mail"
+msgstr "来自电子邮件的代码"
+
+msgctxt "login-page"
+msgid "Dark Mode"
+msgstr "黑暗模式"
+
+msgctxt "login-page"
+msgid ""
+"Enter your Username and a confirmation link will be sent to your email "
+"account."
+msgstr "输入您的用户名，将发送确认链接到您的电子邮件帐户。"
+
+msgctxt "login-page"
+msgid "Expired license"
+msgstr "许可证已过期"
+
+msgctxt "login-page"
+msgid "Follow system mode"
+msgstr "跟随系统模式"
+
+#, fuzzy
+msgctxt "login-page"
+msgid "Forbidden"
+msgstr "禁止"
+
+msgctxt "login-page"
+msgid "Forgot Password?"
+msgstr "忘记密码？"
+
+msgctxt "login-page"
+msgid "Get the code from your phone's app, or use a backup scratch code."
+msgstr "从手机的应用程序中获取代码，或使用备份暂存代码。"
+
+msgctxt "login-page"
+msgid "Given key is suitable for API calls only"
+msgstr "指定密钥仅适用于API调用"
+
+msgctxt "login-page"
+msgid "Hmm, login details do not seem to be correct. Please try again."
+msgstr "嗯，登录详细信息似乎不正确。请重试。"
+
+msgctxt "login-page"
+msgid "Light Mode"
+msgstr "亮色模式"
+
+msgctxt "login-page"
+msgid "Log In using your username and code from E-mail"
+msgstr "使用您的用户名和电子邮件中的代码登录"
+
+msgctxt "login-page"
+msgid "Logged in.."
+msgstr "已登录.."
+
+#, fuzzy
+msgctxt "login-page"
+msgid "Login"
+msgstr "登录"
+
+#, fuzzy
+msgctxt "login-page"
+msgid "Lost password"
+msgstr "远程密码"
+
+msgctxt "login-page"
+msgid "Password"
+msgstr "密码"
+
+msgctxt "login-page"
+msgid "Please enter username"
+msgstr "请输入用户名"
+
+msgctxt "login-page"
+msgid "Please enter your password"
+msgstr "请输入密码"
+
+msgctxt "login-page"
+msgid "Request New Password"
+msgstr "重设新密码"
+
+msgctxt "login-page"
+msgid "Send me a Link"
+msgstr "给我发个链接"
+
+msgctxt "login-page"
+msgid "Sign in"
+msgstr "登录"
+
+msgctxt "login-page"
+msgid "Submit Answer"
+msgstr "提交答案"
+
+msgctxt "login-page"
+msgid "Trial License"
+msgstr "试用许可证"
+
+msgctxt "login-page"
+msgid "Trust this device for %{ days } days"
+msgstr "信任此设备 %{ days } 天"
+
+msgctxt "login-page"
+msgid "Two Step Authentication"
+msgstr "两步验证"
+
+msgctxt "login-page"
+msgid "Username"
+msgstr "用户名"
+
+msgctxt "login-page"
+msgid "Wrong answer to security question"
+msgstr "错误的安全问题答案"
+
+msgctxt "login-page"
+msgid "Wrong two factor authentication code"
+msgstr "错误的双因素身份验证代码"
+
+msgctxt "login-page"
+msgid "Your account is disabled"
+msgstr "帐户已禁用"
+
+msgctxt "login-page"
+msgid "Your IP is blacklisted"
+msgstr "您的IP被列入黑名单"
+
+msgctxt "mysql_privs"
+msgid "Alter"
+msgstr "修改"
+
+msgctxt "mysql_privs"
+msgid "Alter Routine"
+msgstr "改变常规"
+
+msgctxt "mysql_privs"
+msgid "Create"
+msgstr "创建"
+
+msgctxt "mysql_privs"
+msgid "Create Routine"
+msgstr "创建 Routine"
+
+msgctxt "mysql_privs"
+msgid "Create tmp tables"
+msgstr "创建tmp表"
+
+msgctxt "mysql_privs"
+msgid "Create View"
+msgstr "创建视图"
+
+msgctxt "mysql_privs"
+msgid "Delete"
+msgstr "删除"
+
+msgctxt "mysql_privs"
+msgid "Drop"
+msgstr "删除"
+
+msgctxt "mysql_privs"
+msgid "Event"
+msgstr "事件"
+
+msgctxt "mysql_privs"
+msgid "Execute"
+msgstr "执行"
+
+msgctxt "mysql_privs"
+msgid "Grant"
+msgstr "授予"
+
+msgctxt "mysql_privs"
+msgid "Index"
+msgstr "索引"
+
+msgctxt "mysql_privs"
+msgid "Insert"
+msgstr "插入"
+
+msgctxt "mysql_privs"
+msgid "Lock Tables"
+msgstr "锁定表"
+
+msgctxt "mysql_privs"
+msgid "Reference"
+msgstr "参考"
+
+msgctxt "mysql_privs"
+msgid "Select"
+msgstr "选择"
+
+msgctxt "mysql_privs"
+msgid "Show View"
+msgstr "显示视图"
+
+msgctxt "mysql_privs"
+msgid "Trigger"
+msgstr "触发"
+
+msgctxt "mysql_privs"
+msgid "Update"
+msgstr "更新"
